@@ -14,13 +14,13 @@ body, #quarto-content
 }
 
 .quarto-title-banner{
-  background-image: url("pawel-czerwinski-unsplash.jpg") !important;
+  background-image: url("img/pawel-czerwinski-unsplash.jpg") !important;
 
 }
 
 .quarto-title::before {
   content: '';
-  background:url('FAU_WiSo.svg');
+  background:url('img/FAU_WiSo.svg');
   width: 100% ;
   height: 20%/* height of the image */;
   display: block;  

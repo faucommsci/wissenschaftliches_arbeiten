@@ -15,8 +15,7 @@ number-depth: 4
 toc: true
 toc-depth: 3
 toc-location: left
-logo: "FAU_WiSo.svg"
-theme: theme.scss
+theme: theme/theme.scss
 ---
 
 ## Allgemeine Hinweise
