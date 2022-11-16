@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+h2:not(#toc-title) {
+  text-align: center;
+}
+
+h4
+{
+  font-style: italic;
+}
+
+body, #quarto-content
+{
+  line-height: 2 !important;
+}
+
+.quarto-title-banner{
+  background-image: url("pawel-czerwinski-unsplash.jpg") !important;
+
+}
+
+.quarto-title::before {
+  content: '';
+  background:url('FAU_WiSo.svg');
+  width: 100% ;
+  height: 20%/* height of the image */;
+  display: block;  
+  background-position: center;
+  //background-image: none !important;
+  //background-color: #cccccc !important;
+  //padding-left: 22.5%;
+  //background-size: 22.5% !important;
+  background-repeat: no-repeat !important;
+  filter: drop-shadow(1px 1px 5px rgb(0 0 0 / 1));
+  ;
+}
+.quarto-title {
+  padding-bottom: 7.5% !important;
+  text-shadow: 1px 1px 5px rgb(0 0 0 / 1);
+}
+
+.title {
+  padding-top: 1.25%;
+}
+
+li p {
+  margin-block-end: 0 !important;
+}
+
