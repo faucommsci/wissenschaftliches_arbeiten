@@ -20,7 +20,7 @@ format:
     include-in-header: theme/scripts.html
     link-external-icon: True
     link-external-newwindow: True
-    link-external-filter: '(^#.*| faucommsci.github.com*)'
+    link-external-filter: '^(?:http|https):\/\/commsci.github.com'
 
 editor: visual
 date: "Letztes Update: `r Sys.Date()`"
