@@ -1,5 +1,6 @@
-# Formalia
-
+---
+title: "Formalia"
+---
 ## Vorurteilsfreie Sprache
 
 ### Allgemeine Hinweise

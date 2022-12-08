@@ -1,22 +1,22 @@
-## Inhalte einer wissenschaftlichen Arbeit
+# Inhalte einer wissenschaftlichen Arbeit
 
 Wissenschaftliche Arbeiten können diverse Formate einnehmen. Die Struktur ist vom Gegenstand abhängig, häufig wird aber eine Struktur wie im Folgenden verwendet.
 
-### Gliederung
+## Gliederung
 
-#### Typische Gliederung
+### Typische Gliederung
 
 Insbesondere bei empirischen Arbeiten oder Literaturüberblicken wird die folgende typische Struktur verwendet. Abhängig von Inhalt und Art der Arbeit, ist es nötig, von diesem Schema abzuweichen.
 
 Ihre Gliederung sollte maximal drei Ebenen beinhalten. Kennzeichnen Sie diese numerisch, z. B. 1., 1.3, 1.4.2, etc. Für eine genauere Unterscheidung können Sie auf vierter Ebene eine Überschrift zu Beginn eines Absatzes (eingerückt) einbauen, indem Sie die Überschrift fett setzen und mit einem Punkt abschließen, z. B.:
 
 ::: box
-##### Wohlbefinden
+#### Wohlbefinden
 
 Wohlbefinden wird definiert als... \[Rest des Absatzes\]
 :::
 
-#### Beispielgliederung
+### Beispielgliederung
 
 Beispielgliederung auf erster Ebene einer empirischen Arbeit:
 
@@ -40,13 +40,13 @@ Beispielgliederung auf erster Ebene einer empirischen Arbeit:
 
 Im Folgenden wird auf die einzelnen Abschnitte der Arbeit eingegangen. Alle Abschnitte sollten sinnvoll ineinandergreifen (roter Faden).
 
-### Abstract
+## Abstract
 
 Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Leser\*innen ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftliches Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
 
 **Anforderungen**: Das Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englisches Abstract notwendig**.
 
-### Einleitung
+## Einleitung
 
 Zu Beginn einer wissenschaftlichen Arbeit sollte der Untersuchungsgegenstand dargestellt werden. Die Einleitung hat v.a. drei Ziele:
 
@@ -62,7 +62,7 @@ Jeder wissenschaftliche Text benötigt eine Einleitung.
 
 **Umfang**: ca. 5% des Gesamtumfangs
 
-### Hintergrund
+## Hintergrund
 
 Der Hintergrund bildet das theoretische Kernstück der Arbeit. Hier sollen bisherige Theorien/Konzepte/Modelle sowie der Kenntnisstand empirischer Forschung zur forschungsleitenden Frage aufgearbeitet werden.
 
@@ -72,7 +72,7 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 **Umfang**: ca. 20-40% (kleinerer Anteil bei empirischen, größerer Anteil bei theoretischen/literaturbasierten Arbeiten)
 
-### Methodik
+## Methodik
 
 Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet beispielsweise die transparente Darstellung von **Such-, Einschluss und Ausschlusskriterien** bei einem Literaturüberblick und die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehen**s bei empirischen Arbeiten.
 
@@ -80,7 +80,7 @@ Verwendete Materialien, z. B. Fragebögen, Code-Bücher oder Experimental-Stimul
 
 **Umfang**: ca. 15-30%
 
-### Ergebnisse
+## Ergebnisse
 
 Hier werden die Ergebnisse Ihrer Erhebung, Literaturrecherche, Interviews, etc. dargestellt. Üblicherweise wird hier noch keine Interpretation der Ergebnisse vorgenommen. Gerade bei nicht-quantitativen Arbeiten kann in manchen Fällen aber eine stärkere Integration mit Aspekten der Diskussion oder Theorie sinnvoll sein.
 
@@ -100,7 +100,7 @@ In Tabellen und Abbildungen können Sie signifikante Zusammenhänge oder Effekte
 
 **Umfang**: ca. 10-20%
 
-### Diskussion
+## Diskussion
 
 Hier sollten Sie 1) die Ergebnisse aufgreifen, 2) diese interpretieren und 3) in den Forschungskontext einordnen. Außerdem werden 4) Stärken und Schwächen der Arbeit 5) sowie Implikationen für zukünftige Forschung, die Praxis und/oder die Gesellschaft herausgearbeitet. Schließlich wird 6) ein Fazit gezogen.
 
@@ -108,7 +108,7 @@ Die Diskussion fügt alle zentralen Teile der Arbeit zusammen und bildet den Abs
 
 **Umfang**: ca. 10-20%
 
-### Anhang
+## Anhang
 
 In den Anhang gehören alle zusätzlichen Informationen, Materialien, etc. die zur Nachvollziehbarkeit oder zum Verständnis beitragen. Auch zusätzliche Informationen, wie weitere Analysen, oder Transkripte von Interviews, etc. gehören hierhin.
 

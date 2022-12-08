@@ -1,5 +1,8 @@
+---
+title: "Zitieren"
+number-depth: 2
+---
 
-# Zitieren
 
 Wir erwarten, dass Sie alle fremden Gedanken kennzeichnen. In der Wissenschaft stützen wir uns auf die „Schultern von Riesen", d.h. Sie sollten Ihre Arbeit auf bestehender Literatur aufbauen und vorherigen Leistungen "Credit geben". Die vorhandene wissenschaftliche Literatur zu nutzen, macht Ihre Arbeit theoretisch, inhaltlich und methodisch stärker.
 
