@@ -29,6 +29,6 @@ bibliography: references.bib
 
 ## Wissenschaftliches Arbeiten an Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft
 
-### Zu den Inhalten:
+### [Leitfaden für Wissenschaftliches Arbeiten](leitfaden_wissenschaftliches_arbeiten.html)
 
-[Leitfaden für Wissenschaftliches Arbeiten](leitfaden_wissenschaftliches_arbeiten.html)
+[Hier klicken für den Leitfaden für wissenschaftliches Arbeiten 🔗](leitfaden_wissenschaftliches_arbeiten.html)
