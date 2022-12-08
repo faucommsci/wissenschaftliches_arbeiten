@@ -137,7 +137,7 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 ### Deckblatt und Verzeichnisse
 
-Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt, [Link zu einer Beispielvorlage im .dotx-Format](templates/title_page_template.dotx))
+Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt, <a href = "templates/title_page_template.dotx"><span class = "download">Beispielvorlage im .dotx-Format herunterladen</span></a>)
 
 ![Beispieldeckblatt](img/vorlage_deckblatt.svg){#fig-vorlage_deckblatt fig-alt="Beispieldeckblatt für eine Seminararbeit am Lehrstuhl für Kommunikationswissenschaft. Das Deckblatt enthält Seminartitel, Semester, Name Dozent*in, Name Student*in, Matrikelnummer, Studiengang, Studiensemester, Anschrift, Telefonnummer, und E-Mail-Adresse." fig-align="center" width="66%"}
 
