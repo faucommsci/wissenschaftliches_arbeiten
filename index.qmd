@@ -1,34 +1,5 @@
----
-title: "Wissenschaftliches Arbeiten"
-subtitle: "an Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft"
-author: "Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft"
-title-block-banner: true
-#title-block-banner-color: "#041E42"
-format: 
-  html:
-    favicon: "img/logo.svg"
-    number-sections: False
-    toc: false
-    toc-depth: 3
-    theme: 
-      light:  [flatly, theme/theme.scss]
-      dark: [darkly, theme/theme.scss]
-    include-in-header: theme/scripts.html
-    link-external-icon: True
-    link-external-newwindow: True
-    link-external-filter: '^(?:http|https):\/\/faucommsci.github.io'
+# Preface {.unnumbered}
 
-editor: visual
-date: "Letztes Update: `r Sys.Date()`"
-date-format: "DD.MM.YYYY"
-published-title: "zuletzt aktualisiert:"
-lang: de
-csl: theme/apa.csl
-bibliography: references.bib
----
+This is a Quarto book.
 
-## Wissenschaftliches Arbeiten an Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft
-
-### [Leitfaden für Wissenschaftliches Arbeiten](leitfaden_wissenschaftliches_arbeiten.html)
-
-[Hier klicken für den Leitfaden für wissenschaftliches Arbeiten 🔗](leitfaden_wissenschaftliches_arbeiten.html)
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
