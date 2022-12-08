@@ -16,7 +16,7 @@ format:
     include-in-header: theme/scripts.html
     link-external-icon: True
     link-external-newwindow: True
-    link-external-filter: '^(?:http:|https:)\/\/www\.faucommsci\.github\.io'
+    link-external-filter: '^(?:http|https):\/\/faucommsci.github.io'
 
 editor: visual
 date: "Letztes Update: `r Sys.Date()`"
