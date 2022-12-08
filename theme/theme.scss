@@ -1,28 +1,112 @@
 /*-- scss:defaults --*/
+// colors
+//$body-bg: #ffffff !default;
+//$body-color: #000 !default;
+$link-color: #04316A !default;
+$link-color-dark: white !default;
+//$selection-bg: #C50F3C;
+
+/*-- scss:rules --*/
 h2:not(#toc-title) {
   text-align: center;
+  font-weight: bold;
 }
 
-h4
-{
+h3{
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bold;
   font-style: italic;
 }
+
+//setting up inline headings at level 4 (note each level is shifted becaue the title is at leve
+h5, h5 + p {
+  display: inline;
+}
+h5 {
+  font-weight: bold;
+  text-align:unset;
+  padding-left: 36px !important;
+
+}
+h5 .anchorjs-link {
+  display: none !important;
+  font-size: 0em !important; 
+  padding-left: 0 !important;
+} 
+h5::after{
+    content:".";
+    //width:10px;
+    //height:10px;
+    //border-radius:50%;
+    //background: #b83b3b;
+    //display:inline-block;
+}
+
+//auto-hyphenating tables to save space
+table {
+  hyphens: auto;
+  -webkit-hyphens: auto; //auto generating hyphens
+}
+
+
+
 
 body, #quarto-content
 {
   line-height: 2 !important;
 }
 
+
+// setting title banner to waves
 .quarto-title-banner{
   background-image: url("img/pawel-czerwinski-unsplash.jpg") !important;
+  background-size: cover !important;
 
 }
 
+// setting class for example boxes and apa citation examples
+.quote, .box, img {
+  background-color: #C0CBDA40 !important;
+  color: black !important;
+  margin-bottom: 2em;
+  border-radius: .25em;
+  padding: .75em;
+  border: 1pt solid #dedede;
+  text-align: left !important;
+  word-wrap:break-word;
+}
+.quote p {
+  margin-bottom: 0px !important;
+  text-indent: -3em !important;
+  padding-left: 3em !important;
+  display: block !important;
+}
+.quarto-dark .quote, .quarto-dark .box {
+  color: white !important;
+  background-color: #03132b40 !important;
+}
+
+.figure-img {
+  background-color: white !important;
+}
+
+//setting link-color in dark mode:
+.quarto-dark a {
+ color: #C0CBDA;
+}
+.quarto-dark a.external:after {
+  filter: invert(48%) sepia(100%) saturate(150%) hue-rotate(170deg) !important;
+}
+
+// styling the header
 .quarto-title::before {
   content: '';
   background:url('img/FAU_WiSo.svg');
   width: 100% ;
-  height: 20%/* height of the image */;
+  height: 4em/* height of the image */;
   display: block;  
   background-position: center;
   //background-image: none !important;
@@ -46,3 +130,24 @@ li p {
   margin-block-end: 0 !important;
 }
 
+
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+  color: #C50F3C  !important;
+  border-left-color: #041E42 !important;
+}
+
+.quarto-title-banner h1, .quarto-title-banner p {
+  color: white !important;
+}
+
+//align captions left
+caption {
+  text-align: left !important;
+}
+
+//creating formatting for table and image notes
+.notes {
+  font-size: smaller;
+}
+.notes::before {content: "Hinweis. "; font-weight: bold;}

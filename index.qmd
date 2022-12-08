@@ -1,0 +1,20 @@
+---
+title: "Wissenschaftliches Arbeiten"
+subtitle: "an Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft"
+author: "Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft"
+title-block-banner: true
+#title-block-banner-color: "#041E42"
+format: html
+editor: visual
+lang: de
+date: "Letztes Update: `r Sys.Date()`"
+date-format: "DD.MM.YYYY"
+published-title: "zuletzt aktualisiert:"
+theme: theme/theme.scss
+---
+
+## Wissenschaftliches Arbeiten an Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft
+
+### Zu den Inhalten:
+
+#### [Leitfaden für Wissenschaftliches Arbeiten](leitfaden_wissenschaftliches_arbeiten.html)
