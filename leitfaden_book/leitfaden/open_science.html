@@ -114,13 +114,13 @@ div.csl-indent {
  </a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/faucommsci/wissenschaftliches_arbeiten"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/faucommsci/wissenschaftliches_arbeiten"><i class="bi bi-github" role="img" aria-label="Source Code">
 </i> 
  </a>
   </li>  
   <li class="nav-item dropdown  compact">
     <a class="nav-link dropdown-toggle" href="#" id="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-      <i class="bi bi-download" role="img">
+      <i class="bi bi-download" role="img" aria-label="Download">
 </i> 
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="">    
@@ -163,7 +163,7 @@ div.csl-indent {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link">About</a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link">Willkommen</a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -349,6 +349,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return popup.innerHTML;
     });
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/^(?:http|https):\/\/faucommsci.github.io/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 <nav class="page-navigation">
@@ -366,7 +382,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-right">This book was built with <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-left">FAU Erlangen-Nürnberg, WiSo</div>   
+    <div class="nav-footer-right">Lehrstuhl &amp; Juniorprofessur für Kommunikationswissenschaft</div>
   </div>
 </footer>
 
