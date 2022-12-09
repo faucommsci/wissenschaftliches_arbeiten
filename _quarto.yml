@@ -11,7 +11,7 @@ book:
   date-format: "DD.MM.YYYY"
   
   downloads: [pdf, epub]
-  favicon: img/logo.svg
+  favicon: "img/logo.svg"
   repo-url: https://github.com/faucommsci/wissenschaftliches_arbeiten
   repo-actions: [issue]
   page-navigation: true
