@@ -1,0 +1,27 @@
+# Literaturrecherche
+
+Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich. Google Scholar listet eine große Menge an aktueller Fachliteratur sowie grauer Literatur. Fachspezifische Datenbanken, erreichbar Sie über DBIS der FAU, z. B. PsycInfo oder Scopus, können im jeweiligen Fachgebiet Literatur anhand von Schlagworten identifizieren. Für systematischere Suchen können mehrere Begriffe mit logischen Operatoren (z. B. AND, OR)[^2] verknüpft werden .
+
+[^2]: [Hier gibt es mehr Informationen zu logischen Operatoren in Datenbanken](https://libguides.mit.edu/c.php?g=175963&p=1158594).
+
+Hilfreiche Links:
+
+-   [DBIS (Database Information System)](https://ub.fau.de/recherchieren/datenbanken/)
+
+    -   PsycInfo
+
+    -   Web of Science
+
+    -   Scopus
+
+    -   ...
+
+-   [Google Scholar](https://scholar.google.com/)
+
+-   ...
+
+Außerdem können Sie...
+
+1.  ...aktuelle Artikel zu Ihrem Thema nutzen, um relevante Beiträge zu identifizieren (inkl. "*forward/citation search*"),
+2.  ...die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen nutzen, um relevante Literatur zu identifizieren,
+3.  ...zentrale oder bahnbrechende Arbeiten identifizieren und in Literatur suchen, die dieser Beitrag zitiert (*backward/references search*").

@@ -1,0 +1,68 @@
+project:
+  type: book
+
+book:
+  title: "Wissenschaftliches Arbeiten"
+  author: "Lehrstuhl | Juniorprofessur für Kommunikationswissenchaft"
+  date: "last-modified"
+  date-format: "DD.MM.YYYY"
+  
+  downloads: [pdf, epub]
+  favicon: img/logo.svg
+  repo-url: https://github.com/faucommsci/wissenschaftliches_arbeiten
+  repo-actions: [issue]
+  page-navigation: true
+
+  page-footer:
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+
+  navbar:
+    logo: img/fau_rw_white.png
+    background: "#04316a"
+    foreground: "#E6002E"
+    search: true
+    collapse: true
+    border: true
+
+    right:
+      - icon: house
+        href: https://www.kowi.rw.fau.de/
+        aria-label: Home
+      - icon: house-fill
+        href: https://www.kommunikationswissenschaft.rw.fau.de/
+
+
+
+  chapters:
+    - index.qmd
+    - part: Leitfaden
+      chapters:
+        - 01-allgemeine_hinweise.qmd
+        - 02-abschlussarbeit.qmd
+        - 03-formalia.qmd
+        - 04-inhalte.qmd
+        - 05-literaturrecherche.qmd
+        - 06-open_science.qmd
+        - 07-zitieren.qmd
+        - 08-literatur.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+  
+
+
+
+

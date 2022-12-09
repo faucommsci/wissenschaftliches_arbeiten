@@ -1,0 +1,37 @@
+---
+title: "Abschlussarbeiten"
+---
+
+![Ablauf einer Bachelorarbeit an Lehrstuhl und Juniorprofessur für Kommunikationswissenschaft](img/ablauf.svg){#fig-ablauf fig-align="center"}
+
+## Deadlines, Bewerbung, Vergabe der Themen
+
+Aktuelle Informationen zur Bewerbung, Themenvergabe, Anmeldung und Abgabe entnehmen Sie bitte der Website des [Lehrstuhls für Kommunikationswissenschaft]((https://www.kowi.rw.fau.de/studium/abschlussarbeiten/). In @fig-ablauf finden Sie einen Überblick über den Ablauf.
+
+## Exposé
+
+Bitte beachten Sie den Zeitplan auf unserer Website für die **Deadline zur Abgabe des Exposés**
+
+Nach den ersten Vorbesprechungen werden Sie gebeten, eine ausführlichere Projektskizze zum gemeinsam vereinbarten Thema zu erstellen und an Ihre Betreuungsperson zu senden. Ziel des Exposees ist es sicherzustellen, dass ein gemeinsames Verständnis von Umfang, Thema und Zielsetzung der Arbeit entsteht. Das Exposee ist die Grundlage Ihrer Arbeit und skizziert die weitere Ausarbeitung vor.
+
+Im Exposee erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammenhang das Thema steht, welche Aspekte und Unteraspekte das Thema hat, welche Forschungsperspektive Sie einnehmen möchten und welche Methode(n) zur Beantwortung der Forschungsfrage verwendet werden soll. Das Dokument sollte insgesamt **2-4 Seiten** Text (A4, gleiche Formatierung wie die Abschlussarbeit) umfassen und Folgendes beinhalten:
+
+-   Name, Matrikelnummer, Studiengang, Fachsemester, Kontaktdaten
+
+-   Arbeitstitel („Working Title")
+
+-   Ausgangslage, Beschreibung des Themenfeldes und Vorschlag einer Fragestellung (ca. 200 Wörter)
+
+-   Kurzer Forschungsstand (ca. 100 Wörter)
+
+-   Begründung für die Wahl des Themas, Relevanz, Erkenntnisinteresse (ca. 100 Wörter)
+
+-   Ziele, Forschungsfragen (Hypothesen)
+
+-   Evtl. Methodik
+
+-   Grobgliederung (maximal bis Gliederungsebene 2)
+
+-   Literaturliste (erste gesammelte Literatur, Basisliteratur)
+
+-   Grober Arbeits- und Zeitplan (Projektaktivitäten)

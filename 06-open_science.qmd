@@ -1,0 +1,5 @@
+## Open Science
+
+Im Rahmen von Open Science ermutigen wir Sie, Open-Science Praktiken umzusetzen, wenn diese angemessen sind, z. B. Ihre Analysen zu präregistrieren. Eine Präregistrierung schützt vor schlechten wissenschaftlichen Praktiken, z.B. p-Hacking und HARKing ("Hypothesizing after results are known") und kann Ihnen die Sicherheit geben, dass Ihre Hypothesen und Analysen schon vor dem Erhebungsbeginn feststehen. Es gibt verschiedene Formen der Präregistrierung. Bei der einfachsten Form sind Hypothesen/Forschungsfragen, gemessene und/oder manipulierte Variablen, Analysen (z. B. Regression, t-test, ANOVA), und geplante Stichprobengröße enthalten. Sie können [aspredicted.org](https://aspredicted.org) nutzen, um eine einfache Präregistrierung in Absprache mit der betreuenden Person Ihrer Bachelorarbeit zu erstellen.
+
+Für mehr Informationen gibt es die Agenda for Open Science in Communication [@dienlin2021]

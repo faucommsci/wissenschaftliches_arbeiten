@@ -1,0 +1,92 @@
+---
+title: "Formalia"
+---
+## Vorurteilsfreie Sprache
+
+### Allgemeine Hinweise
+
+Wir empfehlen, in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerechte Sprache zu verwenden. Im Rahmen kommunikations- und sozialwissenschaftlicher Forschung beschäftigen wir uns mit Menschen mit einer Vielfalt von (Geschlechts-) Identitäten, daher ist es wichtig, diese Realität auch in wissenschaftlichen Arbeiten zu reflektieren und zu respektieren. Dies schließt ein, ist aber nicht beschränkt auf:
+
+-   Geschlechtergerechte Sprache, z.B. *Autor\*innen* statt Autoren
+
+-   Vorurteilsfreie Sprache, z.B. sollten Sie keine Adjektive als Nomen für die Beschreibung von Personen(-gruppen) nutzen
+
+-   Hierarchisieren Sie keine Unterschiede zwischen Menschen, z.B. indem Sie gesellschaftlich dominante Gruppen in einem Graph über anderen Gruppen darstellen
+
+-   Quelle und weitere hilfreiche Informationen: [APA-Styleguide zu vorurteilsfreier Sprache](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/general-principles "Informationen zur Vorurteilsfreien Sprache der APA (auf Englisch)")
+
+### Hinweise zur geschlechtergerechten Sprache
+
+Wir empfehlen neutrale Formulierungen oder Formen, die alle Geschlechtsidentitäten einschließen, z.B. Schüler\*innen, Studierende
+
+-   Sie können neutrale Formen mit „*:*" oder „*\**"[^1] und/oder Partizipien (*‑ierende*) bilden
+
+-   Sie können neutrale Begriffe nutzen, z.B. Person, Beschäftigte
+
+-   In englischen Texten können Sie „*they*" im Singular nutzen
+
+[^1]: Sie müssen dabei keine Rücksicht auf grammatische Konformität nehmen.
+
+Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generischen Maskulinums fließt nicht negativ in die Bewertung ein, wir raten aber dennoch davon ab (s. o.).
+
+## Deckblatt und Verzeichnisse
+
+Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt)
+
+![Beispieldeckblatt](img/vorlage_deckblatt.svg){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+
+Das Deckblatt sollte folgende Informationen enthalten
+
+-   Name der Universität, des Fachbereichs und des Lehrstuhls/der Juniorprofessur
+
+-   Optional: Logo oder Siegel der Universität
+
+-   Modulbezeichnung
+
+-   Art der Arbeit (und Seminartitel bei Seminararbeiten)
+
+-   Betreuer\*in oder Dozent\*in des Seminars
+
+-   Titel der Arbeit
+
+-   Name, Vorname
+
+-   Studiengang mit Schwerpunkt
+
+-   Zahl der Studiensemester und Fachsemester
+
+-   Anschrift mit Telefonnummer
+
+-   E-Mail-Adresse
+
+Sie benötigen außerdem:
+
+1.  ein nummeriertes **Inhaltsverzeichnis** mit Seitenzahlen, sowie
+2.  **Abbildungs-**, und/oder
+3.  **Tabellenverzeichnisse**, wenn Sie Abbildungen und/oder Tabellen in Ihrer Arbeit verwenden. Textverarbeitungsprogramme wie Microsoft Word können diese automatisch erstellen.
+
+Ein Abkürzungsverzeichnis ist nicht notwendig. Führen Sie stattdessen zentrale Abkürzungen im Text ein und verzichten Sie ansonsten auf nicht geläufige Abkürzungen.
+
+## Eidesstattliche Erklärung
+
+Alle wissenschaftlichen Arbeiten, die Sie als Prüfungsleistungen einreichen, müssen eine Eidesstattliche Erklärung enthalten:
+
+::: {#fig-eid fig-cap="Eidesstattliche Erklärung" fig-align="left"}
+::: box
+<div>
+
+**Eidesstattliche Erklärung**
+
+{Ich versichere/Wir versichern}, dass {ich/wir} die Arbeit: "{Thema}" ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt {habe(n)} und dass die Arbeit in gleicher oder ähnlicher Form noch an keiner anderen Prüfungsbehörde vorgelegen hat. Alle Ausführungen, die wörtlich übernommen wurden, sind als solche gekennzeichnet.
+
+{Unterschrift}
+
+<hr />
+
+Ort, Datum {vollständiger Name}
+
+</div>
+:::
+:::
+
+Hinweise: {Platzhalter} in @fig-eid durch entsprechende Inhalte ersetzen. Bei Gruppenarbeiten müssen alle Beteiligten eine eigene Eidesstattliche Erklärung unterschreiben.

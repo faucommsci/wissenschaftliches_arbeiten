@@ -1,0 +1,42 @@
+---
+title: "Allgemeine Hinweise"
+---
+
+## Hinweise zur Gültigkeit dieses Leitfadens
+
+Der Leitfaden gilt für alle **Seminar-, Bachelor- und Abschlussarbeiten**, sofern nicht explizit anders angegeben. Sind Elemente des Leitfadens nicht auf das Format der Arbeit anwendbar, z. B. bei nicht-empirischen Arbeiten, Essays, u.Ä., gelten die übrigen anwendbaren Abschnitte.
+
+
+## Zentrale Gütekriterien
+
+Für studentische wissenschaftliche Arbeiten sind insbesondere die folgenden Kriterien relevant:
+
+-   Einleitung und Zuschnitt des Themas für das gegebene oder gewählte Ziel
+
+-   Recherche der relevanten Informationen in der Fachliteratur
+
+-   Aufbereitung und gedankliche Durchdringung der Informationen
+
+-   Erkenntnisgewinn der Arbeit
+
+-   Darstellung in Text, Grafiken und Tabellen
+
+-   Gestaltung anhand formaler Kriterien des wissenschaftlichen Arbeitens
+
+Wie Sie diese Gütekriterien optimal erfüllen und eine erfolgreiche Abschluss- oder Seminararbeit am Lehrstuhl ablegen können, erfahren Sie in diesem Dokument. Bitte lesen Sie sich das Dokument daher aufmerksam vor der Erstellung Ihrer wissenschaftlichen Arbeit durch.
+
+## Sprache
+
+Wissenschaftliche Arbeiten am Lehrstuhl und der Juniorprofessur können grundsätzlich auf **Deutsch oder Englisch** geschrieben werden. Bitte beachten Sie zudem die Anweisungen im Seminar bzw. die Hinweise Ihrer Betreuer\*innen.
+
+## Umfang, Schriftbild und Druck
+
+Bachelorarbeiten sollten einen Umfang von etwa **8.000 -- 10.000 Wörtern** (ca. 30 Seiten), Masterarbeiten von etwa **18.000 -- 20.000 Wörtern** (ca. 60-70 Seiten) haben. Der Umfang von Seminararbeiten richtet sich nach den Vorgaben im jeweiligen Seminar, ist im Allgemeinen aber deutlich kürzer als bei Abschlussarbeiten. 
+
+Deckblatt, Anhang, Verzeichnisse, Abbildungen, etc. zählen nicht in diese Begrenzung. Abbildungen und Tabellen sind im Text zu erwähnen und in der Nähe der Erwähnung, nicht im Anhang, zu platzieren. Tabellen und Abbildungen mit weiterführenden, nicht essenziellen Informationen oder Materialien können in den Anhang und müssen nicht im Text erwähnt werden.
+
+Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 11pt** zu formatieren. Nutzen Sie für Fließtexte **2-fachen Zeilenabstand**.
+
+Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (kurz-)Titel ein.
+
+Abschlussarbeiten müssen in zwei- (Bachelorarbeiten) bzw. dreifacher (Masterarbeiten) Ausführung gedruckt und gebunden sowie in elektronischer Form (z. B. USB-Stick, CD) beim Prüfungsamt abgegeben werden.

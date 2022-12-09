@@ -1,0 +1,115 @@
+# Inhalte einer wissenschaftlichen Arbeit
+
+Wissenschaftliche Arbeiten können diverse Formate einnehmen. Die Struktur ist vom Gegenstand abhängig, häufig wird aber eine Struktur wie im Folgenden verwendet.
+
+## Gliederung
+
+### Typische Gliederung
+
+Insbesondere bei empirischen Arbeiten oder Literaturüberblicken wird die folgende typische Struktur verwendet. Abhängig von Inhalt und Art der Arbeit, ist es nötig, von diesem Schema abzuweichen.
+
+Ihre Gliederung sollte maximal drei Ebenen beinhalten. Kennzeichnen Sie diese numerisch, z. B. 1., 1.3, 1.4.2, etc. Für eine genauere Unterscheidung können Sie auf vierter Ebene eine Überschrift zu Beginn eines Absatzes (eingerückt) einbauen, indem Sie die Überschrift fett setzen und mit einem Punkt abschließen, z. B.:
+
+::: box
+#### Wohlbefinden
+
+Wohlbefinden wird definiert als... \[Rest des Absatzes\]
+:::
+
+### Beispielgliederung
+
+Beispielgliederung auf erster Ebene einer empirischen Arbeit:
+
+-   Abstract (nur bei Abschlussarbeiten; erscheint nicht im Inhaltsverzeichnis)
+
+-   Inhaltsverzeichnis (nur bei Abschlussarbeiten; erscheint nicht im Inhaltsverzeichnis)
+
+1.  Einleitung
+
+2.  Theorie und Forschungsstand
+
+3.  Methodik
+
+4.  Ergebnisse
+
+5.  Diskussion
+
+6.  Literaturverzeichnis
+
+7.  Anhang, inkl. Tabellen- und Abbildungsverzeichnissen
+
+Im Folgenden wird auf die einzelnen Abschnitte der Arbeit eingegangen. Alle Abschnitte sollten sinnvoll ineinandergreifen (roter Faden).
+
+## Abstract
+
+Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Leser\*innen ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftliches Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
+
+**Anforderungen**: Das Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englisches Abstract notwendig**.
+
+## Einleitung
+
+Zu Beginn einer wissenschaftlichen Arbeit sollte der Untersuchungsgegenstand dargestellt werden. Die Einleitung hat v.a. drei Ziele:
+
+1.  Die **Relevanz** des Themas herausarbeiten (wissenschaftlich, gesellschaftlich, ...)
+
+2.  Einen Aus- und **Überblick** über die Arbeit bieten
+
+3.  Das **Ziel** der Untersuchung darstellen
+
+In vielen Fällen ist es ratsam, in der Einleitung implizit oder explizit eine **forschungsleitende Frage** aufzustellen. Diese hilft, den roten Faden durch die gesamte Arbeit herauszuarbeiten. Anhand der forschungsleitenden Frage können Sie prüfen, ob nachfolgende Inhalte für Ihre Arbeit zentral sind (= sie tragen zur Beantwortung der forschungsleitenden Frage bei) oder weggelassen werden sollten (= sie tragen nicht zur Beantwortung bei).
+
+Jeder wissenschaftliche Text benötigt eine Einleitung.
+
+**Umfang**: ca. 5% des Gesamtumfangs
+
+## Hintergrund
+
+Der Hintergrund bildet das theoretische Kernstück der Arbeit. Hier sollen bisherige Theorien/Konzepte/Modelle sowie der Kenntnisstand empirischer Forschung zur forschungsleitenden Frage aufgearbeitet werden.
+
+Dazu sollen Sie zentrale Literatur identifizieren und den theoretischen Hintergrund herausarbeiten. Bei der Recherche kann es helfen, zunächst eine zentrale Studie zu suchen, und über dort referenzierte Literatur weitere Quellen zu finden (sog. "backward search"). So können auch ältere, besonders zentrale Beiträge identifiziert werden. Solche Werke werden wahrscheinlich in gleich mehreren Artikeln referenziert. Zusätzlich können neuere Studien zum Thema durch einen Blick in die Beiträge, die eine Schlüsselquelle seit Erscheinen zitiert haben, helfen (sog. "forward search" oder "citation search", bspw. über Google Scholar).
+
+Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebietes den Rahmen der Arbeit sprengen könnte. In diesen Fällen sollten Sie Ihr Thema spezifizieren. Der wissenschaftliche Beitrag einer Arbeit ist größer, wenn ein enges, klar definiertes Thema sehr gut behandelt wird, als wenn ein breites Thema oberflächlich behandelt wird. Z. B. könnte die Forschungsfrage „Wie hängt die Smartphone-Nutzung mit Wohlbefinden zusammen?" zu „Wie hängen arbeitsbezogene Smartphone-Benachrichtigungen mit empfundenem Stress zusammen?" spezifiziert werden. Solche Eingrenzungen des Themas sollten Sie inhaltlich oder theoretisch begründen können.
+
+**Umfang**: ca. 20-40% (kleinerer Anteil bei empirischen, größerer Anteil bei theoretischen/literaturbasierten Arbeiten)
+
+## Methodik
+
+Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet beispielsweise die transparente Darstellung von **Such-, Einschluss und Ausschlusskriterien** bei einem Literaturüberblick und die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehen**s bei empirischen Arbeiten.
+
+Verwendete Materialien, z. B. Fragebögen, Code-Bücher oder Experimental-Stimuli, gehören in den Anhang.
+
+**Umfang**: ca. 15-30%
+
+## Ergebnisse
+
+Hier werden die Ergebnisse Ihrer Erhebung, Literaturrecherche, Interviews, etc. dargestellt. Üblicherweise wird hier noch keine Interpretation der Ergebnisse vorgenommen. Gerade bei nicht-quantitativen Arbeiten kann in manchen Fällen aber eine stärkere Integration mit Aspekten der Diskussion oder Theorie sinnvoll sein.
+
+Wichtige Regeln:
+
+-   Lateinische Abkürzungen werden kursiv gesetzt und Leerzeichen zwischen mathematischen Operatoren eingesetzt (z. B. N=154❌ vs. *N* = 154✅)
+
+-   Üblicherweise werden zwei Nachkomastallen angegeben, bei kleinen Zahlen (z. B. p-Werten) werden drei Nachkommastellen angegeben: *M* = 15.4383 ❌ *M* = 15.43 ✅
+
+-   Statistiken mit einem Wertebereich von 0 bis 1 werden ohne führende Null angegeben: *p* = 0.002 ❌ *p* = .002 ✅
+
+-   Verwenden Sie einen Punkt als Dezimaltrennzeichen, Kommas zwischen Statistiken und Semikolons, um Sinnabschnitte zu trennen: (*t*(123) = 4.32, *p* \< .001)
+
+-   Geben Sie p-Werte immer exakt auf drei Nachkommastellen an, außer der Wert ist kleiner als .001, dann geben Sie den Wert mit dem „kleiner als" (\<) Zeichen an: *p* = .000 ❌ *p* \< .05 ❌ *p* \< .001 ✅ *p* = .045 ✅
+
+In Tabellen und Abbildungen können Sie signifikante Zusammenhänge oder Effekte durch Sternchen kennzeichnen. Etabliert haben sich \* für *p* \< .05, \*\* für *p* \< .01 und \*\*\* für *p* \< .001. Eine Erklärung dieser Zeichen gehört in die Hinweise zur entsprechenden Tabelle/Grafik.
+
+**Umfang**: ca. 10-20%
+
+## Diskussion
+
+Hier sollten Sie 1) die Ergebnisse aufgreifen, 2) diese interpretieren und 3) in den Forschungskontext einordnen. Außerdem werden 4) Stärken und Schwächen der Arbeit 5) sowie Implikationen für zukünftige Forschung, die Praxis und/oder die Gesellschaft herausgearbeitet. Schließlich wird 6) ein Fazit gezogen.
+
+Die Diskussion fügt alle zentralen Teile der Arbeit zusammen und bildet den Abschluss der Arbeit. Sie beantwortet die in der Einleitung formulierte übergeordnete Forschungsfrage.
+
+**Umfang**: ca. 10-20%
+
+## Anhang
+
+In den Anhang gehören alle zusätzlichen Informationen, Materialien, etc. die zur Nachvollziehbarkeit oder zum Verständnis beitragen. Auch zusätzliche Informationen, wie weitere Analysen, oder Transkripte von Interviews, etc. gehören hierhin.
+
+**Umfang**: Der Anhang zählt nicht in den Wortumfang.
