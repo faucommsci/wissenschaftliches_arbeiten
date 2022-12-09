@@ -2,11 +2,17 @@
 title: "Abschlussarbeiten"
 ---
 
+::: callout-important
+Dieses Kapitel gilt nur für Abschlussarbeiten, nicht für Seminararbeiten.
+:::
+
 ![Ablauf einer Bachelorarbeit an Lehrstuhl und Juniorprofessur für Kommunikationswissenschaft](img/ablauf.svg){#fig-ablauf fig-align="center"}
 
 ## Deadlines, Bewerbung, Vergabe der Themen
 
-Aktuelle Informationen zur Bewerbung, Themenvergabe, Anmeldung und Abgabe entnehmen Sie bitte der Website des [Lehrstuhls für Kommunikationswissenschaft]((https://www.kowi.rw.fau.de/studium/abschlussarbeiten/). In @fig-ablauf finden Sie einen Überblick über den Ablauf.
+Aktuelle Informationen zur Bewerbung, Themenvergabe, Anmeldung und Abgabe entnehmen Sie bitte der Website des [Lehrstuhls für Kommunikationswissenschaft](https://www.kowi.rw.fau.de/studium/abschlussarbeiten/). In @fig-ablauf finden Sie einen Überblick über den Ablauf.
+
+Für Masterarbeiten wenden Sie sich bitte direkt an die Mitarbeiter\*innen des Lehrstuhls und der Juniorprofessur.
 
 ## Exposé
 
