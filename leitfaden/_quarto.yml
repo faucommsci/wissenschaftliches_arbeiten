@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: leitfaden_book
+  output-dir: ../leitfaden_book
 
 lang: de
 
@@ -11,7 +11,7 @@ book:
   date-format: "DD.MM.YYYY"
   
   downloads: [pdf, epub]
-  favicon: "../img/logo.svg"
+  favicon: img/logo.svg
   repo-url: https://github.com/faucommsci/wissenschaftliches_arbeiten
   repo-actions: [issue]
   page-navigation: true
@@ -23,7 +23,7 @@ book:
       FAU Erlangen-Nürnberg, WiSo
 
   navbar:
-    logo: leitfaden/img/fau_wiso_white.svg
+    logo: img/fau_wiso_white.svg
     #background: "#04316a"
     #foreground: "#E6002E"
     search: true
@@ -43,21 +43,21 @@ book:
     - index.qmd
     - part: Leitfaden
       chapters:
-        - leitfaden/allgemeine_hinweise.qmd
-        - leitfaden/abschlussarbeit.qmd
-        - leitfaden/formalia.qmd
-        - leitfaden/inhalte.qmd
-        - leitfaden/literaturrecherche.qmd
-        - leitfaden/open_science.qmd
-        - leitfaden/zitieren.qmd
-        - leitfaden/literatur.qmd
+        - allgemeine_hinweise.qmd
+        - abschlussarbeit.qmd
+        - formalia.qmd
+        - inhalte.qmd
+        - literaturrecherche.qmd
+        - open_science.qmd
+        - zitieren.qmd
+        - literatur.qmd
 
 bibliography: references.bib
 
 format:
   html:
     theme: 
-      - theme/theme.scss
+      - ../theme/theme.scss
     link-external-icon: True
     link-external-newwindow: True
     link-external-filter: '^(?:http|https):\/\/faucommsci.github.io'
