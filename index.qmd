@@ -1,10 +1,1 @@
 # Willkommen {.unnumbered}
-
-
-```{r}
-#| echo: false
-#| output: false
-# copying index.html to root
-file.copy("leitfaden_book/index.html", "index.html")
-```
-
