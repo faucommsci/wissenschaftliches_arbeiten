@@ -1,4 +1,0 @@
-# Literatur
-
-::: {#refs}
-:::

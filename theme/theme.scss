@@ -51,28 +51,34 @@ table {
   -webkit-hyphens: auto; //auto generating hyphens
 }
 
-
-
-
-body, #quarto-content
-{
+//setting line-height to double for regular paragraphs
+.content p {
   line-height: 2 !important;
 }
 
 
 // setting title banner to waves
-.quarto-title-banner{
-  background-image: url("img/pawel-czerwinski-unsplash.jpg") !important;
+.navbar {
+  background-image: url("leitfaden/img/pawel-czerwinski-unsplash.jpg") !important;
   background-size: cover !important;
+}
 
+.navbar-brand {
+  filter: drop-shadow(1px 1px 5px rgb(0 0 0 / 1));
+}
+
+.navbar-title {
+  filter: drop-shadow(1px 1px 5px rgb(0 0 0 / .5));
+  font-size: larger;
+  font-weight: bold;
 }
 
 // setting class for example boxes and apa citation examples
-.quote, .box, img {
+ .content .quote, .content .box, .content img {
   background-color: #C0CBDA40 !important;
   color: black !important;
   margin-bottom: 2em;
-  border-radius: .25em;
+  border-radius: .25em !important;
   padding: .75em;
   border: 1pt solid #dedede;
   text-align: left !important;
@@ -100,13 +106,13 @@ body, #quarto-content
 .quarto-dark a.external:after, .quarto-dark .download::after {
   filter: invert(48%) sepia(100%) saturate(150%) hue-rotate(170deg) !important;
 }
-
+/*
 // styling the header
-.quarto-title::before {
+#quarto-header::before {
   content: '';
-  background:url('img/FAU_WiSo.svg');
+  background:url('leitfaden/img/fau_wiso_white.svg');
   width: 100% ;
-  height: 4em/* height of the image */;
+  height: 4em;
   display: block;  
   background-position: center;
   //background-image: none !important;
@@ -125,6 +131,7 @@ body, #quarto-content
 .title {
   padding-top: 1.25%;
 }
+*/
 
 li p {
   margin-block-end: 0 !important;
@@ -160,4 +167,9 @@ caption {
   background-repeat: no-repeat;
   margin-left: .125rem;
   margin-right: .125rem;
+}
+
+// letting navbar collapse so that each icon doesnt have its own row
+.navbar-nav, {
+  flex-direction: row !important;
 }
