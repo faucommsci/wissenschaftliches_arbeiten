@@ -1,6 +1,4 @@
----
-title: "Formalia"
----
+# Formalia
 
 ## Vorurteilsfreie Sprache
 
@@ -20,19 +18,19 @@ Wir empfehlen, in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerec
 
 Wir empfehlen neutrale Formulierungen oder Formen, die alle Geschlechtsidentitäten einschließen, z.B. Schüler\*innen, Studierende
 
--   Sie können neutrale Formen mit „*:*" oder „*\**"[^1] und/oder Partizipien (*‑ierende*) bilden
+-   Sie können neutrale Formen mit „*:*" oder „*\**"[^formalia-1] und/oder Partizipien (*‑ierende*) bilden
 
 -   Sie können neutrale Begriffe nutzen, z.B. Person, Beschäftigte
 
 -   In englischen Texten können Sie „*they*" im Singular nutzen
 
-[^1]: Sie müssen dabei keine Rücksicht auf grammatische Konformität nehmen.
+[^formalia-1]: Sie müssen dabei keine Rücksicht auf grammatische Konformität nehmen.
 
 Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generischen Maskulinums fließt nicht negativ in die Bewertung ein, wir raten aber dennoch davon ab (s. o.).
 
 ## Deckblatt und Verzeichnisse
 
-Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt; <span class = "download"> [Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)</span>)
+Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt; [ [Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)]{.download})
 
 ![Beispieldeckblatt](img/vorlage_deckblatt){#fig-vorlage_deckblatt fig-align="center" width="66%"}
 

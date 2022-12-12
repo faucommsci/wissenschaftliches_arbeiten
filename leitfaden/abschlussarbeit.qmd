@@ -1,6 +1,4 @@
----
-title: "Abschlussarbeiten"
----
+# Abschlussarbeiten
 
 ::: callout-important
 Dieses Kapitel gilt nur für Abschlussarbeiten, nicht für Seminararbeiten.

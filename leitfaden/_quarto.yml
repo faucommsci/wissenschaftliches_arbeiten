@@ -75,6 +75,9 @@ format:
   epub:
     csl: ../theme/apa.csl
     number-depth: 2
+    default-image-extension: png
+
+    
 
 
 

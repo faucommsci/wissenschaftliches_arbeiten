@@ -1,6 +1,4 @@
----
-title: "Allgemeine Hinweise"
----
+# Allgemeine Hinweise
 
 ## Hinweise zur Gültigkeit dieses Leitfadens
 

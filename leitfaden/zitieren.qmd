@@ -1,7 +1,4 @@
----
-title: "Zitieren"
-number-depth: 2
----
+# Zitieren
 
 Wir erwarten, dass Sie alle fremden Gedanken kennzeichnen. In der Wissenschaft stützen wir uns auf die „Schultern von Riesen", d.h. Sie sollten Ihre Arbeit auf bestehender Literatur aufbauen und vorherigen Leistungen "Credit geben". Die vorhandene wissenschaftliche Literatur zu nutzen, macht Ihre Arbeit theoretisch, inhaltlich und methodisch stärker.
 
@@ -18,6 +15,8 @@ Im Folgenden finden Sie eine Kurzanleitung[^zitieren-1]. **Wichtig**: Sie könne
 [^zitieren-1]: Die Anleitung zum Zitieren basiert auf einem Kurz-Manual das vom [Lehrstuhl Medienwirkung & Medienpsychologie](https://www.medienpsychologie.ifp.uni-mainz.de/) an der JGU Mainz (Prof. Dr. Leonard Reinecke) erstellt wurde. Besonderer Dank gebührt Alicia Ernst, Alicia Gilbert und Anisha Arenz.
 
 ## Die häufigsten Literaturangaben
+
+Der Großteil Ihrer Quellen wird in der Regel aus den folgenden Literaturtypen bestehen:
 
 ### Monographie:
 
