@@ -9,6 +9,8 @@ book:
   author: "Lehrstuhl | Juniorprofessur für Kommunikationswissenchaft"
   date: "last-modified"
   date-format: "DD.MM.YYYY"
+  #cover-image: img/pawel-czerwinski-unsplash.jpg
+
   
   downloads: [pdf, epub]
   favicon: img/logo.svg
@@ -75,7 +77,9 @@ format:
   epub:
     csl: ../theme/apa.csl
     number-depth: 2
-    default-image-extension: png
+    default-image-extension: svg
+    #epub-cover-image: img/pawel-czerwinski-unsplash.jpg
+    
 
     
 

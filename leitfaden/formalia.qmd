@@ -30,9 +30,9 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 ## Deckblatt und Verzeichnisse
 
-Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt; [ [Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)]{.download})
+Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel s. @fig-vorlage_deckblatt)
 
-![Beispieldeckblatt](img/vorlage_deckblatt){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+![Beispieldeckblatt | [ [Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)]{.download}](img/vorlage_deckblatt){#fig-vorlage_deckblatt fig-align="center" width="66%"}
 
 Das Deckblatt sollte folgende Informationen enthalten
 
