@@ -7,5 +7,5 @@
         - `.box`: Place text within a `<div>` Use to get text formatted like a figure, e.g. for APA-examples
         . `.notes`: Makes text for notes smaller below a figure or table, adds "Hinweis. " in bold
         - Please update this list with any new, non-cosmetic classes you add.
-    - Headings at level 4 (h5) automatically get a dot placed after them and following paragraphs continue on the same line.
+    - Headings at level 4 (h4) automatically get a dot placed after them and following paragraphs continue on the same line.
 - All images for the "leitfaden_book"-output are located in the "leitfaden/img"-folder. Please store all images there or in sub-folders of this folder
