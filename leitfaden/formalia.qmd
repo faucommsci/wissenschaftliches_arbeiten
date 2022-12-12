@@ -1,6 +1,7 @@
 ---
 title: "Formalia"
 ---
+
 ## Vorurteilsfreie Sprache
 
 ### Allgemeine Hinweise
@@ -31,7 +32,7 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 ## Deckblatt und Verzeichnisse
 
-Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt)
+Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel siehe @fig-vorlage_deckblatt; <span class = "download"> [Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)</span>)
 
 ![Beispieldeckblatt](img/vorlage_deckblatt.svg){#fig-vorlage_deckblatt fig-align="center" width="66%"}
 
