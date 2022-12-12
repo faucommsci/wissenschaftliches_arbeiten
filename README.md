@@ -2,6 +2,10 @@
 
 ## Internal notes for editing these documents
 - The css theme is in the folder "theme", the file is named "theme.scss"
-- Scripts to edit appearance can also be found in the folder "theme"
-- All images are located in the "img"-folder. Please store all images there or in sub-folders of this folder
-- All .qmd-documents work without a"_quarto.yml"-file to ensure easier shareability and less dependencies
+    - List of custom classes:
+        - `.download`: Add this class to a  `<span>` or `<a>` tag to get a download button after the text. 
+        - `.box`: Place text within a `<div>` Use to get text formatted like a figure, e.g. for APA-examples
+        . `.notes`: Makes text for notes smaller below a figure or table, adds "Hinweis. " in bold
+        - Please update this list with any new, non-cosmetic classes you add.
+    - Headings at level 4 (h5) automatically get a dot placed after them and following paragraphs continue on the same line.
+- All images for the "leitfaden_book"-output are located in the "leitfaden/img"-folder. Please store all images there or in sub-folders of this folder
