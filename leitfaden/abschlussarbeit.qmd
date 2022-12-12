@@ -6,7 +6,7 @@ title: "Abschlussarbeiten"
 Dieses Kapitel gilt nur für Abschlussarbeiten, nicht für Seminararbeiten.
 :::
 
-![Ablauf einer Bachelorarbeit an Lehrstuhl und Juniorprofessur für Kommunikationswissenschaft](img/ablauf.svg){#fig-ablauf fig-align="center"}
+![Ablauf einer Bachelorarbeit an Lehrstuhl und Juniorprofessur für Kommunikationswissenschaft](img/ablauf){#fig-ablauf fig-align="center"}
 
 ## Deadlines, Bewerbung, Vergabe der Themen
 
@@ -24,7 +24,7 @@ Im Exposee erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammen
 
 -   Name, Matrikelnummer, Studiengang, Fachsemester, Kontaktdaten
 
--   Arbeitstitel („Working Title")
+-   Arbeitstitel ("Working Title")
 
 -   Ausgangslage, Beschreibung des Themenfeldes und Vorschlag einer Fragestellung (ca. 200 Wörter)
 

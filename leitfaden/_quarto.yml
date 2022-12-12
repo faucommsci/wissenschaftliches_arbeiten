@@ -56,21 +56,25 @@ bibliography: references.bib
 
 format:
   html:
+    default-image-extension: svg
     theme: 
       - ../theme/theme.scss
     link-external-icon: True
     link-external-newwindow: True
     link-external-filter: '^(?:http|https):\/\/faucommsci.github.io'
-
+    csl: ../theme/apa.csl
+    number-depth: 4
   pdf:
+    default-image-extension: png
     documentclass: scrreprt
-    include-in-header: 
-      text: |
-        \usepackage{makeidx}
-        \makeindex
-    include-after-body: 
-      text: |
-        \printindex
+    latex-auto-mk: true
+    pdf-engine: xelatex
+    latex-output-dir: pdf
+    csl: ../theme/apa.csl 
+    number-depth: 2
+  epub:
+    csl: ../theme/apa.csl
+    number-depth: 2
 
 
 

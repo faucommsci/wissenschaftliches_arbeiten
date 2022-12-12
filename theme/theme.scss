@@ -160,7 +160,7 @@ caption {
 .notes::before {content: "Hinweis. "; font-weight: bold;}
 
 // letting navbar collapse so that each icon doesnt have its own row
-.navbar-nav, {
+.navbar-nav {
   flex-direction: row !important;
 }
 

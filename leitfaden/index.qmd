@@ -5,3 +5,32 @@ Auf den folgenden Seiten finden Sie Informationen zu Abschluss- und Seminararbei
 Sie können Kapitel auf der linken Seite und Unterkapitel auf der rechten Seite navigieren. Über den Such-Button können Sie alle Seiten durchsuchen.
 
 Sollte Ihnen ein Fehler auffallen, können Sie auf der rechten Seite auf "Problem melden" klicken und diesen melden.
+
+```{r Converting svgs to pngs for PDF-output}
+#| echo: false
+#| output: false
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(stringr, rsvg)
+
+# Converting all vector images to raster graphics
+images = list.files("img")
+svgs = c()
+x = 1;
+
+for (i in 1:length(images))
+{
+  
+  if (str_sub(images[i], -4) == ".svg") {
+    print(images[i])
+    svgs[x] = images[i]
+    x = x + 1
+  }
+}
+rm(x)
+    
+for (svg in svgs)
+{
+  rsvg_png(paste0("img/", svg), file = paste0("img/", str_sub(svg, 1,-5),".png"))
+}
+```
+
