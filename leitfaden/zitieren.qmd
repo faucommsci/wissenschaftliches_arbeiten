@@ -632,7 +632,7 @@ Manchmal sind einzelne Elemente der Quelle nicht bekannt oder fehlen. Dann müss
 ## Übersetzungen
 
 +-------------------------------+--------------------+------------------------------+---------------------+
-| Deutsches Element             | Deutsche Abkürzung | Englisches Element           | Englische Abkürzung |
+| Englisches Element            | Englische Abkürzung| Deutsches Element            | Deutsche Abkürzung  |
 +===============================+====================+==============================+=====================+
 | edition                       | ed.                | Auflage                      | Aufl.               |
 +-------------------------------+--------------------+------------------------------+---------------------+
