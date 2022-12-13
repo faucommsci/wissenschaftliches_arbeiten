@@ -11,3 +11,4 @@
 - All images for the "leitfaden_book"-output are located in the "leitfaden/img"-folder. Please store all images there or in sub-folders of this folder
 - Rendering:
     - **To render all output formats write in the terminal (not console): `quarto render`**
+    - This is tested in RStudio opening the project-file "wissenschaftliches_arbeiten.Rproj" and using the terminal to render. Other methods may lead to issues with relative paths.
