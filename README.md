@@ -1,5 +1,8 @@
 # Wissenschaftliches Arbeiten an Lehrstuhl und Juniorprofessur für Kommunikationswissenschaft der FAU Erlangen Nürnberg
 
+## Link to page
+You can view the page [here](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/index.html)
+
 ## Notes for editing these documents
 - The css theme is in the folder "theme", the file is named "theme.scss"
     - **List of custom classes**:
