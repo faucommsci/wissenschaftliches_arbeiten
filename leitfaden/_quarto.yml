@@ -64,7 +64,7 @@ format:
     link-external-icon: True
     link-external-newwindow: True
     link-external-filter: '^(?:http|https):\/\/faucommsci.github.io'
-    csl: ../theme/apa.csl
+    csl: https://www.zotero.org/styles/apa
     number-depth: 4
   pdf:
     default-image-extension: png
@@ -72,10 +72,10 @@ format:
     latex-auto-mk: true
     pdf-engine: xelatex
     latex-output-dir: pdf
-    csl: ../theme/apa.csl 
+    csl: https://www.zotero.org/styles/apa
     number-depth: 2
   epub:
-    csl: ../theme/apa.csl
+    csl: https://www.zotero.org/styles/apa
     number-depth: 2
     default-image-extension: svg
     #epub-cover-image: img/pawel-czerwinski-unsplash.jpg
