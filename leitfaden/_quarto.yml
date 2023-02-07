@@ -9,7 +9,7 @@ book:
   author: "Lehrstuhl | Juniorprofessur für Kommunikationswissenchaft"
   date: "last-modified"
   date-format: "DD.MM.YYYY"
-  #cover-image: img/pawel-czerwinski-unsplash.jpg
+  cover-image: "img/cover_wiss_arbeiten.svg"
 
   
   downloads: [pdf, epub]
@@ -75,10 +75,10 @@ format:
     csl: https://www.zotero.org/styles/apa
     number-depth: 2
   epub:
+    epub-cover-image: "img/cover_wiss_arbeiten.svg"
     csl: https://www.zotero.org/styles/apa
     number-depth: 2
     default-image-extension: svg
-    #epub-cover-image: img/pawel-czerwinski-unsplash.jpg
     
 
     
