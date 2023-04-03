@@ -94,7 +94,7 @@ Hinweise: {Platzhalter} in @fig-eid durch entsprechende Inhalte ersetzen. Bei Gr
 
 ### Englisch
 
-Für englische Arbeiten können Sie den Folgenden Text nutzen
+Für englische Arbeiten können Sie den folgenden Text nutzen:
 
 
 ::: {#fig-eid-en fig-cap="Eidesstattliche Erklärung" fig-align="left"}
