@@ -68,6 +68,8 @@ Ein Abkürzungsverzeichnis ist nicht notwendig. Führen Sie stattdessen zentrale
 
 ## Eidesstattliche Erklärung
 
+### Deutsch
+
 Alle wissenschaftlichen Arbeiten, die Sie als Prüfungsleistungen einreichen, müssen eine Eidesstattliche Erklärung enthalten:
 
 ::: {#fig-eid fig-cap="Eidesstattliche Erklärung" fig-align="left"}
@@ -89,3 +91,28 @@ Ort, Datum {vollständiger Name}
 :::
 
 Hinweise: {Platzhalter} in @fig-eid durch entsprechende Inhalte ersetzen. Bei Gruppenarbeiten müssen alle Beteiligten eine eigene Eidesstattliche Erklärung unterschreiben.
+
+### Englisch
+
+Für englische Arbeiten können Sie den Folgenden Text nutzen
+
+
+::: {#fig-eid-en fig-cap="Eidesstattliche Erklärung" fig-align="left"}
+::: box
+<div>
+
+
+**Affidavit**
+
+{I/we hereby affirm that I/we have written the paper "{topic}" without outside help and without using sources other than those cited. Further, that the paper has not been submitted in the same or similar form for examination. All direct quotes are marked as such.
+
+{Signature}
+
+<hr />
+
+Place, date {full name}
+
+
+</div>
+:::
+:::
