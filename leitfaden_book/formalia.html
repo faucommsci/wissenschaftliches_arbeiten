@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.361">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -58,7 +58,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "weitere Treffer in diesem Dokument",
     "search-clear-button-title": "Zurücksetzen",
     "search-detached-cancel-button-title": "Abbrechen",
-    "search-submit-button-title": "Abschicken"
+    "search-submit-button-title": "Abschicken",
+    "search-label": "Suchen"
   }
 }</script>
 
@@ -79,55 +80,56 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Wissenschaftliches Arbeiten</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Suchen"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navigation umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.kowi.rw.fau.de/"><i class="bi bi-house" role="img" aria-label="Home">
+    <a class="nav-link" href="https://www.kowi.rw.fau.de/" rel="" target=""><i class="bi bi-house" role="img" aria-label="Home">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.kommunikationswissenschaft.rw.fau.de/"><i class="bi bi-house-fill" role="img">
+    <a class="nav-link" href="https://www.kommunikationswissenschaft.rw.fau.de/" rel="" target=""><i class="bi bi-house-fill" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/faucommsci/wissenschaftliches_arbeiten"><i class="bi bi-github" role="img" aria-label="Source Code">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item dropdown  compact">
-    <a class="nav-link dropdown-toggle" href="#" id="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-      <i class="bi bi-download" role="img" aria-label="Download">
-</i> 
- <span class="menu-text"></span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="">    
-        <li>
-    <a class="dropdown-item" href="./Wissenschaftliches-Arbeiten.pdf"><i class="bi bi-file-pdf" role="img">
-</i> 
- <span class="dropdown-text">Download PDF</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./Wissenschaftliches-Arbeiten.epub"><i class="bi bi-journal" role="img">
-</i> 
- <span class="dropdown-text">Download ePub</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+    <a href="https://github.com/faucommsci/wissenschaftliches_arbeiten" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="./Wissenschaftliches-Arbeiten.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item quarto-navbar-tools-item" href="./Wissenschaftliches-Arbeiten.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Formalia</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./allgemeine_hinweise.html">Leitfaden</a></li><li class="breadcrumb-item"><a href="./formalia.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Formalia</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -135,65 +137,75 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Suchen"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Willkommen</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Willkommen</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Leitfaden</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Leitfaden</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./allgemeine_hinweise.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Allgemeine Hinweise</span></a>
+  <a href="./allgemeine_hinweise.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Allgemeine Hinweise</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./abschlussarbeit.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Abschlussarbeiten</span></a>
+  <a href="./abschlussarbeit.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Abschlussarbeiten</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./formalia.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Formalia</span></a>
+  <a href="./formalia.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Formalia</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./inhalte.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Inhalte einer wissenschaftlichen Arbeit</span></a>
+  <a href="./inhalte.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Inhalte einer wissenschaftlichen Arbeit</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./literaturrecherche.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Literaturrecherche</span></a>
+  <a href="./literaturrecherche.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Literaturrecherche</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./open_science.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Open Science</span></a>
+  <a href="./open_science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Open Science</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./zitieren.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Zitieren</span></a>
+  <a href="./zitieren.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Zitieren</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./literatur.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Literatur</span></a>
+  <a href="./literatur.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Literatur</span></span></a>
   </div>
 </li>
       </ul>
@@ -201,22 +213,23 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Inhaltsverzeichnis</h2>
    
   <ul>
-  <li><a href="#vorurteilsfreie-sprache" id="toc-vorurteilsfreie-sprache" class="nav-link active" data-scroll-target="#vorurteilsfreie-sprache"><span class="toc-section-number">3.1</span>  Vorurteilsfreie Sprache</a>
+  <li><a href="#vorurteilsfreie-sprache" id="toc-vorurteilsfreie-sprache" class="nav-link active" data-scroll-target="#vorurteilsfreie-sprache"><span class="header-section-number">3.1</span> Vorurteilsfreie Sprache</a>
   <ul class="collapse">
-  <li><a href="#allgemeine-hinweise" id="toc-allgemeine-hinweise" class="nav-link" data-scroll-target="#allgemeine-hinweise"><span class="toc-section-number">3.1.1</span>  Allgemeine Hinweise</a></li>
-  <li><a href="#hinweise-zur-geschlechtergerechten-sprache" id="toc-hinweise-zur-geschlechtergerechten-sprache" class="nav-link" data-scroll-target="#hinweise-zur-geschlechtergerechten-sprache"><span class="toc-section-number">3.1.2</span>  Hinweise zur geschlechtergerechten Sprache</a></li>
+  <li><a href="#allgemeine-hinweise" id="toc-allgemeine-hinweise" class="nav-link" data-scroll-target="#allgemeine-hinweise"><span class="header-section-number">3.1.1</span> Allgemeine Hinweise</a></li>
+  <li><a href="#hinweise-zur-geschlechtergerechten-sprache" id="toc-hinweise-zur-geschlechtergerechten-sprache" class="nav-link" data-scroll-target="#hinweise-zur-geschlechtergerechten-sprache"><span class="header-section-number">3.1.2</span> Hinweise zur geschlechtergerechten Sprache</a></li>
   </ul></li>
-  <li><a href="#deckblatt-und-verzeichnisse" id="toc-deckblatt-und-verzeichnisse" class="nav-link" data-scroll-target="#deckblatt-und-verzeichnisse"><span class="toc-section-number">3.2</span>  Deckblatt und Verzeichnisse</a></li>
-  <li><a href="#eidesstattliche-erklärung" id="toc-eidesstattliche-erklärung" class="nav-link" data-scroll-target="#eidesstattliche-erklärung"><span class="toc-section-number">3.3</span>  Eidesstattliche Erklärung</a>
+  <li><a href="#deckblatt-und-verzeichnisse" id="toc-deckblatt-und-verzeichnisse" class="nav-link" data-scroll-target="#deckblatt-und-verzeichnisse"><span class="header-section-number">3.2</span> Deckblatt und Verzeichnisse</a></li>
+  <li><a href="#eidesstattliche-erklärung" id="toc-eidesstattliche-erklärung" class="nav-link" data-scroll-target="#eidesstattliche-erklärung"><span class="header-section-number">3.3</span> Eidesstattliche Erklärung</a>
   <ul class="collapse">
-  <li><a href="#deutsch" id="toc-deutsch" class="nav-link" data-scroll-target="#deutsch"><span class="toc-section-number">3.3.1</span>  Deutsch</a></li>
-  <li><a href="#englisch" id="toc-englisch" class="nav-link" data-scroll-target="#englisch"><span class="toc-section-number">3.3.2</span>  Englisch</a></li>
+  <li><a href="#deutsch" id="toc-deutsch" class="nav-link" data-scroll-target="#deutsch"><span class="header-section-number">3.3.1</span> Deutsch</a></li>
+  <li><a href="#englisch" id="toc-englisch" class="nav-link" data-scroll-target="#englisch"><span class="header-section-number">3.3.2</span> Englisch</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/faucommsci/wissenschaftliches_arbeiten/issues/new" class="toc-action">Problem melden</a></p></div></div></nav>
@@ -226,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Formalia</span></h1>
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Formalia</span></h1>
 </div>
 
 
@@ -270,7 +283,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="fig-vorlage_deckblatt" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="img/vorlage_deckblatt.svg" class="img-fluid figure-img" style="width:66.0%"></p>
-<p></p><figcaption class="figure-caption">Abbildung&nbsp;3.1: Beispieldeckblatt | <span class="download"><a href="templates/title_page_template.dotx">Beispielvorlage als .dotx-Datei herunterladen</a></span></figcaption><p></p>
+<figcaption class="figure-caption">Abbildung&nbsp;3.1: Beispieldeckblatt | <span class="download"><a href="templates/title_page_template.dotx">Beispielvorlage als .dotx-Datei herunterladen</a></span></figcaption>
 </figure>
 </div>
 <p>Das Deckblatt sollte folgende Informationen enthalten</p>
@@ -305,13 +318,16 @@ ul.task-list li input[type="checkbox"] {
 <div class="box">
 <div>
 <p><strong>Eidesstattliche Erklärung</strong></p>
-<p>{Ich versichere/Wir versichern}, dass {ich/wir} die Arbeit: “{Thema}” ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt {habe(n)} und dass die Arbeit in gleicher oder ähnlicher Form noch an keiner anderen Prüfungsbehörde vorgelegen hat. Alle Ausführungen, die wörtlich übernommen wurden, sind als solche gekennzeichnet.</p>
-<p>{Unterschrift}</p>
-<hr>
-<p>Ort, Datum {vollständiger Name}</p>
+<p>Hiermit versichere ich, ______________ (Name) __________ (Matrikelnummer), die vorgelegte Arbeit selbstständig und ohne unzulässige Hilfe Dritter sowie ohne die Hinzuziehung nicht offengelegter und insbesondere nicht zugelassener Hilfsmittel angefertigt zu haben. Die Arbeit hat in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen und wurde auch von keiner anderen Prüfungsbehörde bereits als Teil einer Prüfung angenommen.</p>
+<p>Die Stellen der Arbeit, die anderen Quellen im Wortlaut oder dem Sinn nach entnommen wurden, sind durch Angaben der Herkunft kenntlich gemacht. Dies gilt auch für Zeichnungen, Skizzen, bildliche Darstellungen sowie für Quellen aus dem Internet.</p>
+<p>Mir ist insbesondere bewusst, dass die Nutzung künstlicher Intelligenz verboten ist, sofern diese nicht ausdrücklich als Hilfsmittel von den Prüfenden zugelassen wurde. Dies gilt insbesondere für solche Programme, die anstelle meiner Person die Aufgabenstellung der Prüfung bzw. Teile derselben bearbeiten könnten, zum Beispiel Chatbots (insbesondere ChatGPT) und andere hierzu geeignete Methoden.</p>
+<p>Des Weiteren ist mir bekannt, dass die gemeinsame Bearbeitung der Aufgabenstellung mit anderen Personen in einem Raum oder mithilfe sozialer oder anderer Medien eine unzulässige Hilfe Dritter im o.g. Sinne darstellt, wenn nicht ausdrücklich Gruppenarbeit vorgesehen ist. Der Austausch mit anderen Personen mit Ausnahme von Prüfenden, deren Beauftragten und Aufsichtführenden während der Prüfungszeit über Aufbau oder Inhalte der Prüfung oder Informationen (z.B. Quellen) ist unzulässig. Gleiches gilt für den Versuch der jeweiligen Handlung. Das Korrekturlesen der Arbeit durch Dritte mit dem Ziel, sprachliche Mängel zu beheben, ist zulässig.</p>
+<p>Verstöße gegen die o.g. Regeln sind als Täuschung bzw. Täuschungsversuch zu qualifizieren und führen zu einer Bewertung der Prüfung mit „nicht bestanden”. Bei mehrfachen oder auch besonders drastischen Regelverstößen sind weiterführende Sanktionen durch den Prüfungsausschuss möglich.</p>
+<p>_______________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ______________________________</p>
+<p>Ort, Datum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eigenhändige Unterschrift</p>
 </div>
 </div>
-<p></p><figcaption class="figure-caption">Abbildung&nbsp;3.2: Eidesstattliche Erklärung</figcaption><p></p>
+<figcaption class="figure-caption">Abbildung&nbsp;3.2: Muster für eine Eigenständigkeitserklärung (Wiso, FAU, 7. 6. 2023)</figcaption>
 </figure>
 </div>
 <p>Hinweise: {Platzhalter} in <a href="#fig-eid">Abbildung&nbsp;<span>3.2</span></a> durch entsprechende Inhalte ersetzen. Bei Gruppenarbeiten müssen alle Beteiligten eine eigene Eidesstattliche Erklärung unterschreiben.</p>
@@ -324,13 +340,16 @@ ul.task-list li input[type="checkbox"] {
 <div class="box">
 <div>
 <p><strong>Affidavit</strong></p>
-<p>{I/we hereby affirm that I/we have written the paper “{topic}” without outside help and without using sources other than those cited. Further, that the paper has not been submitted in the same or similar form for examination. All direct quotes are marked as such.</p>
-<p>{Signature}</p>
-<hr>
-<p>Place, date {full name}</p>
+<p>I, ______________ (Name), student registration number:__________, hereby confirm that I completed the submitted work independently and without the unauthorized assistance of third parties and without the use of undisclosed and, in particular, unauthorized aids. This work has not been previously submitted in its current form or in a similar form to any other examination authorities and has not been accepted as part of an examination by any other examination authority.</p>
+<p>Where the wording has been taken from other people's work or ideas, this has been properly acknowledged and referenced. This also applies to drawings, sketches, diagrams and sources from the Internet.</p>
+<p>In particular, I am aware that the use of artificial intelligence is forbidden unless its use an aid has been expressly permitted by the examiner. This applies in particular to such programs that could process the task of the examination or parts thereof instead of me, for example chatbots (especially ChatGPT) and other methods suitable for this purpose.</p>
+<p>Furthermore, I am aware that working with others in one room or by means of social or other media represents the unauthorized assistance of third parties within the above meaning, if group work is not expressly permitted. Each exchange of information with others during the examination, with the exception of examiners, persons authorized by them and invigilators, about the structure or contents of the examination or any other information such as sources is not permitted. The same applies to attempts to do so. Proofreading of the work by third parties with the aim of correcting linguistic deficiencies is permitted.</p>
+<p>Any infringements of the above rules constitute fraud or attempted fraud and shall lead to the examination being graded "fail" ("nicht bestanden"). In the event of multiple or particularly drastic breaches of the rules, further sanctions may be imposed by the Examination Board (Prüfungsausschuss).</p>
+<p>_______________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ______________________________</p>
+<p>Place, Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Signature</p>
 </div>
 </div>
-<p></p><figcaption class="figure-caption">Abbildung&nbsp;3.3: Eidesstattliche Erklärung</figcaption><p></p>
+<figcaption class="figure-caption">Abbildung&nbsp;3.3: Sample Declaration of Originality (Wiso, FAU, 7. 6. 2023)</figcaption>
 </figure>
 </div>
 
@@ -372,9 +391,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -439,6 +472,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -477,12 +596,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp(/^(?:http|https):\/\/faucommsci.github.io/);
+      var filterRegex = new RegExp("^(?:http|https):\/\/faucommsci.github.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -510,6 +629,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">FAU Erlangen-Nürnberg, WiSo</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">Lehrstuhl &amp; Juniorprofessur für Kommunikationswissenschaft</div>
   </div>
 </footer>

@@ -32,7 +32,7 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel s. @fig-vorlage_deckblatt)
 
-![Beispieldeckblatt | [ [Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)]{.download}](img/vorlage_deckblatt){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+![Beispieldeckblatt \| [[Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template.dotx)]{.download}](img/vorlage_deckblatt){#fig-vorlage_deckblatt fig-align="center" width="66%"}
 
 Das Deckblatt sollte folgende Informationen enthalten
 
@@ -72,19 +72,25 @@ Ein Abkürzungsverzeichnis ist nicht notwendig. Führen Sie stattdessen zentrale
 
 Alle wissenschaftlichen Arbeiten, die Sie als Prüfungsleistungen einreichen, müssen eine Eidesstattliche Erklärung enthalten:
 
-::: {#fig-eid fig-cap="Eidesstattliche Erklärung" fig-align="left"}
+::: {#fig-eid fig-cap="Muster für eine Eigenständigkeitserklärung (Wiso, FAU, 7. 6. 2023)" fig-align="left"}
 ::: box
 <div>
 
 **Eidesstattliche Erklärung**
 
-{Ich versichere/Wir versichern}, dass {ich/wir} die Arbeit: "{Thema}" ohne fremde Hilfe und ohne Benutzung anderer als der angegebenen Quellen angefertigt {habe(n)} und dass die Arbeit in gleicher oder ähnlicher Form noch an keiner anderen Prüfungsbehörde vorgelegen hat. Alle Ausführungen, die wörtlich übernommen wurden, sind als solche gekennzeichnet.
+Hiermit versichere ich, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name) \_\_\_\_\_\_\_\_\_\_ (Matrikelnummer), die vorgelegte Arbeit selbstständig und ohne unzulässige Hilfe Dritter sowie ohne die Hinzuziehung nicht offengelegter und insbesondere nicht zugelassener Hilfsmittel angefertigt zu haben. Die Arbeit hat in gleicher oder ähnlicher Form noch keiner anderen Prüfungsbehörde vorgelegen und wurde auch von keiner anderen Prüfungsbehörde bereits als Teil einer Prüfung angenommen.
 
-{Unterschrift}
+Die Stellen der Arbeit, die anderen Quellen im Wortlaut oder dem Sinn nach entnommen wurden, sind durch Angaben der Herkunft kenntlich gemacht. Dies gilt auch für Zeichnungen, Skizzen, bildliche Darstellungen sowie für Quellen aus dem Internet.
 
-<hr />
+Mir ist insbesondere bewusst, dass die Nutzung künstlicher Intelligenz verboten ist, sofern diese nicht ausdrücklich als Hilfsmittel von den Prüfenden zugelassen wurde. Dies gilt insbesondere für solche Programme, die anstelle meiner Person die Aufgabenstellung der Prüfung bzw. Teile derselben bearbeiten könnten, zum Beispiel Chatbots (insbesondere ChatGPT) und andere hierzu geeignete Methoden.
 
-Ort, Datum {vollständiger Name}
+Des Weiteren ist mir bekannt, dass die gemeinsame Bearbeitung der Aufgabenstellung mit anderen Personen in einem Raum oder mithilfe sozialer oder anderer Medien eine unzulässige Hilfe Dritter im o.g. Sinne darstellt, wenn nicht ausdrücklich Gruppenarbeit vorgesehen ist. Der Austausch mit anderen Personen mit Ausnahme von Prüfenden, deren Beauftragten und Aufsichtführenden während der Prüfungszeit über Aufbau oder Inhalte der Prüfung oder Informationen (z.B. Quellen) ist unzulässig. Gleiches gilt für den Versuch der jeweiligen Handlung. Das Korrekturlesen der Arbeit durch Dritte mit dem Ziel, sprachliche Mängel zu beheben, ist zulässig.
+
+Verstöße gegen die o.g. Regeln sind als Täuschung bzw. Täuschungsversuch zu qualifizieren und führen zu einer Bewertung der Prüfung mit „nicht bestanden". Bei mehrfachen oder auch besonders drastischen Regelverstößen sind weiterführende Sanktionen durch den Prüfungsausschuss möglich.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Ort, Datum                                                            Eigenhändige Unterschrift
 
 </div>
 :::
@@ -96,22 +102,25 @@ Hinweise: {Platzhalter} in @fig-eid durch entsprechende Inhalte ersetzen. Bei Gr
 
 Für englische Arbeiten können Sie den folgenden Text nutzen:
 
-
-::: {#fig-eid-en fig-cap="Eidesstattliche Erklärung" fig-align="left"}
+::: {#fig-eid-en fig-cap="Sample Declaration of Originality (Wiso, FAU, 7. 6. 2023)" fig-align="left"}
 ::: box
 <div>
 
-
 **Affidavit**
 
-{I/we hereby affirm that I/we have written the paper "{topic}" without outside help and without using sources other than those cited. Further, that the paper has not been submitted in the same or similar form for examination. All direct quotes are marked as such.
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name), student registration number:\_\_\_\_\_\_\_\_\_\_, hereby confirm that I completed the submitted work independently and without the unauthorized assistance of third parties and without the use of undisclosed and, in particular, unauthorized aids. This work has not been previously submitted in its current form or in a similar form to any other examination authorities and has not been accepted as part of an examination by any other examination authority.
 
-{Signature}
+Where the wording has been taken from other people\'s work or ideas, this has been properly acknowledged and referenced. This also applies to drawings, sketches, diagrams and sources from the Internet.
 
-<hr />
+In particular, I am aware that the use of artificial intelligence is forbidden unless its use an aid has been expressly permitted by the examiner. This applies in particular to such programs that could process the task of the examination or parts thereof instead of me, for example chatbots (especially ChatGPT) and other methods suitable for this purpose.
 
-Place, date {full name}
+Furthermore, I am aware that working with others in one room or by means of social or other media represents the unauthorized assistance of third parties within the above meaning, if group work is not expressly permitted. Each exchange of information with others during the examination, with the exception of examiners, persons authorized by them and invigilators, about the structure or contents of the examination or any other information such as sources is not permitted. The same applies to attempts to do so. Proofreading of the work by third parties with the aim of correcting linguistic deficiencies is permitted.
 
+Any infringements of the above rules constitute fraud or attempted fraud and shall lead to the examination being graded \"fail\" (\"nicht bestanden\"). In the event of multiple or particularly drastic breaches of the rules, further sanctions may be imposed by the Examination Board (Prüfungsausschuss).
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Place, Date                                                                Signature
 
 </div>
 :::
