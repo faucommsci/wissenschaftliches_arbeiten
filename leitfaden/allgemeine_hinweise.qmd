@@ -38,3 +38,64 @@ Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 
 Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (kurz-)Titel ein.
 
 Abschlussarbeiten müssen in zwei- (Bachelorarbeiten) bzw. dreifacher (Masterarbeiten) Ausführung gedruckt und gebunden sowie in elektronischer Form (z. B. USB-Stick, CD) beim Prüfungsamt abgegeben werden.
+
+## Einwilligungserklärung für Studienteilnehmende
+
+Dieser Abschnitt ist für alle wissenschaftliche Arbeiten relevant, bei der Sie Daten von menschlichen Teilnehmenden erheben, z.B. Befragungen, Experiment, etc.
+
+Wenn Sie Daten von Teilnehmenden erheben, benötigen Sie stets das Einverständnis aller Betroffenen. In der Einwilligungserklärung (Informed Consent) werden Teilnehmende über alle Vorteile, Risiken, Rechte und Datenschutz aufgeklärt. Dies kann z.B. am Anfang eines Online-Fragebogens oder in Papierform geschehen. Nur Personen, die vollständig aufgeklärt wurden und eingewilligt haben, dürfen an Studien teilnehmen. 
+
+Sollte eine vollumfängliche Aufklärung über Inhalte, Zweck, oder genauen Ablauf der Studie im Vorhinein nicht möglich sein, z.B. bei einem doppelblinden Experiment, müssen Sie Teilnehmende immer im Nachhinein über die eigentlichen Inhalte/Zwecke/etc. aufklären (sog. Debriefing). Eine Auslassung von oder Täuschung über Inhalte, Zweck oder Ablauf der Studie sollten Sie stets mit der betreuenden Person absprechen. Vorteile, Risiken, Freiwilligkeit, Anonymität und Datenschutz, sowie Informationen zu den Studienverantwortlichen müssen *immer* vollständig und korrekt in der Einwilligkeitserklärung dargestellt werden. 
+
+Im Folgenden finden Sie ein Beispiel für eine Einwilligungserklärung. Sie sollten die Erklärung stets auf die vorliegende Studie und aktuelle Gesetzeslage anpassen.
+
+::: {#fig-consent fig-cap="Beispiel für eine Einwilligungserklärung" fig-align="left"}
+::: box
+<div>
+
+​​{Titel der Studie}
+
+Zweck der Studie: {Ziele der Studie kurz beschreiben}
+
+Ablauf und Dauer: ​{Ablauf der Studie kurz beschreiben}​. Die Studie wird etwa ​{Minutenzahl} auswählen​ dauern. 
+
+Vorteile und Risiken: Sie erhalten für die Teilnahme ​​{Belohnung angeben, sofern zutreffend}. ​Durch Ihre Teilnahme entstehen {keine Risiken, die über Risiken im alltäglichen Leben hinausgehen}. 
+
+Freiwilligkeit: {Die Teilnahme an der Studie ist freiwillig und kann jederzeit und ohne Angabe von Gründen beendet werden, ohne dass Ihnen daraus Nachteile entstehen}. 
+
+Anonymität und Datenschutz: {Die Erhebung Ihrer Daten erfolgt vollständig anonym, das heißt es ist kein Rückschluss auf Ihre Person möglich. Sie können Ihre Einwilligung in die Erhebung der Daten bis zum Ende der Studie widerrufen. Dafür tragen Sie einfach in das freie Textfeld am Ende ein, dass Ihre Daten gelöscht werden sollen. Nach Abschluss der Datenerhebung ist keine Löschung Ihres persönlichen Datensatzes möglich, da wir keine Zuordnung vornehmen können. ​Die Ergebnisse dieser Untersuchung werden für eine wissenschaftliche Publikation verwendet und als offene Daten gemäß den Empfehlungen der DFG im Open Science Framework Archiv zugänglich gemacht​. Dies dient der Qualitätssicherung wissenschaftlicher Forschung.} 
+
+Die Erhebung der Daten erfolgt durch: 
+
+​​{Abschlussarbeitskandidat:in/Seminarteilnehmerin}:​ ​{Vorname, Nachname Kandidat*in}.​ 
+
+​​{Email Kandidat:in/Teilnehmer:in}.​ 
+
+​​Betreuer:in:​ {Name Betreuer:in} 
+
+​​{Email Betreuer:in} 
+
+​​​FAU Erlangen-Nürnberg, Fachbereich Wirtschafts- und Sozialwissenschaften​​ 
+
+{Lehrstuhl/​​Juniorprofessur} für Kommunikationswissenschaft​ 
+
+​​Findelgasse 7/9, 90402 Nürnberg​ 
+
+Verantwortung für die sachgemäße Datenverarbeitung trägt der/die Betreuer:in sowie ​​{Kandidat:in/Teilnehmer:in}​​. Sie dürfen eine Kopie dieser Erklärung herunterladen. 
+
+Datenschutzbeauftragter: {Name}, {E-Mail}, {Tel.} 
+
+Hiermit bestätige ich, dass… 
+
+- ich über die Befragung informiert wurde und die Informationen verstanden habe, dass die die Teilnahme an dieser Studie freiwillig ist und ich die Studie jederzeit und ohne Angaben von Gründen beenden kann, ohne, dass mir daraus Nachteile entstehen 
+
+- meine bereitgestellten Informationen in dieser Studie ​anonymisiert in wissenschaftlichen Artikeln und Präsentationen verwendet und mit anderen Forscherinnen und Forschern sowie in wissenschaftlichen Datenbanken ​ geteilt werden dürfen. 
+
+​​◯ Ich bestätige und willige in die Befragung ein (an der Studie teilnehmen) 
+
+​​◯​ Ich bestätige *nicht* und willige *nicht* in die Befragung ein (nicht teilnehmen) 
+</div>
+:::
+:::
+
+Hinweise: {Platzhalter} in @fig-consent durch entsprechende Inhalte ersetzen. Es handelt sich um Beispielformulierungen. Bitte nehmen Sie eine Anpassung auf die jeweilige Studie vor.
