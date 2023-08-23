@@ -37,7 +37,7 @@ Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 
 
 Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (kurz-)Titel ein.
 
-Abschlussarbeiten müssen in zwei- (Bachelorarbeiten) bzw. dreifacher (Masterarbeiten) Ausführung gedruckt und gebunden sowie in elektronischer Form (z. B. USB-Stick, CD) beim Prüfungsamt abgegeben werden.
+Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgegeben werden. Dabei müssen **zwei gedruckte** und gebundene Exemplare sowie **ein elektronisches Exemplar** (z. B. USB-Stick, CD) abgegeben werden.
 
 ## Einwilligungserklärung für Studienteilnehmende
 
