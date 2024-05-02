@@ -1,8 +1,10 @@
 # Literaturrecherche
 
-Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich. 
+Die Recherche relevanter Fachliteratur ist für empirische Arbeiten und Literaturüberblicke zentral. Im Folgenden ist eine Übersicht über zentrale Vorgehensweisen bei der Recherche ausgeführt.
 
 ## Literaturdatenbanken
+
+Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich. 
 
 ### Wissenschaftliche Datenbanken
 
