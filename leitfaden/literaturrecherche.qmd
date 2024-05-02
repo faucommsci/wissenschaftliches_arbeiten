@@ -55,9 +55,12 @@ Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mi
 
 ## Forward und Backward search
     
-Um relevante Artikel zu identifizieren empfiehlt es sich Außerdem:
-1.  ...aktuelle Artikel zu Ihrem Thema nutzen, um relevante Beiträge zu identifizieren (inkl. "*forward/citation search*"),
+Um relevante Artikel zu identifizieren empfiehlt es sich außerdem:
+
+1.  ...aktuelle Artikel zum Thema der Arbeit zu nutzen, um relevante Beiträge zu identifizieren (inkl. "*forward/citation search*"),
+
 2.  ...die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen nutzen, um relevante Literatur zu identifizieren,
+
 3.  ...zentrale oder bahnbrechende Arbeiten identifizieren und in Literatur suchen, die dieser Beitrag zitiert (*backward/references search*").
 
 In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen Artikel zitieren ("Cited by") und diese zu durchsuchen ("Search within citing articles").
