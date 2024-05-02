@@ -50,7 +50,7 @@ Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mi
 
 -   `NOT` wird verwendet, wenn bestimmte Begriffe ausgeschlossen werden sollen, beispielsweise, wenn ein Begriff eine weitere Bedeutung hat, z.B. bei Communication im Sinne menschlicher Kommunikation vs. in einem Computerprotokoll: `communication NOT http`
 
--   Operatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine Zielgerichtete Recherche ermöglichen.
+-   Operatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine zielgerichtete Recherche ermöglichen.
 
 [Hier](https://libguides.mit.edu/c.php?g=175963&p=1158594) gibt es mehr Informationen zu logischen Operatoren in Datenbanken.
 
