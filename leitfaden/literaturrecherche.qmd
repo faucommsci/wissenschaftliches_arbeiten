@@ -63,7 +63,7 @@ Um relevante Artikel zu identifizieren empfiehlt es sich außerdem:
 
 3.  ...zentrale oder bahnbrechende Arbeiten identifizieren und in Literatur suchen, die dieser Beitrag zitiert (*backward/references search*").
 
-In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen Artikel zitieren ("Cited by") und diese zu durchsuchen ("Search within citing articles").
+In Google Scholar gibt es beispielsweise die Option, Artikel zu sehen, die einen Artikel zitieren ("Cited by") und zu durchsuchen ("Search within citing articles").
 
 ## Suche in Journals
 
