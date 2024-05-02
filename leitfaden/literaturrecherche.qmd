@@ -64,7 +64,7 @@ In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen 
 
 ## Suche in Journals
 
-Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind z.B. relevante Journals: 
+Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind das z.B.: 
 
 -   Journal of Communication
 -   Journal of Computer-Mediated Communication
@@ -78,4 +78,4 @@ Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommu
 -   Comunicar
 -   ...
 
-Eine Übersicht über Journals mit gibt es bei [Clarivate (https://jcr.clarivate.com/jcr/browse-journals)](https://jcr.clarivate.com/jcr/browse-journals), nachdem nach dem Fachbereich gefiltert wurde oder bei [Scimago (https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc)](https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc).
+Eine Übersicht über Journals inkl. Impact-Bewertungen gibt es bei [Clarivate](https://jcr.clarivate.com/jcr/browse-journals) oder bei [Scimago](https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc).
