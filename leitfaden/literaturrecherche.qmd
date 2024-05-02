@@ -1,27 +1,81 @@
 # Literaturrecherche
 
-Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich. Google Scholar listet eine große Menge an aktueller Fachliteratur sowie grauer Literatur. Fachspezifische Datenbanken, erreichbar Sie über DBIS der FAU, z. B. PsycInfo oder Scopus, können im jeweiligen Fachgebiet Literatur anhand von Schlagworten identifizieren. Für systematischere Suchen können mehrere Begriffe mit logischen Operatoren (z. B. AND, OR)[^2] verknüpft werden .
+Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich. 
 
-[^2]: [Hier gibt es mehr Informationen zu logischen Operatoren in Datenbanken](https://libguides.mit.edu/c.php?g=175963&p=1158594).
+## Literaturdatenbanken
 
-Hilfreiche Links:
+### Wissenschaftliche Datenbanken
 
--   [DBIS (Database Information System)](https://ub.fau.de/recherchieren/datenbanken/)
+Wissenschaftliche Datenbanken aggregieren Informationen aus diversen Quellen, insbesondere von peer-reviewten Journals. Über die Universität steht der Zugriff auf Datenbanken mit verschiedenen Fachspezifischen Schwerpunkten zur Verfügung. Je nach inhaltlichem Schwerpunkt der Arbeit ist die Nutzung mind. einer Datenbank empfehlenswert. Eine Übersicht über alle verfügbaren Datenbanken steht über das **[DBIS (Database Information System der bayerischen Universitäten)](https://ub.fau.de/recherchieren/datenbanken/)** bereit. Die Datenbanken sind teilweise nur über das Uninetz abrufbar.
 
-    -   PsycInfo
+Eine Auswahl potentiell relevante Datenbanken sind:
 
-    -   Web of Science
+-   [PsycInfo](https://dbis.ur.de/dbinfo/detail.php?bib_id=ub_en&colors=&ocolors=&lett=fs&tid=0&titel_id=149)
 
-    -   Scopus
+-   [Scopus](https://dbis.ur.de/dbinfo/detail.php?bib_id=ub_en&colors=&ocolors=&lett=f&tid=0&titel_id=3636)
 
-    -   ...
+-   [Web of Science](https://dbis.ur.de/dbinfo/detail.php?bib_id=ub_en&colors=&ocolors=&lett=fs&tid=0&titel_id=3366)
 
--   [Google Scholar](https://scholar.google.com/)
+-   [Business Source Complete](https://dbis.ur.de/dbinfo/detail.php?bib_id=ub_en&colors=&ocolors=&lett=f&tid=0&titel_id=5660)
 
 -   ...
 
-Außerdem können Sie...
+Um die Suche zu präzisieren oder irrelevante Literatur auszuschließen, können logische Operatoren verwendet werden (s. @sec-boolean).
 
+### Google Scholar 
+
+Für fachübergreifende Recherchen bietet sich die Nutzung von Google Scholar an. Neben der Suche nach Literatur finden sich auf Google Scholar häufig frei verfügbare Volltexte von Artikeln. 
+
+Um Literatur zu identifizieren empfiehlt es sich die erweiterte Suche bzw. "Advanced search" zu nutzen. Hier sind insbesondere relevant:
+
+-   Suche im Artikeltitel: Insbesondere zur Identifikation zentraler Artikel zu eunem Thema
+-   Ein- uns Ausschluss über Schlagwörter oder wörtliche Phrasen
+-   Filtern nach Journals
+-   Filtern nach Jahren
+
+Scholar ist eine gute Ressource für die Literaturrecherche, allerdings findet keine Qualitätskontrolle statt, daher findet sich dort auch sog. graue Literatur bzw. nicht peer-reviewte Literatur. Daher sollte hier insbesondere auf die Wissenschaftlichkeit der Quellen geachtet werden.
+
+In Google Scholar können logische Operatoren verwendet werden (s. @sec-boolean).
+
+
+## Erweiterte Suche und Logische Operatoren {#sec-boolean}
+
+Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mit logischen Operatoren umgehen können. Die häufigsten Operatoren sind `AND`, `OR`, und `NOT`. Diese Operatoren finden Sie in allen wissenschaftlichen Datenbanken und Google Scholar. Manchmal unterscheiden sie sich aber in der konkreten Umsetzung, z.B. Groß-/Kleinschreibung, Verwendung von Symbolen, etc. Über die erweiterte Suche der Suchmaschinen können daher meist Suchstrings über eine grafische Benuzteroberfläche erstellt werden.
+
+-   `AND` wird verwendet, wenn mehrere Begriffe kombiniert werden sollen, z.B. bei einer Arbeit zu Sozialen Medien und Wohlbefinden der Suchstring: `Social Media AND Well-Being`
+
+-   `OR` wird verwendet, wenn mehrere Varianten abgedeckt sein sollen, u.a. bei ähnlichen Begriffen und Synonymen, z.B. bei psychischem Wohlbefinden und psychischer Gesundheit der Suchstring: `well-being OR mental health`
+
+-   `NOT` wird verwendet, wenn bestimmte Begriffe ausgeschlossen werden sollen, beispielsweise, wenn ein Begriff eine weitere Bedeutung hat, z.B. bei Communication im Sinne menschlicher Kommunikation vs. in einem Computerprotokoll: `communication NOT http`
+
+-   Operatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine Zielgerichtete Recherche ermöglichen.
+
+[Hier](https://libguides.mit.edu/c.php?g=175963&p=1158594) gibt es mehr Informationen zu logischen Operatoren in Datenbanken.
+
+
+## Forward und Backward search
+    
+Um relevante Artikel zu identifizieren empfiehlt es sich Außerdem:
 1.  ...aktuelle Artikel zu Ihrem Thema nutzen, um relevante Beiträge zu identifizieren (inkl. "*forward/citation search*"),
 2.  ...die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen nutzen, um relevante Literatur zu identifizieren,
 3.  ...zentrale oder bahnbrechende Arbeiten identifizieren und in Literatur suchen, die dieser Beitrag zitiert (*backward/references search*").
+
+In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen Artikel zitieren ("Cited by") und diese zu durchsuchen ("Search within citing articles").
+
+## Suche in Journals
+
+Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind z.B. relevante Journals: 
+
+-   Journal of Communication
+-   Journal of Computer-Mediated Communication
+-   Political Communication
+-   Science Communication
+-   New Media & Society
+-   Communication Monographs
+-   International Journal of Advertising
+-   Social Media + Society
+-   Information Communication & Society
+-   Comunicar
+-   ...
+
+Eine Übersicht über Journals mit gibt es bei [Clarivate (https://jcr.clarivate.com/jcr/browse-journals)](https://jcr.clarivate.com/jcr/browse-journals), nachdem nach dem Fachbereich gefiltert wurde oder bei [Scimago (https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc)](https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc).

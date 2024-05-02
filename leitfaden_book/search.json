@@ -137,7 +137,11 @@
     "href": "literaturrecherche.html#footnotes",
     "title": "5  Literaturrecherche",
     "section": "",
-    "text": "Hier gibt es mehr Informationen zu logischen Operatoren in Datenbanken.↩︎"
+    "text": "Hier gibt es mehr Informationen zu logischen Operatoren in Datenbanken.↩︎",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
   },
   {
     "objectID": "open_science.html",
@@ -194,5 +198,71 @@
     "title": "1  Allgemeine Hinweise",
     "section": "1.5 Einwilligungserklärung für Studienteilnehmende",
     "text": "1.5 Einwilligungserklärung für Studienteilnehmende\nDieser Abschnitt ist für alle wissenschaftliche Arbeiten relevant, bei der Sie Daten von menschlichen Teilnehmenden erheben, z.B. Befragungen, Experiment, etc.\nWenn Sie Daten von Teilnehmenden erheben, benötigen Sie stets das Einverständnis aller Betroffenen. In der Einwilligungserklärung (Informed Consent) werden Teilnehmende über alle Vorteile, Risiken, Rechte und Datenschutz aufgeklärt. Dies kann z.B. am Anfang eines Online-Fragebogens oder in Papierform geschehen. Nur Personen, die vollständig aufgeklärt wurden und eingewilligt haben, dürfen an Studien teilnehmen.\nSollte eine vollumfängliche Aufklärung über Inhalte, Zweck, oder genauen Ablauf der Studie im Vorhinein nicht möglich sein, z.B. bei einem doppelblinden Experiment, müssen Sie Teilnehmende immer im Nachhinein über die eigentlichen Inhalte/Zwecke/etc. aufklären (sog. Debriefing). Eine Auslassung von oder Täuschung über Inhalte, Zweck oder Ablauf der Studie sollten Sie stets mit der betreuenden Person absprechen. Vorteile, Risiken, Freiwilligkeit, Anonymität und Datenschutz, sowie Informationen zu den Studienverantwortlichen müssen immer vollständig und korrekt in der Einwilligkeitserklärung dargestellt werden.\nIm Folgenden finden Sie ein Beispiel für eine Einwilligungserklärung. Sie sollten die Erklärung stets auf die vorliegende Studie und aktuelle Gesetzeslage anpassen.\n\n\n\n\n​​{Titel der Studie}\nZweck der Studie: {Ziele der Studie kurz beschreiben}\nAblauf und Dauer: ​{Ablauf der Studie kurz beschreiben}​. Die Studie wird etwa ​{Minutenzahl} auswählen​ dauern.\nVorteile und Risiken: Sie erhalten für die Teilnahme ​​{Belohnung angeben, sofern zutreffend}. ​Durch Ihre Teilnahme entstehen {keine Risiken, die über Risiken im alltäglichen Leben hinausgehen}.\nFreiwilligkeit: {Die Teilnahme an der Studie ist freiwillig und kann jederzeit und ohne Angabe von Gründen beendet werden, ohne dass Ihnen daraus Nachteile entstehen}.\nAnonymität und Datenschutz: {Die Erhebung Ihrer Daten erfolgt vollständig anonym, das heißt es ist kein Rückschluss auf Ihre Person möglich. Sie können Ihre Einwilligung in die Erhebung der Daten bis zum Ende der Studie widerrufen. Dafür tragen Sie einfach in das freie Textfeld am Ende ein, dass Ihre Daten gelöscht werden sollen. Nach Abschluss der Datenerhebung ist keine Löschung Ihres persönlichen Datensatzes möglich, da wir keine Zuordnung vornehmen können. ​Die Ergebnisse dieser Untersuchung werden für eine wissenschaftliche Publikation verwendet und als offene Daten gemäß den Empfehlungen der DFG im Open Science Framework Archiv zugänglich gemacht​. Dies dient der Qualitätssicherung wissenschaftlicher Forschung.}\nDie Erhebung der Daten erfolgt durch:\n​​{Abschlussarbeitskandidat:in/Seminarteilnehmerin}:​ ​{Vorname, Nachname Kandidat*in}.​\n​​{Email Kandidat:in/Teilnehmer:in}.​\n​​Betreuer:in:​ {Name Betreuer:in}\n​​{Email Betreuer:in}\n​​​FAU Erlangen-Nürnberg, Fachbereich Wirtschafts- und Sozialwissenschaften​​\n{Lehrstuhl/​​Juniorprofessur} für Kommunikationswissenschaft​\n​​Findelgasse 7/9, 90402 Nürnberg​\nVerantwortung für die sachgemäße Datenverarbeitung trägt der/die Betreuer:in sowie ​​{Kandidat:in/Teilnehmer:in}​​. Sie dürfen eine Kopie dieser Erklärung herunterladen.\nDatenschutzbeauftragter: {Name}, {E-Mail}, {Tel.}\nHiermit bestätige ich, dass…\n\nich über die Befragung informiert wurde und die Informationen verstanden habe, dass die die Teilnahme an dieser Studie freiwillig ist und ich die Studie jederzeit und ohne Angaben von Gründen beenden kann, ohne, dass mir daraus Nachteile entstehen\nmeine bereitgestellten Informationen in dieser Studie ​anonymisiert in wissenschaftlichen Artikeln und Präsentationen verwendet und mit anderen Forscherinnen und Forschern sowie in wissenschaftlichen Datenbanken ​ geteilt werden dürfen.\n\n​​◯ Ich bestätige und willige in die Befragung ein (an der Studie teilnehmen)\n​​◯​ Ich bestätige nicht und willige nicht in die Befragung ein (nicht teilnehmen)\n\n\nAbbildung 1.1: Beispiel für eine Einwilligungserklärung\n\n\nHinweise: {Platzhalter} in Abbildung 1.1 durch entsprechende Inhalte ersetzen. Es handelt sich um Beispielformulierungen. Bitte nehmen Sie eine Anpassung auf die jeweilige Studie vor."
+  },
+  {
+    "objectID": "literaturrecherche.html",
+    "href": "literaturrecherche.html",
+    "title": "5  Literaturrecherche",
+    "section": "",
+    "text": "5.1 Literaturdatenbanken",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
+  },
+  {
+    "objectID": "literaturrecherche.html#literaturdatenbanken",
+    "href": "literaturrecherche.html#literaturdatenbanken",
+    "title": "5  Literaturrecherche",
+    "section": "",
+    "text": "5.1.1 Wissenschaftliche Datenbanken\nWissenschaftliche Datenbanken aggregieren Informationen aus diversen Quellen, insbesondere von peer-reviewten Journals. Über die Universität steht der Zugriff auf Datenbanken mit verschiedenen Fachspezifischen Schwerpunkten zur Verfügung. Je nach inhaltlichem Schwerpunkt der Arbeit ist die Nutzung mind. einer Datenbank empfehlenswert. Eine Übersicht über alle Verfügbaren Datenquellen steht über das DBIS (Database Information System der bayerischen Universitäten) zur Verfügung (teilw. nur über das Uninetz).\nEinige potentiell relevante Datenbanken sind:\n\nPsycInfo\nScopus\nWeb of Science\nBusiness Source Complete\n\nUm die Suche zu präzisieren oder irrelevante Literatur auszuschließen, können logische Operatoren verwendet werden (s. Kapitel 5.2).\n\n\n5.1.2 Google Scholar\nFür fachübergreifende Recherchen bietet sich die Nutzung von Google Scholar an. Neben der Suche nach Literatur finden sich auf Google Scholar häufig auch Volltexte von Artikeln.\nUm Literatur zu identifizieren empfiehlt es sich die erweiterte Suche bzw. advanced search zu nutzen. Hier sind insbesondere relevant:\n\nSuche im Artikeltitel: Insbesondere zur Identifikation zentraler Artikel zu eunem Thema\nEin- uns Ausschluss über Schlagwörter oder wörtliche Phrasen\nFiltern nach Journals\nFiltern nach Jahren\n\nScholar ist eine gute Ressource für die Literaturrecherche, allerdings findet keine Qualitätskontrolle statt, daher findet sich dort auch sog. graue Literatur bzw. nicht peer-reviewte Literatur. Daher sollte hier insbesondere auf die Wissenschaftlichkeit der Quellen geachtet werden.\nIn Google Scholar können auch logische Operatoren verwendet werden (s. Kapitel 5.2).",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
+  },
+  {
+    "objectID": "literaturrecherche.html#erweiterte-suche-und-logische-operatoren",
+    "href": "literaturrecherche.html#erweiterte-suche-und-logische-operatoren",
+    "title": "5  Literaturrecherche",
+    "section": "5.2 Erweiterte Suche und Logische Operatoren",
+    "text": "5.2 Erweiterte Suche und Logische Operatoren\nInsbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mit\nGoogle Scholar listet eine große Menge an aktueller Fachliteratur sowie grauer Literatur. Fachspezifische Datenbanken, erreichbar Sie über DBIS der FAU, z. B. PsycInfo oder Scopus, können im jeweiligen Fachgebiet Literatur anhand von Schlagworten identifizieren. Für systematischere Suchen können mehrere Begriffe mit logischen Operatoren (z. B. AND, OR)1 verknüpft werden .\nHilfreiche Links:\n\n…\n\nAußerdem können Sie…\n\n…aktuelle Artikel zu Ihrem Thema nutzen, um relevante Beiträge zu identifizieren (inkl. “forward/citation search”),\n…die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen nutzen, um relevante Literatur zu identifizieren,\n…zentrale oder bahnbrechende Arbeiten identifizieren und in Literatur suchen, die dieser Beitrag zitiert (backward/references search”).",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
+  },
+  {
+    "objectID": "literaturrecherche.html#sec-boolean",
+    "href": "literaturrecherche.html#sec-boolean",
+    "title": "5  Literaturrecherche",
+    "section": "5.2 Erweiterte Suche und Logische Operatoren",
+    "text": "5.2 Erweiterte Suche und Logische Operatoren\nInsbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mit logischen Operatoren umgehen können. Die häufigsten Operatoren sind AND, OR, und NOT. Diese Operatoren finden Sie in allen wissenschaftlichen Datenbanken und Google Scholar. Manchmal unterscheiden sie sich aber in der konkreten Umsetzung, z.B. Groß-/Kleinschreibung, Verwendung von Symbolen, etc. Über die erweiterte Suche der Suchmaschinen können daher meist Suchstrings über eine grafische Benuzteroberfläche erstellt werden.\n\nAND wird verwendet, wenn mehrere Begriffe kombiniert werden sollen, z.B. bei einer Arbeit zu Sozialen Medien und Wohlbefinden der Suchstring: Social Media AND Well-Being\nOR wird verwendet, wenn mehrere Varianten abgedeckt sein sollen, u.a. bei ähnlichen Begriffen und Synonymen, z.B. bei psychischem Wohlbefinden und psychischer Gesundheit der Suchstring: well-being OR mental health\nNOT wird verwendet, wenn bestimmte Begriffe ausgeschlossen werden sollen, beispielsweise, wenn ein Begriff eine weitere Bedeutung hat, z.B. bei Communication im Sinne menschlicher Kommunikation vs. in einem Computerprotokoll: communication NOT http\nOperatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine Zielgerichtete Recherche ermöglichen.\n\nHier gibt es mehr Informationen zu logischen Operatoren in Datenbanken.",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
+  },
+  {
+    "objectID": "literaturrecherche.html#forward-und-backward-search",
+    "href": "literaturrecherche.html#forward-und-backward-search",
+    "title": "5  Literaturrecherche",
+    "section": "5.3 Forward und Backward search",
+    "text": "5.3 Forward und Backward search\nUm relevante Artikel zu identifizieren empfiehlt es sich Außerdem: 1. …aktuelle Artikel zu Ihrem Thema nutzen, um relevante Beiträge zu identifizieren (inkl. “forward/citation search”), 2. …die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen nutzen, um relevante Literatur zu identifizieren, 3. …zentrale oder bahnbrechende Arbeiten identifizieren und in Literatur suchen, die dieser Beitrag zitiert (backward/references search”).\nIn Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen Artikel zitieren (“Cited by”) und diese zu durchsuchen (“Search within citing articles”).",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
+  },
+  {
+    "objectID": "literaturrecherche.html#suche-in-journals",
+    "href": "literaturrecherche.html#suche-in-journals",
+    "title": "5  Literaturrecherche",
+    "section": "5.4 Suche in Journals",
+    "text": "5.4 Suche in Journals\nHäufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind z.B. relevante Journals:\n\nJournal of Communication\nJournal of Computer-Mediated Communication\nPolitical Communication\nScience Communication\nNew Media & Society\nCommunication Monographs\nInternational Journal of Advertising\nSocial Media + Society\nInformation Communication & Society\nComunicar\n…\n\nEine Übersicht über Journals mit gibt es bei Clarivate (https://jcr.clarivate.com/jcr/browse-journals), nachdem nach dem Fachbereich gefiltert wurde oder bei Scimago (https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc).",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Literaturrecherche</span>"
+    ]
   }
 ]
