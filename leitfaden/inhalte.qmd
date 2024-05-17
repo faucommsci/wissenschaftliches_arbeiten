@@ -76,7 +76,7 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehen**s bei empirischen Arbeiten.
 
-Bei Literaturarbeiten, z. B. narrativen Literaturüberblicken, kann es sinnvoll sein, kein seperates Methodikkapitel einzuschließen. Allerdings ist auch hier die transparente **Darstellung des Vorgehens**, z.B. Such-, Einschluss und Ausschlusskriterien wichtig. Leserinnen und Leser der Arbeit sollten nachvollziehen können, wie Sie vorgegangen sind. Es muss daher kein seperates Methodenkapitel geben, die Vorgehenseise sollte jedoch ebenfalls transparent dargestellt werden.
+Bei Literaturarbeiten, z. B. narrativen Literaturüberblicken, kann es sinnvoll sein, kein dediziertes Methodikkapitel einzuschließen. Allerdings ist auch hier die transparente **Darstellung des Vorgehens**, z.B. Such-, Einschluss und Ausschlusskriterien wichtig. Leserinnen und Leser der Arbeit sollten nachvollziehen können, wie Sie vorgegangen sind. Es muss daher kein seperates Methodenkapitel geben, die Vorgehenseise sollte jedoch ebenfalls transparent dargestellt werden. Sie können das Vorgehen beispielsweise vor der Analyse der Evidenz erklären. 
 
 Verwendete Materialien, z. B. Fragebögen, Code-Bücher oder Experimental-Stimuli, gehören in den Anhang.
 
