@@ -76,9 +76,9 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehen**s bei empirischen Arbeiten.
 
-Bei Literaturarbeiten ist kein Methodenteil nötig. Bei narrativen Literaturüberblicken müssen keine methodischen Angaben gemacht werden. 
+Bei narrativen Literaturüberblicken müssen keine methodischen Angaben gemacht werden. 
 
-Für systematische Literaturüberblicke sollte  eine **Darstellung des Vorgehens**, z.B. Such-, Einschluss- und Ausschlusskriterien inkludiert werden.  
+Für systematische Literaturüberblicke sollte eine **Darstellung des Vorgehens**, z.B. Such-, Einschluss- und Ausschlusskriterien inkludiert werden.  
 
 Verwendete Materialien, z. B. Fragebögen, Code-Bücher oder Experimental-Stimuli, gehören in den Anhang.
 
