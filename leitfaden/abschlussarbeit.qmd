@@ -22,7 +22,7 @@ Im Exposee erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammen
 
 -   Name, Matrikelnummer, Studiengang, Fachsemester, Kontaktdaten
 
--   Arbeitstitel ("Working Title")
+-   Arbeitstitel ("Working Title"): Titel für die Arbeit, basierend auf den Inhalten des Exposés. Der Titel darf nicht dem ausgeschriebenen Thema entsprechen. Der Arbeitstitel kann bis zur Anmeldung überarbeitet werden. Der Titel, der beim Prüfungsamt angemeldet wird, muss identisch mit dem Titel auf der eingereichten Abschlussarbeit sein.
 
 -   Ausgangslage, Beschreibung des Themenfeldes und Vorschlag einer Fragestellung (ca. 200 Wörter)
 
