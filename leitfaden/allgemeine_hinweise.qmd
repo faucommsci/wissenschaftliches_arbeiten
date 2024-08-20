@@ -39,6 +39,29 @@ Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fu�
 
 Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgegeben werden. Dabei müssen **zwei gedruckte und gebundene** Exemplare sowie **ein elektronisches Exemplar** (z. B. USB-Stick, CD) abgegeben werden.
 
+
+::: callout-note
+## Ceckliste Formalien
+
+- Wörter Umfang: 
+        Seminararbeiten: siehe Vorgaben des jeweiligen Seminars
+        Bachelorrbeiten: 8.000 -- 10.000 Wörter
+        Masterarbeiten: 18.000 -- 20.000 Wörter
+
+- Schriftart und Zeilenabstand: 
+        Times New Roman 12pt oder Calibri 11 pt
+        2 - facher Zeilenabstand
+        Linksbündig oder Blocksatz
+
+- Randabstand: 
+        2.5 - 3 cm
+
+- Kopf- oder Fußzeile:
+        Seitenzahlen
+        (Kurz-) Titel
+:::
+
+
 ## Einwilligungserklärung für Studienteilnehmende
 
 Dieser Abschnitt ist für alle wissenschaftliche Arbeiten relevant, bei der Sie Daten von menschlichen Teilnehmenden erheben, z.B. Befragungen, Experiment, etc.
