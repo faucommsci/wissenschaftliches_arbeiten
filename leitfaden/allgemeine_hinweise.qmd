@@ -33,11 +33,11 @@ Bachelorarbeiten sollten einen Umfang von etwa **8.000 -- 10.000 Wörtern** (ca.
 
 Deckblatt, Anhang, Verzeichnisse, Abbildungen, etc. zählen nicht in diese Begrenzung. Abbildungen und Tabellen sind im Text zu erwähnen und in der Nähe der Erwähnung, nicht im Anhang, zu platzieren. Tabellen und Abbildungen mit weiterführenden, nicht essenziellen Informationen oder Materialien können in den Anhang und müssen nicht im Text erwähnt werden.
 
-Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 11pt** zu formatieren. Nutzen Sie für Fließtexte **2-fachen Zeilenabstand**.
+Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 11pt** zu formatieren. Nutzen Sie für Fließtexte **2-fachen Zeilenabstand** sowie eine **linksbündige oder Blocksatz** Formatierung.
 
-Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (kurz-)Titel ein.
+Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (kurz-)Titel ein. Die (kurz-)Titel sollen sich in der Kopfzeile befinden und geben den Titel der Arbeit in einer Zeile gekürzt wieder. Dabei muss darauf geachtete werden, dass die zentralsten Begriffe aufgegriffen werden.
 
-Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgegeben werden. Dabei müssen **zwei gedruckte** und gebundene Exemplare sowie **ein elektronisches Exemplar** (z. B. USB-Stick, CD) abgegeben werden.
+Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgegeben werden. Dabei müssen **zwei gedruckte und gebundene** Exemplare sowie **ein elektronisches Exemplar** (z. B. USB-Stick, CD) abgegeben werden.
 
 ## Einwilligungserklärung für Studienteilnehmende
 
@@ -45,7 +45,7 @@ Dieser Abschnitt ist für alle wissenschaftliche Arbeiten relevant, bei der Sie 
 
 Wenn Sie Daten von Teilnehmenden erheben, benötigen Sie stets das Einverständnis aller Betroffenen. In der Einwilligungserklärung (Informed Consent) werden Teilnehmende über alle Vorteile, Risiken, Rechte und Datenschutz aufgeklärt. Dies kann z.B. am Anfang eines Online-Fragebogens oder in Papierform geschehen. Nur Personen, die vollständig aufgeklärt wurden und eingewilligt haben, dürfen an Studien teilnehmen. 
 
-Sollte eine vollumfängliche Aufklärung über Inhalte, Zweck, oder genauen Ablauf der Studie im Vorhinein nicht möglich sein, z.B. bei einem doppelblinden Experiment, müssen Sie Teilnehmende immer im Nachhinein über die eigentlichen Inhalte/Zwecke/etc. aufklären (sog. Debriefing). Eine Auslassung von oder Täuschung über Inhalte, Zweck oder Ablauf der Studie sollten Sie stets mit der betreuenden Person absprechen. Vorteile, Risiken, Freiwilligkeit, Anonymität und Datenschutz, sowie Informationen zu den Studienverantwortlichen müssen *immer* vollständig und korrekt in der Einwilligkeitserklärung dargestellt werden. 
+Sollte eine vollumfängliche Aufklärung über Inhalte, Zweck, oder genauen Ablauf der Studie im Vorhinein nicht möglich sein, z.B. bei einem doppelblinden Experiment, müssen Sie Teilnehmende immer im Nachhinein über die eigentlichen Inhalte/Zwecke/etc. aufklären (sog. Debriefing). Eine Auslassung von oder Täuschung über Inhalte, Zweck oder Ablauf der Studie sollten Sie stets mit der betreuenden Person absprechen. Vorteile, Risiken, Freiwilligkeit, Anonymität und Datenschutz, sowie Informationen zu den Studienverantwortlichen müssen **immer** vollständig und korrekt in der Einwilligungserklärung dargestellt werden. 
 
 Im Folgenden finden Sie ein Beispiel für eine Einwilligungserklärung. Sie sollten die Erklärung stets auf die vorliegende Studie und aktuelle Gesetzeslage anpassen.
 
