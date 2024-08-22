@@ -1,6 +1,6 @@
 # Zitieren
 
-Wir erwarten, dass Sie alle fremden Gedanken kennzeichnen. In der Wissenschaft stützen wir uns auf die „Schultern von Riesen", d.h. Sie sollten Ihre Arbeit auf bestehender Literatur aufbauen und vorherigen Leistungen "Credit geben". Die vorhandene wissenschaftliche Literatur zu nutzen, macht Ihre Arbeit theoretisch, inhaltlich und methodisch stärker.
+Wir erwarten, dass Sie **alle** fremden Gedanken kennzeichnen. In der Wissenschaft stützen wir uns auf die „Schultern von Riesen", d.h. Sie sollten Ihre Arbeit auf bestehender Literatur aufbauen und vorherigen Leistungen "Credit geben". Die vorhandene wissenschaftliche Literatur zu nutzen, macht Ihre Arbeit theoretisch, inhaltlich und methodisch stärker.
 
 Sie sollten nach den Richtlinien des Publication Manuals (7. Ausgabe) der American Psychological Association \[APA\] [-@americanpsychologicalassociation2020], kurz APA7, zitieren. Sie finden übersichtliche und anschauliche Anleitungen, Beispiele, etc. dazu online auf der [APA Style-Seite](https://apastyle.apa.org/) [-@americanpsychologicalassociation].
 
@@ -76,7 +76,7 @@ Roller-Spoo, J. (2020, October 24). *Von Hatern und Hetzern: Der Kampf gegen Has
 
 -   Nennen Sie keinen Verlagsort.
 
--   Wenn das Buch keine doi besitzt und ein eBook einer wissenschaftlichen Datenbank ist, endet die Literaturangabe nach dem Verlagsnamen. Nennen Sie keine Datenban-kinformationen. Die Literaturangabe gleicht dann der von Printausgaben.
+-   Wenn das Buch keine doi besitzt und ein eBook einer wissenschaftlichen Datenbank ist, endet die Literaturangabe nach dem Verlagsnamen. Nennen Sie keine Datenbankinformationen. Die Literaturangabe gleicht dann der von Printausgaben.
 
 -   Wenn ein Buch 20 Autor\*innen oder weniger besitzt, nennen Sie alle Autor\*innen. Wenn ein Buch 21 Autor\*innen oder mehr besitzt, nennen Sie die ersten 19 Autor\*innen, setzen Sie danach drei Punkte („...") und nennen Sie danach den Namen der/des letzten Autor\*in. Diese Regel gilt auch für Zeitschriftenartikel (s. [Abschnitt @sec-fachzeitschriften)]).
 
@@ -529,13 +529,14 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
     -   (Müller, Meier, Schmidt, & Becker, 2017)
 
--   Wenn mehrere Quellen eine identische Autor\*innenreihenfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem Publikationsjahr hinzu. Diese Kleinbuchstaben müssen entsprechend auch im Literaturverzeichnis in der Jahresangabe stehen (s. [Abschnitt @sec-angaben-im-literaturverzeichnis]).
+-   Wenn mehrere Quellen eine identische Autor\*innenreihe
+nfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem Publikationsjahr hinzu. Diese Kleinbuchstaben müssen entsprechend auch im Literaturverzeichnis in der Jahresangabe stehen (s. [Abschnitt @sec-angaben-im-literaturverzeichnis]).
 
     -   (Müller & Meier, 2017a)
 
     -   Müller und Meier (2017b)
 
--   Wenn die Erstautor\*innen mehrerer Quellen denselben Nachnamen haben, aber ver-schiedene Initialen, nennen Sie die Initialen des/der Erstautor\*in in allen Kurzbelegen im Text, auch wenn sich das Publikationsjahr unterscheidet.
+-   Wenn die Erstautor\*innen mehrerer Quellen denselben Nachnamen haben, aber verschiedene Initialen, nennen Sie die Initialen des/der Erstautor\*in in allen Kurzbelegen im Text, auch wenn sich das Publikationsjahr unterscheidet.
 
     -   (J. M. Müller & Meier, 2017; T. Müller, 2014)
 
@@ -553,7 +554,7 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
 #### Angabe von spezifischen Stellen im Text und indirekte Zitate
 
--   Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor\*in, Jahr und eine Information über die bestimmte Stelle. Dies können Seiten, Ta-bellen, Schaubilder, Ergänzungsmaterial, Fußnoten, Kapitel, Zeitstempel o.Ä. sein, z.B.
+-   Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor\*in, Jahr und eine Information über die bestimmte Stelle. Dies können Seiten, Tabellen, Schaubilder, Ergänzungsmaterial, Fußnoten, Kapitel, Zeitstempel o.Ä. sein, z.B.
 
     -   (Centers for Disease Control and Prevention, 2019, pp. 10-11)
 
@@ -575,7 +576,7 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
 -   Grammatikalische Fehler im Original-Zitat werden übernommen und mit \[sic\] (d.h. „genau so") markiert.
 
-    -   „Die Psychoanalyse macht eine Grundvoraußetzung \[sic\], deren Diskussion philosophi-schem Denken vorbehalten bleibt, deren Rechtfertigung in ihren Resultaten liegt" (Freud, 1914, p. 11).
+    -   „Die Psychoanalyse macht eine Grundvoraußetzung \[sic\], deren Diskussion philosophischem Denken vorbehalten bleibt, deren Rechtfertigung in ihren Resultaten liegt" (Freud, 1914, p. 11).
 
 -   Auslassungen innerhalb eines Zitates kennzeichnet man durch „ ... ".
 
