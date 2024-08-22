@@ -4,7 +4,9 @@ Wir erwarten, dass Sie **alle** fremden Gedanken kennzeichnen. In der Wissenscha
 
 Sie sollten nach den Richtlinien des Publication Manuals (7. Ausgabe) der American Psychological Association \[APA\] [-@americanpsychologicalassociation2020], kurz APA7, zitieren. Sie finden übersichtliche und anschauliche Anleitungen, Beispiele, etc. dazu online auf der [APA Style-Seite](https://apastyle.apa.org/) [-@americanpsychologicalassociation].
 
-**Achtung**: *Abweichend von den APA-Richtlinien verlangen wir, dass Sie in Kurzbelegen Seitenanzahlen angeben* (s. [Abschnitt @sec-indirect]). Ausgenommen hiervon sind Verweise auf einen gesamten Beitrag oder das ungefähre Thema.
+::: callout-important
+*Abweichend von den APA-Richtlinien verlangen wir, dass Sie in Kurzbelegen bei allen Arbeiten, Bachelor-, Master-, und Seminararbeiten, Seitenanzahlen angeben* (s. [Abschnitt @sec-indirect]). Ausgenommen hiervon sind Verweise auf einen gesamten Beitrag oder das ungefähre Thema.
+:::
 
 Wir empfehlen, dass Sie ein Zitationsprogramm wie [Zotero](https://www.zotero.org/) (kostenlos, open source), Citavi oder Endnote nutzen. Bedenken Sie, dass diese Programme nur korrekt arbeiten, wenn Sie die richtigen Informationen in die vorgesehenen Felder eingeben und den APA7 Zitationsstil auswählen.
 
@@ -562,7 +564,13 @@ nfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem
 
     -   (Kovacic & Horvat, 2019, Tab. 1)
 
--   Bei einem indirekten Zitat (d.h. einer sinngemäßen Wiedergabe von Textstellen) setzen Sie immer Kurzbelege. Seitenangaben sind dabei vor allem angemessen, wenn spezifische Stellen einer Quelle belegt werden sollen. **APA-Abweichung**: Sie sollten durchgehend Seitenangaben in Kurzbelegen verwenden. Wird nur auf das grundlegende Thema eines Aufsatzes verwiesen, muss keine Seitenzahl angegeben werden.
+-   Bei einem indirekten Zitat (d.h. einer sinngemäßen Wiedergabe von Textstellen) setzen Sie immer Kurzbelege. Seitenangaben sind dabei vor allem angemessen, wenn spezifische Stellen einer Quelle belegt werden sollen. 
+
+::: callout-important
+**APA-Abweichung**: 
+Sie sollten bei allen allen Arbeiten, Bachelor-, Master-, und Seminararbeiten, durchgehend Seitenangaben in Kurzbelegen verwenden. Wird nur auf das grundlegende Thema eines Aufsatzes verwiesen, muss keine Seitenzahl angegeben werden.
+:::
+
 
     -   Der Third-Person Effekt (Davison, 1983) beschreibt eine indirekte Medienwirkung. Ge-meint ist damit insbesondere die Wahrnehmung, dass Massenmedien auf andere Personen einen größeren (negativen) Einfluss haben, als auf einen selbst (Davison, 1983, pp. 2-3).
 
