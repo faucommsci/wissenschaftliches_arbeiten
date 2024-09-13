@@ -45,7 +45,7 @@ Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgege
 
 - Wörter Umfang: 
         Seminararbeiten: siehe Vorgaben des jeweiligen Seminars
-        Bachelorbeiten: 8.000 -- 10.000 Wörter
+        Bachelorarbeiten: 8.000 -- 10.000 Wörter
         Masterarbeiten: 18.000 -- 20.000 Wörter
 
 - Schriftart und Zeilenabstand: 
