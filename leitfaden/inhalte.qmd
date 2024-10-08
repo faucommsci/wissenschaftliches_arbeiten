@@ -42,7 +42,7 @@ Im Folgenden wird auf die einzelnen Abschnitte der Arbeit eingegangen. Alle Absc
 
 ## Abstract
 
-Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Leser\*innen ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftliches Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
+Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Lesende ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftliches Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
 
 **Anforderungen**: Das Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englisches Abstract notwendig**.
 
@@ -74,7 +74,7 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 ## Methodik
 
-Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehen**s bei empirischen Arbeiten.
+Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehens** bei empirischen Arbeiten.
 
 Bei narrativen Literaturüberblicken müssen keine methodischen Angaben gemacht werden. 
 
