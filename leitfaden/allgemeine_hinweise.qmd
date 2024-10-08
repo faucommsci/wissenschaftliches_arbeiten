@@ -25,7 +25,7 @@ Wie Sie diese Gütekriterien optimal erfüllen und eine erfolgreiche Abschluss- 
 
 ## Sprache
 
-Wissenschaftliche Arbeiten am Lehrstuhl und der Juniorprofessur können grundsätzlich auf **Deutsch oder Englisch** geschrieben werden. Bitte beachten Sie zudem die Anweisungen im Seminar bzw. die Hinweise Ihrer Betreuer\*innen.
+Wissenschaftliche Arbeiten am Lehrstuhl und der Juniorprofessur können grundsätzlich auf **Deutsch oder Englisch** geschrieben werden. Bitte beachten Sie zudem die Anweisungen im Seminar bzw. die Hinweise Ihrer Betreuer oder Betreuerinnen.
 
 ## Umfang, Schriftbild und Druck
 
@@ -90,13 +90,13 @@ Anonymität und Datenschutz: {Die Erhebung Ihrer Daten erfolgt vollständig anon
 
 Die Erhebung der Daten erfolgt durch: 
 
-​​{Abschlussarbeitskandidat:in/Seminarteilnehmerin}:​ ​{Vorname, Nachname Kandidat*in}.​ 
+​​{Abschlussarbeitskandidat*in/Seminarteilnehmer*in}:​ ​{Vorname, Nachname Kandidat*in}.​ 
 
-​​{Email Kandidat:in/Teilnehmer:in}.​ 
+​​{Email Kandidat*in/Teilnehmer*in}.​ 
 
-​​Betreuer:in:​ {Name Betreuer:in} 
+​​Betreuer:in:​ {Name Betreuer*in} 
 
-​​{Email Betreuer:in} 
+​​{Email Betreuer*in} 
 
 ​​​FAU Erlangen-Nürnberg, Fachbereich Wirtschafts- und Sozialwissenschaften​​ 
 
