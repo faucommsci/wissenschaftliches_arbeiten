@@ -382,5 +382,60 @@
       "Leitfaden",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Literatur</span>"
     ]
+  },
+  {
+    "objectID": "KI- Unterstützung bei der Arbeit mit R.html",
+    "href": "KI- Unterstützung bei der Arbeit mit R.html",
+    "title": "7  KI- Unterstützung bei der Arbeit mit R",
+    "section": "",
+    "text": "8 KI-Unterstützung bei der Arbeit mit R",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI- Unterstützung bei der Arbeit mit R</span>"
+    ]
+  },
+  {
+    "objectID": "KI- Unterstützung bei der Arbeit mit R.html#warum-ist-es-sinnvoll-ki-tools-in-die-arbeit-mit-r-zu-integrieren",
+    "href": "KI- Unterstützung bei der Arbeit mit R.html#warum-ist-es-sinnvoll-ki-tools-in-die-arbeit-mit-r-zu-integrieren",
+    "title": "7  KI- Unterstützung bei der Arbeit mit R",
+    "section": "8.1 Warum ist es sinnvoll KI-Tools in die Arbeit mit R zu integrieren?",
+    "text": "8.1 Warum ist es sinnvoll KI-Tools in die Arbeit mit R zu integrieren?\nSie bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Unter Anderem durch Erklärungen von Sachverhalten oder Fehlermeldungen haben sie zudem eine Art Tutorenfunktion.\n\n\n\n\n\n\nWichtig\n\n\n\nAllgemeine Verwendungshinweise für alle KI Tools:\n\ngute Prompts verwenden\nInstruktionen einfach und präzise halten\nKeine personenbezogenen Daten verwenden (Verstoß gegen Datenschutz!)\nImmer den Output überprüfen: KI machen Fehler und/oder erfinden Code!\n\n\n\nErste Schritte für die Anwendung:\n\nKlar werden über eigene Fragestellung:\n\n\nWas für eine Aufgabe möchte ich bearbeiten oder welches Problem möchte ich lösen?\nMöchte ich Unterstützung beim Schreiben von Code durch integrierte Vorschläge oder durch Beantwortung meiner konkreten Fragen?\n\n\nAuswahl eines für die Fragestellung geeigneten KI – Tools:\n\nDas weitere Vorgehen variiert nach verwendetem Tool: (siehe 2. Verschiede KI Tools im Überblick)\n\nbei integrierten KI Tools wie Co-Pilot\n\n\nTool aktivieren und Vorschläge ausprobieren\n\n\nbei Tools wie ChatGPT / Hawki\n\n\nAnfrage mit den richtigen Prompts beginnen: spezifisch, Kontext geben, klare Sprache\nKI Vorschläge überprüfen und ausprobieren",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI- Unterstützung bei der Arbeit mit R</span>"
+    ]
+  },
+  {
+    "objectID": "KI- Unterstützung bei der Arbeit mit R.html#verschiedene-ki-tools-im-überblick-einsatz-von-copilot-chatgpt-und-hawki",
+    "href": "KI- Unterstützung bei der Arbeit mit R.html#verschiedene-ki-tools-im-überblick-einsatz-von-copilot-chatgpt-und-hawki",
+    "title": "7  KI- Unterstützung bei der Arbeit mit R",
+    "section": "8.2 Verschiedene KI Tools im Überblick: Einsatz von CoPilot, ChatGPT und Hawki",
+    "text": "8.2 Verschiedene KI Tools im Überblick: Einsatz von CoPilot, ChatGPT und Hawki\nDas können die verschiedenen Tools:\n\n8.2.1 GitHub Co-Pilot\nVoraussetzungen:\n\nGitHub Konto: Studierendenkonto ist möglich\nR Version darf nicht älter als 2023.09.0 sein\nInternetzugang\n\nZugriff über:\n\nCo-Pilot Integration in eigener R Anwendung\n\nAnwendung:\n\nAuto-Vervollständigung\nCode-Vorschläge\nBeantwortung von Fragen\n\nAchtung: bei komplizierten Aufgaben stößt es an Grenzen\nAnwendungsbeispiel:\nSobald GitHub Co-Pilot installiert und aktiviert ist, stehen zwei Hauptanwendungen zur Verfügung:\nErstens bietet dieser eine Autovervollständigung. Das bedeutet, dass während des Tippens Vorschläge in Form von grauem kursiv gedrucktem Text (sogenannter „grey ghost text“) angezeigt werden. Bei längeren und umfangreicheren Funktionen sind diese Vorschläge fehleranfällig, weshalb es sinnvoll ist, die Vorschläge in kleinen, überschaubaren Schritten erstellen zu lassen.\nZweitens kann der Co-Pilot einfache Fragen wie „Wie kann ich diesen Code verbessern?“ oder „Wie kann ich diesen Code testen?“ beantworten. Dies geschieht über die #q - Eingabe in der Konsole oder über ein Chat Feld im Ausgabebereich.\nDer Fokus liegt jedoch auf der Generierung von Codevorschlägen für die Beantwortung von Fragen sind andere Tools wie ChatGPT oder Hawki meist besser geeignet.\nFür beispielhafte Anwendungen und weitere Tipps, siehe gerne: https://docs.posit.co/ide/user/ide/guide/tools/copilot.html\n\n\n8.2.2 ChatGPT\nZugriff über:\n\nWebsite von OpenAI: Registrierung notwendig\nChatGPT R Pakete: beispielsweise chatgpt, askgpt, gptstudio und gpttools\n\nAchtung: Die Trainingsdaten reichen nur bis zu einem bestimmten Jahr zurück, deswegen können neuere Pakete/Tools teilweise noch nicht integriert sein\nAnwendung: -\n\nCode-Vorschläge\nAnalysemöglichkeiten\nOptimierung und Fehlerbehebung\n\nAnwendungsbeispiel:\nChatGPT kann einfache Code-Chunks erzeugen, wie z.B. Vorschläge zur Berechnung des Medians oder der Standardabweichung.\nBei der Datenanalyse kann ChatGPT auch nützlich sein, aber ein kritischer Blick auf die Outputs bleibt unerlässlich. Zusätzlich kann ChatGPT bei der Optimierung des Codes sowie der Fehlerbehebung hilfreich sein. Bei Letzterem kann ChatGPT, wenn der Fehlercode eingegeben wird, mögliche Ursachen diskutieren und Lösungen vorschlagen. Diese Anwendungsmöglichkeit ist in der Regel am effizientesten und zielführendsten, da ChatGPT Fehler schnell ausfindig und im Idealfall sogar beheben kann.\n\n\n8.2.3 Hawki\n= Open Source- Schnittstelle zu KI-Sprachmodellen wie ChatGPT/ Meta LLaMA / Qwen für alle FAU Angehörigen\nZugriff über:\n\nIntern oder über VPN\nAnmeldung mit IdM-Kennung: eigener Account bei nutzbaren KI-Anwendungen ist nicht notwendig\nKostenlos: Kosten werden von FAU getragen\nAnonymität: Anfragen werden mit globaler FAU-Kennung gestellt, dementsprechend keine Speicherung von personenbezogenen Daten\n\nAnwendung:\n\nAllgemeiner Chatraum\nSpezieller Chatraum (virtuelles Büro: Gespräch mit fiktiven Expert*innen)\nLernraum: Erlernen von Prompts\n\nAnwendungsbeispiel:\nBei Hawki kann man generell immer zwischen den verschieden verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek, Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden. Diese reichen vom Erlenen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.\nEin Beispiel-Prompt hierfür lautet: „Ich habe kürzlich eine umfangreiche Datensammlung durchgeführt und suche nun nach Unterstützung bei der Analyse der Daten. Die Datensammlung umfasst [Beschreibung der Daten], und ich möchte [Ziel der Analyse]. Könntest du mir bitte dabei helfen, die Daten zu analysieren und mir Ratschläge zur Interpretation der Ergebnisse zu geben?“\nZur Beantwortung von Fragen kann man sich nun entweder an den allgemeinen Chatraum oder an den spezifischeren in Form des „virtuellen Büros“ wenden. Bei letzterem kommuniziert man mit fiktiven Expert:innen aus unterschiedlichen Fachbereichen.\nEin Beispiel dafür ist Fatima: „Du unterhältst Dich jetzt mit Fatima, einer fiktiven Programmiererin. Was möchtest Du über Programmierung wissen?“\nGestellte Fragen können beispielsweise die Nutzung bestimmter R Pakete, Code Optimierung oder Fehlerbestimmung behandeln. Die andere Möglichkeit, Antworten zu generieren, ist der allgemeine Chat unter „Konversation“, wo es keine Untergliederungen gibt, sondern nur einen Chatbereich für beliebige Anliegen. Beide Optionen können nützliche Outputs generieren, die inhaltlich bei der selben Frage deckungsgleich sind. Der Unterschied liegt zum einen in der oben beschriebenen Struktur, zum anderen werden Chatverläufe und Antworten im „virtuelle Büro“ nicht gespeichert.",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI- Unterstützung bei der Arbeit mit R</span>"
+    ]
+  },
+  {
+    "objectID": "KI- Unterstützung bei der Arbeit mit R.html#fazit",
+    "href": "KI- Unterstützung bei der Arbeit mit R.html#fazit",
+    "title": "7  KI- Unterstützung bei der Arbeit mit R",
+    "section": "8.3 Fazit:",
+    "text": "8.3 Fazit:\nWas funktioniert mit KI-Tools gut, was nicht?\nVorteile der Nutzung sind vor allem die guten Hilfestellungen durch Codevorschläge und die schnelle Beantwortung einfacher Fragen. Dennoch scheitern die Tools meist noch an komplexere Aufgaben oder beim Übersetzen in unterschiedliche Programmiersprachen.\nUnverzichtbar bleibt die Überprüfung der Outputs!",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI- Unterstützung bei der Arbeit mit R</span>"
+    ]
+  },
+  {
+    "objectID": "KI- Unterstützung bei der Arbeit mit R.html#rechtliche-hinweise-der-fau",
+    "href": "KI- Unterstützung bei der Arbeit mit R.html#rechtliche-hinweise-der-fau",
+    "title": "7  KI- Unterstützung bei der Arbeit mit R",
+    "section": "8.4 Rechtliche Hinweise der FAU:",
+    "text": "8.4 Rechtliche Hinweise der FAU:\nHier sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubte Hilfsmittel in Prüfungen, zu finden.",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI- Unterstützung bei der Arbeit mit R</span>"
+    ]
   }
 ]
