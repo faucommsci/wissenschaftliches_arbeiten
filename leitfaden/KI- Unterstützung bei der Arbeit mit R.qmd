@@ -140,7 +140,7 @@ Ein Beispiel dafür ist Fatima: „Du unterhältst Dich jetzt mit Fatima, einer 
 
 Gestellte Fragen können beispielsweise die Nutzung bestimmter R Pakete, Code Optimierung oder Fehlerbestimmung behandeln. Die andere Möglichkeit, Antworten zu generieren, ist der allgemeine Chat unter „Konversation“, wo es keine Untergliederungen gibt, sondern nur einen Chatbereich für beliebige Anliegen. Beide Optionen können nützliche Outputs generieren, die inhaltlich bei der selben Frage deckungsgleich sind. Der Unterschied liegt zum einen in der oben beschriebenen Struktur, zum anderen werden Chatverläufe und Antworten im „virtuelle Büro“ nicht gespeichert.
 
-## Fazit:
+## Fazit
 
 Was funktioniert mit KI-Tools gut, was nicht?
 
@@ -148,6 +148,6 @@ Vorteile der Nutzung sind vor allem die guten Hilfestellungen durch Codevorschl�
 
 Unverzichtbar bleibt die Überprüfung der Outputs!
 
-## Rechtliche Hinweise der FAU:
+## Rechtliche Hinweise der FAU
 
 [Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubte Hilfsmittel in Prüfungen, zu finden.
