@@ -1,0 +1,153 @@
+---
+title: "KI- Unterstützung bei der Arbeit mit R"
+format: html
+editor: visual
+---
+
+# KI-Unterstützung bei der Arbeit mit R
+
+## Warum ist es sinnvoll KI-Tools in die Arbeit mit R zu integrieren?
+
+Sie bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Unter Anderem durch Erklärungen von Sachverhalten oder Fehlermeldungen haben sie zudem eine Art Tutorenfunktion.
+
+::: callout-important
+Allgemeine Verwendungshinweise für alle KI Tools:
+
+-   gute [Prompts](https://www.intern.fau.de/informationstechnik-it/it-tipps-aus-dem-cio-office/prompting-lernen/) verwenden
+
+-   Instruktionen einfach und präzise halten
+
+-   Keine personenbezogenen Daten verwenden (Verstoß gegen Datenschutz!)
+
+-   Immer den Output überprüfen: KI machen Fehler und/oder erfinden Code!
+:::
+
+Erste Schritte für die Anwendung:
+
+1.  Klar werden über eigene Fragestellung:
+
+-   Was für eine Aufgabe möchte ich bearbeiten oder welches Problem möchte ich lösen?
+-   Möchte ich Unterstützung beim Schreiben von Code durch integrierte Vorschläge oder durch Beantwortung meiner konkreten Fragen?
+
+2.  Auswahl eines für die Fragestellung geeigneten KI – Tools:
+
+Das weitere Vorgehen variiert nach verwendetem Tool: (siehe 2. Verschiede KI Tools im Überblick)
+
+3.  bei integrierten KI Tools wie Co-Pilot
+
+-   Tool aktivieren und Vorschläge ausprobieren
+
+3.  bei Tools wie ChatGPT / Hawki
+
+-   Anfrage mit den richtigen Prompts beginnen: spezifisch, Kontext geben, klare Sprache
+-   KI Vorschläge überprüfen und ausprobieren
+
+## Verschiedene KI Tools im Überblick: Einsatz von CoPilot, ChatGPT und Hawki
+
+Das können die verschiedenen Tools:
+
+### [GitHub Co-Pilot](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)
+
+Voraussetzungen:
+
+-   GitHub Konto: Studierendenkonto ist möglich
+
+-   R Version darf nicht älter als 2023.09.0 sein
+
+-   Internetzugang
+
+Zugriff über:
+
+-   Co-Pilot Integration in eigener R Anwendung
+
+Anwendung:
+
+-   Auto-Vervollständigung
+
+-   Code-Vorschläge
+
+-   Beantwortung von Fragen
+
+Achtung: bei komplizierten Aufgaben stößt es an Grenzen
+
+Anwendungsbeispiel:
+
+Sobald GitHub Co-Pilot installiert und aktiviert ist, stehen zwei Hauptanwendungen zur Verfügung:
+
+Erstens bietet dieser eine Autovervollständigung. Das bedeutet, dass während des Tippens Vorschläge in Form von grauem kursiv gedrucktem Text (sogenannter „grey ghost text“) angezeigt werden. Bei längeren und umfangreicheren Funktionen sind diese Vorschläge fehleranfällig, weshalb es sinnvoll ist, die Vorschläge in kleinen, überschaubaren Schritten erstellen zu lassen.
+
+Zweitens kann der Co-Pilot einfache Fragen wie „Wie kann ich diesen Code verbessern?“ oder „Wie kann ich diesen Code testen?“ beantworten. Dies geschieht über die #q - Eingabe in der Konsole oder über ein Chat Feld im Ausgabebereich.
+
+Der Fokus liegt jedoch auf der Generierung von Codevorschlägen für die Beantwortung von Fragen sind andere Tools wie ChatGPT oder Hawki meist besser geeignet.
+
+Für beispielhafte Anwendungen und weitere Tipps, siehe gerne: https://docs.posit.co/ide/user/ide/guide/tools/copilot.html
+
+### ChatGPT
+
+Zugriff über:
+
+-   Website von OpenAI: Registrierung notwendig
+
+-   ChatGPT R Pakete: beispielsweise chatgpt, askgpt, gptstudio und gpttools
+
+Achtung: Die Trainingsdaten reichen nur bis zu einem bestimmten Jahr zurück, deswegen können neuere Pakete/Tools teilweise noch nicht integriert sein
+
+Anwendung: -
+
+-   Code-Vorschläge
+
+-   Analysemöglichkeiten
+
+-   Optimierung und Fehlerbehebung
+
+Anwendungsbeispiel:
+
+ChatGPT kann einfache Code-Chunks erzeugen, wie z.B. Vorschläge zur Berechnung des Medians oder der Standardabweichung.
+
+Bei der Datenanalyse kann ChatGPT auch nützlich sein, aber ein kritischer Blick auf die Outputs bleibt unerlässlich. Zusätzlich kann ChatGPT bei der Optimierung des Codes sowie der Fehlerbehebung hilfreich sein. Bei Letzterem kann ChatGPT, wenn der Fehlercode eingegeben wird, mögliche Ursachen diskutieren und Lösungen vorschlagen. Diese Anwendungsmöglichkeit ist in der Regel am effizientesten und zielführendsten, da ChatGPT Fehler schnell ausfindig und im Idealfall sogar beheben kann.
+
+### [Hawki](https://www.intern.fau.de/informationstechnik-it/laufende-projekte/hawki-schnittstelle-fuer-ki-sprachmodelle/)
+
+= [Open Source- Schnittstelle zu KI-Sprachmodellen wie ChatGPT/ Meta LLaMA / Qwen für alle FAU Angehörigen](https://www.fau.de/2024/09/news/studium/chatgpt-und-co-fuer-alle-fau-mitglieder/)
+
+Zugriff über:
+
+-   Intern oder über VPN
+
+-   Anmeldung mit IdM-Kennung: eigener Account bei nutzbaren KI-Anwendungen ist nicht notwendig
+
+-   Kostenlos: Kosten werden von FAU getragen
+
+-   Anonymität: Anfragen werden mit globaler FAU-Kennung gestellt, dementsprechend keine Speicherung von personenbezogenen Daten
+
+Anwendung:
+
+-   Allgemeiner Chatraum
+
+-   Spezieller Chatraum (virtuelles Büro: Gespräch mit fiktiven Expert\*innen)
+
+-   Lernraum: Erlernen von Prompts
+
+Anwendungsbeispiel:
+
+Bei Hawki kann man generell immer zwischen den verschieden verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek, Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden. Diese reichen vom Erlenen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.
+
+Ein Beispiel-Prompt hierfür lautet: „Ich habe kürzlich eine umfangreiche Datensammlung durchgeführt und suche nun nach Unterstützung bei der Analyse der Daten. Die Datensammlung umfasst \[Beschreibung der Daten\], und ich möchte \[Ziel der Analyse\]. Könntest du mir bitte dabei helfen, die Daten zu analysieren und mir Ratschläge zur Interpretation der Ergebnisse zu geben?“
+
+Zur Beantwortung von Fragen kann man sich nun entweder an den allgemeinen Chatraum oder an den spezifischeren in Form des „virtuellen Büros“ wenden. Bei letzterem kommuniziert man mit fiktiven Expert:innen aus unterschiedlichen Fachbereichen.
+
+Ein Beispiel dafür ist Fatima: „Du unterhältst Dich jetzt mit Fatima, einer fiktiven Programmiererin. Was möchtest Du über Programmierung wissen?“
+
+Gestellte Fragen können beispielsweise die Nutzung bestimmter R Pakete, Code Optimierung oder Fehlerbestimmung behandeln. Die andere Möglichkeit, Antworten zu generieren, ist der allgemeine Chat unter „Konversation“, wo es keine Untergliederungen gibt, sondern nur einen Chatbereich für beliebige Anliegen. Beide Optionen können nützliche Outputs generieren, die inhaltlich bei der selben Frage deckungsgleich sind. Der Unterschied liegt zum einen in der oben beschriebenen Struktur, zum anderen werden Chatverläufe und Antworten im „virtuelle Büro“ nicht gespeichert.
+
+## Fazit:
+
+Was funktioniert mit KI-Tools gut, was nicht?
+
+Vorteile der Nutzung sind vor allem die guten Hilfestellungen durch Codevorschläge und die schnelle Beantwortung einfacher Fragen. Dennoch scheitern die Tools meist noch an komplexere Aufgaben oder beim Übersetzen in unterschiedliche Programmiersprachen.
+
+Unverzichtbar bleibt die Überprüfung der Outputs!
+
+## Rechtliche Hinweise der FAU:
+
+[Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubte Hilfsmittel in Prüfungen, zu finden.
