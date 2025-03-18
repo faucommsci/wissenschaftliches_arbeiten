@@ -1,9 +1,3 @@
----
-title: "KI- Unterstützung bei der Arbeit mit R"
-format: html
-editor: visual
----
-
 # KI-Unterstützung bei der Arbeit mit R
 
 ## Warum ist es sinnvoll KI-Tools in die Arbeit mit R zu integrieren?
