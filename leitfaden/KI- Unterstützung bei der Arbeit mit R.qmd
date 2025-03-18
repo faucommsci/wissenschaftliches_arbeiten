@@ -92,7 +92,7 @@ Zugriff über:
 
 Achtung: Die Trainingsdaten reichen nur bis zu einem bestimmten Jahr zurück, deswegen können neuere Pakete/Tools teilweise noch nicht integriert sein
 
-Anwendung: -
+Anwendung:
 
 -   Code-Vorschläge
 
