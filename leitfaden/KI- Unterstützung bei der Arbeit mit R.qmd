@@ -158,4 +158,4 @@ Für Beginnende:
 
 Für etwas Fortgeschrittenere:
 
--   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R Tutuorials und Hilfestellungen für spezifischere Probleme
+-   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R Tutuorials und Hilfestellungen für spezifische Probleme
