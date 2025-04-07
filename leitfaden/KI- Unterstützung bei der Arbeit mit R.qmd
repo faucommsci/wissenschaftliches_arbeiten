@@ -146,7 +146,7 @@ Unverzichtbar bleibt die Überprüfung der Outputs!
 
 [Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubte Hilfsmittel in Prüfungen, zu finden.
 
-## Weitere hilfreiche Links für die Arbeit mit R
+## Weitere nützliche Links für die Arbeit mit R
 
 Für Beginnende:
 
