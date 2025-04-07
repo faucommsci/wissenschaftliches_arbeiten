@@ -174,5 +174,16 @@
       "Leitfaden",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI-Unterstützung bei der Arbeit mit R</span>"
     ]
+  },
+  {
+    "objectID": "KI- Unterstützung bei der Arbeit mit R.html#weitere-nützliche-links-zum-arbeiten-mit-r",
+    "href": "KI- Unterstützung bei der Arbeit mit R.html#weitere-nützliche-links-zum-arbeiten-mit-r",
+    "title": "7  KI-Unterstützung bei der Arbeit mit R",
+    "section": "7.5 Weitere nützliche Links zum Arbeiten mit R",
+    "text": "7.5 Weitere nützliche Links zum Arbeiten mit R\nFür Beginnende:\n\nVideos von Andy Field: Erklärungen von R, R Studio, Quarto und Kennenlernen der Arbeitsumgebung\nÜbersicht von Garrettt Grolemund: Verschriftlichte Einführung zur Orientierung in der RStudio Umgebung\nR Tutorials von Mitarbeitenden der Freien Universität Amsterdam: beispielsweise Zusammenfassen, Visualisierung, Zusammenführen von Daten\n\nFür etwas Fortgeschrittenere:\n\nÜbersicht Arbeiten mit R: R Tutuorials und Hilfestellungen für spezifischere Probleme",
+    "crumbs": [
+      "Leitfaden",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>KI-Unterstützung bei der Arbeit mit R</span>"
+    ]
   }
 ]
