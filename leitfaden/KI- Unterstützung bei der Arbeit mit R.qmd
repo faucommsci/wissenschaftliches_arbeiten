@@ -118,7 +118,7 @@ Anwendung:
 
 -   Allgemeiner Chatraum
 
--   Spezieller Chatraum (virtuelles Büro: Gespräch mit fiktiven Expert\*innen)
+-   Spezieller Chatraum (virtuelles Büro: Gespräch mit fiktiven Experten und Expertinnen)
 
 -   Lernraum: Erlernen von Prompts
 
@@ -145,3 +145,17 @@ Unverzichtbar bleibt die Überprüfung der Outputs!
 ## Rechtliche Hinweise der FAU
 
 [Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubte Hilfsmittel in Prüfungen, zu finden.
+
+## Weitere hilfreiche Links für die Arbeit mit R
+
+Für Beginnende:
+
+-   [Videos](https://www.youtube.com/playlist?list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2) von Andy Field: Erklärungen von R, R Studio, Quarto und Kennenlernen der Arbeitsumgebung
+
+-   [Übersicht](https://rstudio-education.github.io/hopr/index.html) von Garrettt Grolemund: Verschriftlichte Einführung zur Orientierung in der RStudio Umgebung
+
+-   [R Tutorials](https://github.com/ccs-amsterdam/r-course-material/tree/master) von Mitarbeitenden der Freien Universität Amsterdam: beispielsweise Zusammenfassen, Visualisierung, Zusammenführen von Daten
+
+Für etwas Fortgeschrittenere:
+
+-   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R Tutuorials und Hilfestellungen für spezifischere Probleme
