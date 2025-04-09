@@ -16,7 +16,7 @@ Für Beginnende:
 ## Let's take a look:
 
 1.  [R Basics: commands, objects, and functions](https://www.youtube.com/watch?v=PVhZD5MINYM) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-4-basics.md):
-Kennenlernen der Arbeitsumgebung und einfacher Befehle, Einführung des Begriffs "Objekt" als gelabelte Information und Ausprobieren einfacher Funktionen.
+Kennenlernen der Arbeitsumgebung und einfacher Befehle, Einführung des Begriffs "Objekt" als gelabelte Information und Ausprobieren von Funktionen.
 
 2.  [R Tidyverse: Data transformation](https://www.youtube.com/watch?v=CATqkFiZljU) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md):
 Vorstellung von Tidyverse, einer Sammlung von Open-Source Paketen und dessen grundlegenden Funktionen, wie Datenimport, Datenbereinigung und Datenumwandlung.
