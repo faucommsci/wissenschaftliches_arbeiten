@@ -1,11 +1,46 @@
-# KI-Unterstützung bei der Arbeit mit R
+# Arbeit mit R
 
-## Warum ist es sinnvoll KI-Tools in die Arbeit mit R zu integrieren?
+## Hilfreiche Ressourcen zum Arbeiten mit R
 
-Sie bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Unter Anderem durch Erklärungen von Sachverhalten oder Fehlermeldungen haben sie zudem eine Art Tutorenfunktion.
+Für Beginnende:
 
-::: callout-important
-Allgemeine Verwendungshinweise für alle KI Tools:
+-   [Videos](https://www.youtube.com/playlist?list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2) von Andy Field: Erklärungen von R, R Studio und Kennenlernen der Arbeitsumgebung
+
+-   [Übersicht](https://rstudio-education.github.io/hopr/index.html) von Garrett Grolemund: Verschriftlichte Einführung
+
+-   [RStudio-Cheatsheet](https://posit.co/resources/cheatsheets/): Übersicht über Funktionen und Pakete
+
+-   [R-Tutorials](https://github.com/ccs-amsterdam/r-course-material/tree/master) von Mitarbeitenden der Freien Universität Amsterdam: Die Tutorials bestehen aus Videos und Handouts. Falls Diskrepanzen zwischen beiden auftreten, soll eher dem Inhalt der Handouts als dem der Videos gefolgt werden, da letztere älter sind. Zusätzlich wird auch auf Kapitel von zwei kostenlosen und frei verfügbaren Büchern [Computational Analysis of Communication \[CAC\]](https://cssbook.net/) und [R for Data Science \[R4DS\]](https://r4ds.had.co.nz/index.html) verweisen.
+
+::: callout-tip
+## Let's take a look:
+
+1.  [R Basics: commands, objects, and functions](https://www.youtube.com/watch?v=PVhZD5MINYM) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-4-basics.md):
+Kennenlernen der Arbeitsumgebung und einfacher Befehle, Einführung des Begriffs "Objekt" als gelabelte Information und Ausprobieren einfacher Funktionen.
+
+2.  [R Tidyverse: Data transformation](https://www.youtube.com/watch?v=CATqkFiZljU) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md):
+Vorstellung von Tidyverse, einer Sammlung von Open-Source Paketen und dessen grundlegenden Funktionen, wie Datenimport, Datenbereinigung und Datenumwandlung.
+
+3.  [R Tidyverse: Data summarization](https://www.youtube.com/watch?v=lde7wLORQpo) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md):
+Arbeiten mit Tidyverse, besonderer Fokus auf der Datenzusammenfassung und -aggregation.
+
+4.  [R ggplot2: Basics of data visualization](https://www.youtube.com/watch?v=wO5mrVaCB28) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md):
+Verwendung der ggplot-Funktion zur Erstellung von Grafiken, wie z. B. Scatterplots, Säulen- und Liniendiagrammen.
+:::
+
+Für etwas Fortgeschrittenere:
+
+-   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R-Tutuorials und Hilfestellungen für spezifische Probleme
+
+## KI-Unterstützung bei der Arbeit mit R
+
+### Warum ist es sinnvoll, KI-Tools in die Arbeit mit R zu integrieren?
+
+Sie bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Zudem haben sie eine Art Tutorenfunktion durch ihre Erklärungen von Sachverhalten oder Fehlermeldungen.
+
+::: callout-caution
+## Achtung
+Allgemeine Verwendungshinweise für alle KI-Tools:
 
 -   gute [Prompts](https://www.intern.fau.de/informationstechnik-it/it-tipps-aus-dem-cio-office/prompting-lernen/) verwenden
 
@@ -13,7 +48,7 @@ Allgemeine Verwendungshinweise für alle KI Tools:
 
 -   Keine personenbezogenen Daten verwenden (Verstoß gegen Datenschutz!)
 
--   Immer den Output überprüfen: KI machen Fehler und/oder erfinden Code!
+-   Immer den Output überprüfen: KI macht Fehler und/oder erfindet Code!
 :::
 
 Erste Schritte für die Anwendung:
@@ -23,20 +58,20 @@ Erste Schritte für die Anwendung:
 -   Was für eine Aufgabe möchte ich bearbeiten oder welches Problem möchte ich lösen?
 -   Möchte ich Unterstützung beim Schreiben von Code durch integrierte Vorschläge oder durch Beantwortung meiner konkreten Fragen?
 
-2.  Auswahl eines für die Fragestellung geeigneten KI – Tools:
+2.  Auswahl eines für die Fragestellung geeigneten KI–Tools:
 
-Das weitere Vorgehen variiert nach verwendetem Tool: (siehe 2. Verschiede KI Tools im Überblick)
+Das weitere Vorgehen variiert nach verwendetem Tool: siehe 7.2.2. Verschiedene KI-Tools im Überblick
 
-3.  bei integrierten KI Tools wie Co-Pilot
+3.  bei integrierten KI-Tools wie Co-Pilot
 
 -   Tool aktivieren und Vorschläge ausprobieren
 
 3.  bei Tools wie ChatGPT / Hawki
 
 -   Anfrage mit den richtigen Prompts beginnen: spezifisch, Kontext geben, klare Sprache
--   KI Vorschläge überprüfen und ausprobieren
+-   KI-Vorschläge überprüfen und ausprobieren
 
-## Verschiedene KI Tools im Überblick: Einsatz von CoPilot, ChatGPT und Hawki
+### Verschiedene KI-Tools im Überblick: Einsatz von CoPilot, ChatGPT und Hawki
 
 Das können die verschiedenen Tools:
 
@@ -44,7 +79,15 @@ Das können die verschiedenen Tools:
 
 Voraussetzungen:
 
--   GitHub Konto: Studierendenkonto ist möglich
+-   GitHub Konto: [Studierendenkonto](https://docs.github.com/de/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student) ist möglich
+
+    1.  Wechsle zu GitHub Education
+    2.  Wähle unter „Select your role in education“ die Option Student aus
+    3.  Gib im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
+    4.  Wähle bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder füge sie hinzu
+    5.  Klicke auf Weiter. Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Stuudierendenausweis
+    6.  Überprüfe die Details der Bewerbung und klicke dann auf Meine Bewerbung bearbeiten
+    7.  Die Bearbeitungszeit beträgt einige Tage
 
 -   R Version darf nicht älter als 2023.09.0 sein
 
@@ -62,7 +105,10 @@ Anwendung:
 
 -   Beantwortung von Fragen
 
-Achtung: bei komplizierten Aufgaben stößt es an Grenzen
+::: callout-caution
+## Achtung
+Bei komplizierten Aufgaben stößt es an Grenzen.
+:::
 
 Anwendungsbeispiel:
 
@@ -74,7 +120,7 @@ Zweitens kann der Co-Pilot einfache Fragen wie „Wie kann ich diesen Code verbe
 
 Der Fokus liegt jedoch auf der Generierung von Codevorschlägen für die Beantwortung von Fragen sind andere Tools wie ChatGPT oder Hawki meist besser geeignet.
 
-Für beispielhafte Anwendungen und weitere Tipps, siehe gerne: https://docs.posit.co/ide/user/ide/guide/tools/copilot.html
+Für beispielhafte Anwendungen und weitere Tipps, siehe die [Copilot Guidelines](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)
 
 ### ChatGPT
 
@@ -84,7 +130,10 @@ Zugriff über:
 
 -   ChatGPT R Pakete: beispielsweise chatgpt, askgpt, gptstudio und gpttools
 
-Achtung: Die Trainingsdaten reichen nur bis zu einem bestimmten Jahr zurück, deswegen können neuere Pakete/Tools teilweise noch nicht integriert sein
+::: callout-caution
+## Achtung
+Die Trainingsdaten reichen nur bis zu einem bestimmten Jahr zurück, deswegen können neuere Pakete/Tools teilweise noch nicht integriert sein.
+:::
 
 Anwendung:
 
@@ -96,7 +145,7 @@ Anwendung:
 
 Anwendungsbeispiel:
 
-ChatGPT kann einfache Code-Chunks erzeugen, wie z.B. Vorschläge zur Berechnung des Medians oder der Standardabweichung.
+ChatGPT kann einfache Code-Chunks erzeugen, wie z. B. Vorschläge zur Berechnung des Medians oder der Standardabweichung.
 
 Bei der Datenanalyse kann ChatGPT auch nützlich sein, aber ein kritischer Blick auf die Outputs bleibt unerlässlich. Zusätzlich kann ChatGPT bei der Optimierung des Codes sowie der Fehlerbehebung hilfreich sein. Bei Letzterem kann ChatGPT, wenn der Fehlercode eingegeben wird, mögliche Ursachen diskutieren und Lösungen vorschlagen. Diese Anwendungsmöglichkeit ist in der Regel am effizientesten und zielführendsten, da ChatGPT Fehler schnell ausfindig und im Idealfall sogar beheben kann.
 
@@ -124,38 +173,24 @@ Anwendung:
 
 Anwendungsbeispiel:
 
-Bei Hawki kann man generell immer zwischen den verschieden verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek, Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden. Diese reichen vom Erlenen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.
+Bei Hawki kann man generell immer zwischen den verschieden verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek, Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden. Diese reichen vom Erlernen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.
 
 Ein Beispiel-Prompt hierfür lautet: „Ich habe kürzlich eine umfangreiche Datensammlung durchgeführt und suche nun nach Unterstützung bei der Analyse der Daten. Die Datensammlung umfasst \[Beschreibung der Daten\], und ich möchte \[Ziel der Analyse\]. Könntest du mir bitte dabei helfen, die Daten zu analysieren und mir Ratschläge zur Interpretation der Ergebnisse zu geben?“
 
-Zur Beantwortung von Fragen kann man sich nun entweder an den allgemeinen Chatraum oder an den spezifischeren in Form des „virtuellen Büros“ wenden. Bei letzterem kommuniziert man mit fiktiven Expert:innen aus unterschiedlichen Fachbereichen.
+Zur Beantwortung von Fragen kann man sich nun entweder an den allgemeinen Chatraum oder an den spezifischeren in Form des „virtuellen Büros“ wenden. Bei Letzterem kommuniziert man mit fiktiven Expert:innen aus unterschiedlichen Fachbereichen.
 
 Ein Beispiel dafür ist Fatima: „Du unterhältst Dich jetzt mit Fatima, einer fiktiven Programmiererin. Was möchtest Du über Programmierung wissen?“
 
-Gestellte Fragen können beispielsweise die Nutzung bestimmter R Pakete, Code Optimierung oder Fehlerbestimmung behandeln. Die andere Möglichkeit, Antworten zu generieren, ist der allgemeine Chat unter „Konversation“, wo es keine Untergliederungen gibt, sondern nur einen Chatbereich für beliebige Anliegen. Beide Optionen können nützliche Outputs generieren, die inhaltlich bei der selben Frage deckungsgleich sind. Der Unterschied liegt zum einen in der oben beschriebenen Struktur, zum anderen werden Chatverläufe und Antworten im „virtuelle Büro“ nicht gespeichert.
+Gestellte Fragen können beispielsweise die Nutzung bestimmter R Pakete, Code Optimierung oder Fehlerbestimmung behandeln. Die andere Möglichkeit, Antworten zu generieren, ist der allgemeine Chat unter „Konversation“, wo es keine Untergliederungen gibt, sondern nur einen Chatbereich für beliebige Anliegen. Beide Optionen können nützliche Outputs generieren, die inhaltlich bei derselben Frage deckungsgleich sind. Der Unterschied liegt zum einen in der oben beschriebenen Struktur, zum anderen werden Chatverläufe und Antworten im „virtuellen Büro“ nicht gespeichert.
 
-## Fazit
+### Fazit
 
 Was funktioniert mit KI-Tools gut, was nicht?
 
-Vorteile der Nutzung sind vor allem die guten Hilfestellungen durch Codevorschläge und die schnelle Beantwortung einfacher Fragen. Dennoch scheitern die Tools meist noch an komplexere Aufgaben oder beim Übersetzen in unterschiedliche Programmiersprachen.
+Vorteile der Nutzung sind vor allem die guten Hilfestellungen durch Codevorschläge und die schnelle Beantwortung einfacher Fragen. Dennoch scheitern die Tools meist noch an komplexeren Aufgaben oder beim Übersetzen in unterschiedliche Programmiersprachen.
 
 Unverzichtbar bleibt die Überprüfung der Outputs!
 
-## Rechtliche Hinweise der FAU
+### Rechtliche Hinweise der FAU
 
-[Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubte Hilfsmittel in Prüfungen, zu finden.
-
-## Weitere nützliche Links zum Arbeiten mit R
-
-Für Beginnende:
-
--   [Videos](https://www.youtube.com/playlist?list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2) von Andy Field: Erklärungen von R, R Studio, Quarto und Kennenlernen der Arbeitsumgebung
-
--   [Übersicht](https://rstudio-education.github.io/hopr/index.html) von Garrettt Grolemund: Verschriftlichte Einführung zur Orientierung in der RStudio Umgebung
-
--   [R Tutorials](https://github.com/ccs-amsterdam/r-course-material/tree/master) von Mitarbeitenden der Freien Universität Amsterdam: beispielsweise Zusammenfassen, Visualisierung, Zusammenführen von Daten
-
-Für etwas Fortgeschrittenere:
-
--   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R Tutuorials und Hilfestellungen für spezifische Probleme
+[Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubten Hilfsmitteln in Prüfungen, zu finden.
