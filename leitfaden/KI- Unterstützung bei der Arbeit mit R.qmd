@@ -4,30 +4,27 @@
 
 Für Beginnende:
 
--   [Videos](https://www.youtube.com/playlist?list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2) von Andy Field: Erklärungen von R, R Studio und Kennenlernen der Arbeitsumgebung
-
--   [Übersicht](https://rstudio-education.github.io/hopr/index.html) von Garrett Grolemund: Verschriftlichte Einführung
-
--   [RStudio-Cheatsheet](https://posit.co/resources/cheatsheets/): Übersicht über Funktionen und Pakete
+Den Einstieg in die Arbeit mit R erleichtern die folgenden Ressourcen, besonders die Tutorials von Mitarbeitenden der Freien Universität Amsterdam und die Videos von Andy Field.
 
 -   [R-Tutorials](https://github.com/ccs-amsterdam/r-course-material/tree/master) von Mitarbeitenden der Freien Universität Amsterdam: Die Tutorials bestehen aus Videos und Handouts. Falls Diskrepanzen zwischen beiden auftreten, soll eher dem Inhalt der Handouts als dem der Videos gefolgt werden, da letztere älter sind. Zusätzlich wird auch auf Kapitel von zwei kostenlosen und frei verfügbaren Büchern [Computational Analysis of Communication \[CAC\]](https://cssbook.net/) und [R for Data Science \[R4DS\]](https://r4ds.had.co.nz/index.html) verweisen.
 
 ::: callout-tip
 ## Let's take a look:
 
-1.  [R Basics: commands, objects, and functions](https://www.youtube.com/watch?v=PVhZD5MINYM) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-4-basics.md):
-Kennenlernen der Arbeitsumgebung und einfacher Befehle, Einführung des Begriffs "Objekt" als gelabelte Information und Ausprobieren von
-Funktionen.
+1.  [R Basics: commands, objects, and functions](https://www.youtube.com/watch?v=PVhZD5MINYM) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-4-basics.md): Kennenlernen der Arbeitsumgebung und einfacher Befehle, Einführung des Begriffs "Objekt" als gelabelte Information und Ausprobieren von Funktionen.
 
-2.  [R Tidyverse: Data transformation](https://www.youtube.com/watch?v=CATqkFiZljU) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md):
-Vorstellung von Tidyverse, einer Sammlung von Open-Source Paketen und dessen grundlegenden Funktionen, wie Datenimport, Datenbereinigung und Datenumwandlung.
+2.  [R Tidyverse: Data transformation](https://www.youtube.com/watch?v=CATqkFiZljU) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md): Vorstellung von Tidyverse, einer Sammlung von Open-Source Paketen und dessen grundlegenden Funktionen, wie Datenimport, Datenbereinigung und Datenumwandlung.
 
-3.  [R Tidyverse: Data summarization](https://www.youtube.com/watch?v=lde7wLORQpo) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md):
-Arbeiten mit Tidyverse, besonderer Fokus auf der Datenzusammenfassung und -aggregation.
+3.  [R Tidyverse: Data summarization](https://www.youtube.com/watch?v=lde7wLORQpo) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md): Arbeiten mit Tidyverse, besonderer Fokus auf der Datenzusammenfassung und -aggregation.
 
-4.  [R ggplot2: Basics of data visualization](https://www.youtube.com/watch?v=wO5mrVaCB28) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md):
-Verwendung der ggplot-Funktion zur Erstellung von Grafiken, wie z. B. Scatterplots, Säulen- und Liniendiagrammen.
+4.  [R ggplot2: Basics of data visualization](https://www.youtube.com/watch?v=wO5mrVaCB28) mit [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md): Verwendung der ggplot-Funktion zur Erstellung von Grafiken, wie z. B. Scatterplots, Säulen- und Liniendiagrammen.
 :::
+
+-   [Videos](https://www.youtube.com/playlist?list=PLEzw67WWDg83weG3idsgy4wuOIJAashA2) von Andy Field: Erklärungen von R, R Studio und Kennenlernen der Arbeitsumgebung
+
+-   [Übersicht](https://rstudio-education.github.io/hopr/index.html) von Garrett Grolemund: Verschriftlichte Einführung
+
+-   [RStudio-Cheatsheet](https://posit.co/resources/cheatsheets/): Übersicht über Funktionen und Pakete
 
 Für etwas Fortgeschrittenere:
 
@@ -37,10 +34,11 @@ Für etwas Fortgeschrittenere:
 
 ### Warum ist es sinnvoll, KI-Tools in die Arbeit mit R zu integrieren?
 
-Sie bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Zudem haben sie eine Art Tutorenfunktion durch ihre Erklärungen von Sachverhalten oder Fehlermeldungen.
+KI- Tools bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Zudem haben sie eine Art Tutorenfunktion durch ihre Erklärungen von Sachverhalten oder Fehlermeldungen.
 
 ::: callout-caution
 ## Achtung
+
 Allgemeine Verwendungshinweise für alle KI-Tools:
 
 -   gute [Prompts](https://www.intern.fau.de/informationstechnik-it/it-tipps-aus-dem-cio-office/prompting-lernen/) verwenden
@@ -52,7 +50,7 @@ Allgemeine Verwendungshinweise für alle KI-Tools:
 -   Immer den Output überprüfen: KI macht Fehler und/oder erfindet Code!
 :::
 
-Erste Schritte für die Anwendung:
+Erste Schritte für die Praxis:
 
 1.  Klar werden über eigene Fragestellung:
 
@@ -61,7 +59,7 @@ Erste Schritte für die Anwendung:
 
 2.  Auswahl eines für die Fragestellung geeigneten KI–Tools:
 
-Das weitere Vorgehen variiert nach verwendetem Tool: siehe 7.2.2. Verschiedene KI-Tools im Überblick
+    Das weitere Vorgehen variiert nach verwendetem Tool: siehe [7.2.2. Verschiedene KI-Tools im Überblick](KI-%20Unterstützung%20bei%20der%20Arbeit%20mit%20R.html#sec-Verschiedene%20KI-Tools%20im%20Überblick:%20Einsatz%20von%20CoPilot,%20ChatGPT%20und%20Hawki).
 
 3.  bei integrierten KI-Tools wie Co-Pilot
 
@@ -80,14 +78,14 @@ Das können die verschiedenen Tools:
 
 Voraussetzungen:
 
--   GitHub Konto: [Studierendenkonto](https://docs.github.com/de/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student) ist möglich
+-   GitHub Konto: Nutzung mit einem [Studierendenkonto](https://docs.github.com/de/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student) ist kostenlos
 
-    1.  Wechsle zu GitHub Education
-    2.  Wähle unter „Select your role in education“ die Option Student aus
-    3.  Gib im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
-    4.  Wähle bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder füge sie hinzu
-    5.  Klicke auf Weiter. Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Stuudierendenausweis
-    6.  Überprüfe die Details der Bewerbung und klicke dann auf Meine Bewerbung bearbeiten
+    1.  Wechslen Sie zu GitHub Education
+    2.  Wählen Sie unter „Select your role in education“ die Option Student aus
+    3.  Giben Sie im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
+    4.  Wählen Sie bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder füge Sie diese hinzu
+    5.  Klicken Sie auf Weiter. Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Stuudierendenausweis
+    6.  Überprüfen Sie die Details der Bewerbung und klicken Sie dann auf Meine Bewerbung bearbeiten
     7.  Die Bearbeitungszeit beträgt einige Tage
 
 -   R Version darf nicht älter als 2023.09.0 sein
@@ -108,14 +106,13 @@ Anwendung:
 
 ::: callout-caution
 ## Achtung
+
 Bei komplizierten Aufgaben stößt es an Grenzen.
 :::
 
-Anwendungsbeispiel:
+#### Anwendungsbeispiel:
 
-Sobald GitHub Co-Pilot installiert und aktiviert ist, stehen zwei Hauptanwendungen zur Verfügung:
-
-Erstens bietet dieser eine Autovervollständigung. Das bedeutet, dass während des Tippens Vorschläge in Form von grauem kursiv gedrucktem Text (sogenannter „grey ghost text“) angezeigt werden. Bei längeren und umfangreicheren Funktionen sind diese Vorschläge fehleranfällig, weshalb es sinnvoll ist, die Vorschläge in kleinen, überschaubaren Schritten erstellen zu lassen.
+Sobald GitHub Co-Pilot installiert und aktiviert ist, stehen zwei Hauptanwendungen zur Verfügung: Erstens bietet dieser eine Autovervollständigung. Das bedeutet, dass während des Tippens Vorschläge in Form von grauem kursiv gedrucktem Text (sogenannter „grey ghost text“) angezeigt werden. Bei längeren und umfangreicheren Funktionen sind diese Vorschläge fehleranfällig, weshalb es sinnvoll ist, die Vorschläge in kleinen, überschaubaren Schritten erstellen zu lassen.
 
 Zweitens kann der Co-Pilot einfache Fragen wie „Wie kann ich diesen Code verbessern?“ oder „Wie kann ich diesen Code testen?“ beantworten. Dies geschieht über die #q - Eingabe in der Konsole oder über ein Chat Feld im Ausgabebereich.
 
@@ -133,6 +130,7 @@ Zugriff über:
 
 ::: callout-caution
 ## Achtung
+
 Die Trainingsdaten reichen nur bis zu einem bestimmten Jahr zurück, deswegen können neuere Pakete/Tools teilweise noch nicht integriert sein.
 :::
 
@@ -144,11 +142,9 @@ Anwendung:
 
 -   Optimierung und Fehlerbehebung
 
-Anwendungsbeispiel:
+#### Anwendungsbeispiel:
 
-ChatGPT kann einfache Code-Chunks erzeugen, wie z. B. Vorschläge zur Berechnung des Medians oder der Standardabweichung.
-
-Bei der Datenanalyse kann ChatGPT auch nützlich sein, aber ein kritischer Blick auf die Outputs bleibt unerlässlich. Zusätzlich kann ChatGPT bei der Optimierung des Codes sowie der Fehlerbehebung hilfreich sein. Bei Letzterem kann ChatGPT, wenn der Fehlercode eingegeben wird, mögliche Ursachen diskutieren und Lösungen vorschlagen. Diese Anwendungsmöglichkeit ist in der Regel am effizientesten und zielführendsten, da ChatGPT Fehler schnell ausfindig und im Idealfall sogar beheben kann.
+ChatGPT kann einfache Code-Chunks erzeugen, wie z. B. Vorschläge zur Berechnung des Medians oder der Standardabweichung.Bei der Datenanalyse kann ChatGPT auch nützlich sein, aber ein kritischer Blick auf die Outputs bleibt unerlässlich. Zusätzlich kann ChatGPT bei der Optimierung des Codes sowie der Fehlerbehebung hilfreich sein. Bei Letzterem kann ChatGPT, wenn der Fehlercode eingegeben wird, mögliche Ursachen diskutieren und Lösungen vorschlagen. Diese Anwendungsmöglichkeit ist in der Regel am effizientesten und zielführendsten, da ChatGPT Fehler schnell ausfindig und im Idealfall sogar beheben kann.
 
 ### [Hawki](https://www.intern.fau.de/informationstechnik-it/laufende-projekte/hawki-schnittstelle-fuer-ki-sprachmodelle/)
 
@@ -162,7 +158,7 @@ Zugriff über:
 
 -   Kostenlos: Kosten werden von FAU getragen
 
--   Anonymität: Anfragen werden mit globaler FAU-Kennung gestellt, dementsprechend keine Speicherung von personenbezogenen Daten
+-   Höhere Anonymität: Anfragen werden mit globaler FAU-Kennung gestellt
 
 Anwendung:
 
@@ -172,7 +168,7 @@ Anwendung:
 
 -   Lernraum: Erlernen von Prompts
 
-Anwendungsbeispiel:
+#### Anwendungsbeispiel:
 
 Bei Hawki kann man generell immer zwischen den verschieden verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek, Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden. Diese reichen vom Erlernen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.
 
@@ -188,7 +184,7 @@ Gestellte Fragen können beispielsweise die Nutzung bestimmter R Pakete, Code Op
 
 Was funktioniert mit KI-Tools gut, was nicht?
 
-Vorteile der Nutzung sind vor allem die guten Hilfestellungen durch Codevorschläge und die schnelle Beantwortung einfacher Fragen. Dennoch scheitern die Tools meist noch an komplexeren Aufgaben oder beim Übersetzen in unterschiedliche Programmiersprachen.
+Vorteile der Nutzung von KI- Tools sind vor allem die guten Hilfestellungen durch Codevorschläge und die schnelle Beantwortung einfacher Fragen. Dennoch scheitern diese meist noch an komplexeren Aufgaben oder beim Übersetzen in unterschiedliche Programmiersprachen.
 
 Unverzichtbar bleibt die Überprüfung der Outputs!
 
