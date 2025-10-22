@@ -4,11 +4,11 @@ Die Recherche relevanter Fachliteratur ist für empirische Arbeiten und Literatu
 
 ## Literaturdatenbanken
 
-Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich. 
+Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich.
 
 ### Wissenschaftliche Datenbanken
 
-Wissenschaftliche Datenbanken aggregieren Informationen aus diversen Quellen, insbesondere von peer-reviewten Journals. Über die Universität steht der Zugriff auf Datenbanken mit verschiedenen Fachspezifischen Schwerpunkten zur Verfügung. Je nach inhaltlichem Schwerpunkt der Arbeit ist die Nutzung mind. einer Datenbank empfehlenswert. Eine Übersicht über alle verfügbaren Datenbanken steht über das **[DBIS (Database Information System der bayerischen Universitäten)](https://ub.fau.de/recherchieren/datenbanken/)** bereit. Die Datenbanken sind teilweise nur über das Uninetzwerk abrufbar.
+Wissenschaftliche Datenbanken aggregieren Informationen aus diversen Quellen, insbesondere von peer-reviewten Journals. Über die Universität steht der Zugriff auf Datenbanken mit verschiedenen Fachspezifischen Schwerpunkten zur Verfügung. Je nach inhaltlichem Schwerpunkt der Arbeit ist die Nutzung mind. einer Datenbank empfehlenswert. Eine Übersicht über alle verfügbaren Datenbanken steht über das [**DBIS (Database Information System der bayerischen Universitäten)**](https://ub.fau.de/recherchieren/datenbanken/) bereit. Die Datenbanken sind teilweise nur über das Uninetzwerk abrufbar.
 
 Eine Auswahl potentiell relevante Datenbanken sind:
 
@@ -20,13 +20,15 @@ Eine Auswahl potentiell relevante Datenbanken sind:
 
 -   [Business Source Complete](https://dbis.ur.de/dbinfo/detail.php?bib_id=ub_en&colors=&ocolors=&lett=f&tid=0&titel_id=5660)
 
+-   [OpenAlex](https://openalex.org/)
+
 -   ...
 
 Um die Suche zu präzisieren oder irrelevante Literatur auszuschließen, können logische Operatoren verwendet werden (s. @sec-boolean).
 
-### Google Scholar 
+### Google Scholar
 
-Für fachübergreifende Recherchen bietet sich die Nutzung von Google Scholar an. Neben der Suche nach Literatur finden sich auf Google Scholar häufig frei verfügbare Volltexte von Artikeln. 
+Für fachübergreifende Recherchen bietet sich die Nutzung von Google Scholar an. Neben der Suche nach Literatur finden sich auf Google Scholar häufig frei verfügbare Volltexte von Artikeln.
 
 Um Literatur zu identifizieren empfiehlt es sich die erweiterte Suche bzw. "Advanced search" zu nutzen. Hier sind insbesondere relevant:
 
@@ -39,10 +41,25 @@ Scholar ist eine gute Ressource für die Literaturrecherche, allerdings findet k
 
 In Google Scholar können logische Operatoren verwendet werden (s. @sec-boolean).
 
+### [ResearchRabbit](https://www.researchrabbit.ai)
+
+ResearchRabbit ist eine Plattform zur Literaturrecherche, mit der sich relevante wissenschaftliche Arbeiten und Forschende entdecken und visualisieren lassen. Nach dem Login wird automatisch eine Sammlung („Collection“) erstellt, über die Funktion „Add Papers“ können bekannte oder für das eigene Projekt relevante Arbeiten hinzugefügt werden. Basierend auf den ausgewählten Artikeln schlägt ResearchRabbit weitere passende Literatur vor.
+
+Die Suche nach Artikeln kann auf verschiedene Arten erfolgen:
+
+-   Stichwortsuche: Recherche nach Schlagwörtern über die Suchmaschinen SemanticScholar (alle Fachbereiche) oder PubMed (medizinischer Bereich).
+
+-   Artikeltitel: Suche nach dem exakten Titel einer bekannten Publikation.
+
+-   DOI: Eintragen der Digital Object Identifier (DOI) zur direkten Aufnahme eines Artikels.
+
+-   Import aus Literaturverwaltungsprogrammen: Hochladen von BibTex- oder RIS-Dateien aus Programmen wie Mendeley, Zotero oder EndNote.
+
+Im Prinzip funktioniert ResearchRabbit als „Spotify für wissenschaftliche Artikel“: Je mehr relevante Arbeiten in einer Sammlung sind, desto besser werden die Empfehlungen. Schritt-für-Schritt-Anleitungen, z.B. zum Import von Literatur, finden sich auf der Website von ResearchRabbit.
 
 ## Erweiterte Suche und Logische Operatoren {#sec-boolean}
 
-Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mit logischen Operatoren umgehen können. Die häufigsten Operatoren sind `AND`, `OR`, und `NOT`. Diese Operatoren finden Sie in allen wissenschaftlichen Datenbanken und Google Scholar. Manchmal unterscheiden sie sich aber in der konkreten Umsetzung, z.B. Groß-/Kleinschreibung, Verwendung von Symbolen, etc. Über die erweiterte Suche der Suchmaschinen können daher meist Suchstrings über eine grafische Benutzeroberfläche erstellt werden.
+Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat\*innen mit logischen Operatoren umgehen können. Die häufigsten Operatoren sind `AND`, `OR`, und `NOT`. Diese Operatoren finden Sie in allen wissenschaftlichen Datenbanken und Google Scholar. Manchmal unterscheiden sie sich aber in der konkreten Umsetzung, z.B. Groß-/Kleinschreibung, Verwendung von Symbolen, etc. Über die erweiterte Suche der Suchmaschinen können daher meist Suchstrings über eine grafische Benutzeroberfläche erstellt werden.
 
 -   `AND` wird verwendet, wenn mehrere Begriffe kombiniert werden sollen, z.B. bei einer Arbeit zu Sozialen Medien und Wohlbefinden der Suchstring: `Social Media AND Well-Being`
 
@@ -50,13 +67,22 @@ Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat*innen mi
 
 -   `NOT` wird verwendet, wenn bestimmte Begriffe ausgeschlossen werden sollen, beispielsweise, wenn ein Begriff eine weitere Bedeutung hat, z.B. bei Communication im Sinne menschlicher Kommunikation vs. in einem Computerprotokoll: `communication NOT http`
 
--   Operatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine zielgerichtete Recherche ermöglichen.
+-   Operatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine zielgerichtete Recherche ermöglichen: `(Smartphone OR Social Media) AND (Well-Being)` ((“mobile phone” OR smartphone OR “instant mess\* ” OR “mobile mess\* ” OR text\* ) OR (“social media” OR “social network” OR Facebook OR Instagram OR TikTok OR WhatsApp OR Snapchat)) AND (“Well-being” OR happiness OR “life satisfaction” OR “satisfaction with life” OR “subjective well-being” OR “positive affect” OR “negative affect” OR functioning OR “quality of life”)
+
+-   Anführungszeichen ("…"): Begrenzen die Suche auf exakte Wortgruppen oder Phrasen, sodass nur Treffer mit genau dieser Formulierung berücksichtigt werden (z.B. "mobile phone").
+
+-   Sternchen (\* ): Dient als Platzhalter für beliebige Endungen und ermöglicht die Suche nach verschiedenen Wortformen und Ableitungen eines Begriffs (z. B. mess\* findet „message“, „messenger“, „messaging“ usw.).
+
+::: callout-caution
+## Achtung
+
+genaue Verwendung von Anführungszeichen und Sternchen variiert von Datenbank zu Datenbank
+:::
 
 [Hier](https://libguides.mit.edu/c.php?g=175963&p=1158594) gibt es mehr Informationen zu logischen Operatoren in Datenbanken.
 
-
 ## Forward und Backward search
-    
+
 Um relevante Artikel zu identifizieren empfiehlt es sich außerdem:
 
 1.  ...aktuelle Artikel zum Thema der Arbeit zu nutzen, um relevante Beiträge zu identifizieren (inkl. "*forward/citation search*"),
@@ -69,7 +95,7 @@ In Google Scholar gibt es beispielsweise die Option, Artikel zu sehen, die einen
 
 ## Suche in Journals
 
-Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind das z.B.: 
+Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind das z.B.:
 
 -   Journal of Communication
 -   Journal of Computer-Mediated Communication

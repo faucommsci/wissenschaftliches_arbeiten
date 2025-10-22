@@ -110,13 +110,13 @@ Für englische Arbeiten können Sie den folgenden Text nutzen:
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name), student registration number:\_\_\_\_\_\_\_\_\_\_, hereby confirm that I completed the submitted work independently and without the unauthorized assistance of third parties and without the use of undisclosed and, in particular, unauthorized aids. This work has not been previously submitted in its current form or in a similar form to any other examination authorities and has not been accepted as part of an examination by any other examination authority.
 
-Where the wording has been taken from other people\'s work or ideas, this has been properly acknowledged and referenced. This also applies to drawings, sketches, diagrams and sources from the Internet.
+Where the wording has been taken from other people's work or ideas, this has been properly acknowledged and referenced. This also applies to drawings, sketches, diagrams and sources from the Internet.
 
 In particular, I am aware that the use of artificial intelligence is forbidden unless its use an aid has been expressly permitted by the examiner. This applies in particular to such programs that could process the task of the examination or parts thereof instead of me, for example chatbots (especially ChatGPT) and other methods suitable for this purpose.
 
 Furthermore, I am aware that working with others in one room or by means of social or other media represents the unauthorized assistance of third parties within the above meaning, if group work is not expressly permitted. Each exchange of information with others during the examination, with the exception of examiners, persons authorized by them and invigilators, about the structure or contents of the examination or any other information such as sources is not permitted. The same applies to attempts to do so. Proofreading of the work by third parties with the aim of correcting linguistic deficiencies is permitted.
 
-Any infringements of the above rules constitute fraud or attempted fraud and shall lead to the examination being graded \"fail\" (\"nicht bestanden\"). In the event of multiple or particularly drastic breaches of the rules, further sanctions may be imposed by the Examination Board (Prüfungsausschuss).
+Any infringements of the above rules constitute fraud or attempted fraud and shall lead to the examination being graded "fail" ("nicht bestanden"). In the event of multiple or particularly drastic breaches of the rules, further sanctions may be imposed by the Examination Board (Prüfungsausschuss).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -125,3 +125,7 @@ Place, Date                                  �
 </div>
 :::
 :::
+
+## KI-Tools
+
+Wenn die Nutzung von KI-Tools von Ihrer Prüferin bzw. Ihrem Prüfer genehmigt wurde, ist eine Tabelle mit den verwendeten Tools beizufügen. Die Vorlage hierfür finden Sie auf ???. Darüber hinaus sind die verwendeten Suchprompts sowie die generierten Ergebnisse im Anhang der Arbeit zu dokumentieren.
