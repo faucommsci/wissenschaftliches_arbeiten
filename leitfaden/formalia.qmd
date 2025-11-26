@@ -36,7 +36,7 @@ Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel s. @
 
 Das Deckblatt sollte folgende Informationen enthalten
 
--   Name der Universität, des Fachbereichs und des Lehrstuhls/der Juniorprofessur
+-   Name der Universität, des Fachbereichs und des Lehrstuhls
 
 -   Optional: Logo oder Siegel der Universität
 

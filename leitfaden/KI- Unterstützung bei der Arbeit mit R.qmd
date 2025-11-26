@@ -82,7 +82,7 @@ Voraussetzungen:
 
     1.  Wechslen Sie zu GitHub Education
     2.  Wählen Sie unter „Select your role in education“ die Option Student aus
-    3.  Giben Sie im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
+    3.  Geben Sie im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
     4.  Wählen Sie bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder füge Sie diese hinzu
     5.  Klicken Sie auf Weiter. Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Stuudierendenausweis
     6.  Überprüfen Sie die Details der Bewerbung und klicken Sie dann auf Meine Bewerbung bearbeiten
