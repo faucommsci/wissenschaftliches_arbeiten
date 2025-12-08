@@ -6,7 +6,7 @@ lang: de
 
 book:
   title: "Wissenschaftliches Arbeiten"
-  author: "Lehrstuhl | Juniorprofessur für Kommunikationswissenchaft"
+  author: "Lehrstuhl für Kommunikationswissenchaft"
   date: "last-modified"
   date-format: "DD.MM.YYYY"
   cover-image: "img/cover_wiss_arbeiten.svg"
@@ -20,7 +20,7 @@ book:
   
   page-footer:
     right: |
-      Lehrstuhl & Juniorprofessur für Kommunikationswissenschaft
+      Lehrstuhl für Kommunikationswissenschaft
     left: |
       FAU Erlangen-Nürnberg, WiSo
 

@@ -32,6 +32,13 @@ Für etwas Fortgeschrittenere:
 
 ## KI-Unterstützung bei der Arbeit mit R
 
+::: callout-warning
+
+Wichtig: Bei der Verwendung von KI-Hilfsmitteln muss in einem Verzeichnis detaillilert gekennzeichnet werden, welche Hilfsmittel wofür verwendet wurden. Mehr Informationen gibt es in @sec-ki-tools.
+
+:::
+
+
 ### Warum ist es sinnvoll, KI-Tools in die Arbeit mit R zu integrieren?
 
 KI- Tools bieten Zeitersparnis, Einfachheit, Unterstützung beim Erlernen von Programmiersprachen und gute Hilfestellungen. Zudem haben sie eine Art Tutorenfunktion durch ihre Erklärungen von Sachverhalten oder Fehlermeldungen.

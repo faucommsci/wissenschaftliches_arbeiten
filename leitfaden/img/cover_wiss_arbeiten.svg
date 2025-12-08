@@ -7,7 +7,7 @@
    viewBox="0 0 1440 1920"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    sodipodi:docname="cover_wiss_arbeiten.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,12 +27,14 @@
      inkscape:zoom="0.36904762"
      inkscape:cx="684.19355"
      inkscape:cy="895.54838"
-     inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="1192"
-     inkscape:window-y="1354"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:window-width="1184"
+     inkscape:window-height="1186"
+     inkscape:window-x="2330"
+     inkscape:window-y="616"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <rect
@@ -63,7 +65,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1" />
     <rect
        x="173.41935"
        y="653.03226"
@@ -165,10 +168,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter125262"
-       x="-0.0098178332"
-       y="-0.026279995"
-       width="1.0196357"
-       height="1.05256">
+       x="-0.007209681"
+       y="-0.025861035"
+       width="1.0144194"
+       height="1.0517221">
       <feFlood
          flood-opacity="0.415686"
          flood-color="rgb(0,0,0)"
@@ -201,10 +204,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter125352"
-       x="-0.011856426"
-       y="-0.075460575"
-       width="1.0237129"
-       height="1.1509211">
+       x="-0.010252303"
+       y="-0.073757503"
+       width="1.0205046"
+       height="1.147515">
       <feFlood
          flood-opacity="0.415686"
          flood-color="rgb(0,0,0)"
@@ -304,40 +307,40 @@
        id="text31266"
        style="font-size:120px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto weight=950';text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect31268);fill:#ffffff;fill-opacity:1;filter:url(#filter125262)"
        transform="translate(12.091715,351.4564)"><tspan
-         x="478.21094"
-         y="164.14453"
-         id="tspan1339"><tspan
+         x="435.73047"
+         y="165.3164"
+         id="tspan3"><tspan
            style="font-family:Corbel;-inkscape-font-specification:Corbel"
-           id="tspan1335">Leitfaden</tspan><tspan
+           id="tspan1">Leitfaden</tspan><tspan
            style="font-weight:bold;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'"
-           id="tspan1337">
+           id="tspan2">
 </tspan></tspan><tspan
-         x="214.27539"
-         y="302.90625"
-         id="tspan1343"><tspan
+         x="48.572266"
+         y="304.48828"
+         id="tspan5"><tspan
            style="font-weight:bold;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'"
-           id="tspan1341">Wissenschaftliches 
+           id="tspan4">Wissenschaftliches 
 </tspan></tspan><tspan
-         x="489.8125"
-         y="441.66797"
-         id="tspan1347"><tspan
+         x="423.80664"
+         y="443.66015"
+         id="tspan7"><tspan
            style="font-weight:bold;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'"
-           id="tspan1345">Arbeiten</tspan></tspan></text>
+           id="tspan6">Arbeiten</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text57965"
        style="font-size:64px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto weight=950';text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect57967);fill:#ffffff;fill-opacity:1;filter:url(#filter125352)"
        transform="translate(58.907227,201.41935)"><tspan
-         x="250.95215"
-         y="709.0332"
-         id="tspan1351"><tspan
+         x="454.51465"
+         y="709.6582"
+         id="tspan9"><tspan
            style="font-family:Corbel;-inkscape-font-specification:Corbel"
-           id="tspan1349">Lehrstuhl &amp; Juniorprofessur für </tspan></tspan><tspan
-         x="262.28027"
-         y="789.43945"
-         id="tspan1355"><tspan
+           id="tspan8">Lehrstuhl für </tspan></tspan><tspan
+         x="186.3584"
+         y="790.2832"
+         id="tspan11"><tspan
            style="font-family:Corbel;-inkscape-font-specification:Corbel"
-           id="tspan1353">Kommunikationswissenschaft</tspan></tspan></text>
+           id="tspan10">Kommunikationswissenschaft</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text76797"

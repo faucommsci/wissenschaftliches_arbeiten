@@ -18,7 +18,7 @@ Wir empfehlen, in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerec
 
 Wir empfehlen neutrale Formulierungen oder Formen, die alle Geschlechtsidentitäten einschließen, z.B. Schüler\*innen, Studierende
 
--   Sie können neutrale Formen mit „*:*" oder „*\**"[^formalia-1] und/oder Partizipien (*‑ierende*) bilden
+-   Sie können neutrale Formen mit „*:*" oder „*\**"[^formalia-1] und/oder Partizipien (* ierende*) bilden
 
 -   Sie können neutrale Begriffe nutzen, z.B. Person, Beschäftigte
 
@@ -82,15 +82,15 @@ Hiermit versichere ich, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name) \_\_\_\_\_\_\_\_\_\_
 
 Die Stellen der Arbeit, die anderen Quellen im Wortlaut oder dem Sinn nach entnommen wurden, sind durch Angaben der Herkunft kenntlich gemacht. Dies gilt auch für Zeichnungen, Skizzen, bildliche Darstellungen sowie für Quellen aus dem Internet.
 
-Mir ist insbesondere bewusst, dass die Nutzung künstlicher Intelligenz verboten ist, sofern diese nicht ausdrücklich als Hilfsmittel von den Prüfenden zugelassen wurde. Dies gilt insbesondere für solche Programme, die anstelle meiner Person die Aufgabenstellung der Prüfung bzw. Teile derselben bearbeiten könnten, zum Beispiel Chatbots (insbesondere ChatGPT) und andere hierzu geeignete Methoden.
+Mir ist insbesondere bewusst, dass die Nutzung künstlicher Intelligenz verboten ist, sofern diese nicht ausdrücklich als Hilfsmittel von den Prüfenden zugelassen wurde. Dies gilt insbesondere für solche Programme, die anstelle meiner Person die Aufgabenstellung der Prüfung bzw. Teile derselben bearbeiten könnten, zum Beispiel Chatbots (insbesondere ChatGPT) und andere hierzu geeignete Methoden. Ich habe alle dieser verwendeten Hilfsmittelich in einem seperaten Verzeichnis gekennzeichnet wo ich detailliert ausarbeite, wofür ich welches Tool verwendet habe.
 
 Des Weiteren ist mir bekannt, dass die gemeinsame Bearbeitung der Aufgabenstellung mit anderen Personen in einem Raum oder mithilfe sozialer oder anderer Medien eine unzulässige Hilfe Dritter im o.g. Sinne darstellt, wenn nicht ausdrücklich Gruppenarbeit vorgesehen ist. Der Austausch mit anderen Personen mit Ausnahme von Prüfenden, deren Beauftragten und Aufsichtführenden während der Prüfungszeit über Aufbau oder Inhalte der Prüfung oder Informationen (z.B. Quellen) ist unzulässig. Gleiches gilt für den Versuch der jeweiligen Handlung. Das Korrekturlesen der Arbeit durch Dritte mit dem Ziel, sprachliche Mängel zu beheben, ist zulässig.
 
 Verstöße gegen die o.g. Regeln sind als Täuschung bzw. Täuschungsversuch zu qualifizieren und führen zu einer Bewertung der Prüfung mit „nicht bestanden". Bei mehrfachen oder auch besonders drastischen Regelverstößen sind weiterführende Sanktionen durch den Prüfungsausschuss möglich.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Ort, Datum                                                            Eigenhändige Unterschrift
+Ort, Datum                                                            Eigenhändige Unterschrift
 
 </div>
 :::
@@ -112,20 +112,22 @@ I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name), student registration number:\_\_\_\_\_\_
 
 Where the wording has been taken from other people's work or ideas, this has been properly acknowledged and referenced. This also applies to drawings, sketches, diagrams and sources from the Internet.
 
-In particular, I am aware that the use of artificial intelligence is forbidden unless its use an aid has been expressly permitted by the examiner. This applies in particular to such programs that could process the task of the examination or parts thereof instead of me, for example chatbots (especially ChatGPT) and other methods suitable for this purpose.
+In particular, I am aware that the use of artificial intelligence is forbidden unless its use an aid has been expressly permitted by the examiner. This applies in particular to such programs that could process the task of the examination or parts thereof instead of me, for example chatbots (especially ChatGPT) and other methods suitable for this purpose. I include a detailled overview of all used artificial intelligence tool and what I used them for in an appendix.
 
 Furthermore, I am aware that working with others in one room or by means of social or other media represents the unauthorized assistance of third parties within the above meaning, if group work is not expressly permitted. Each exchange of information with others during the examination, with the exception of examiners, persons authorized by them and invigilators, about the structure or contents of the examination or any other information such as sources is not permitted. The same applies to attempts to do so. Proofreading of the work by third parties with the aim of correcting linguistic deficiencies is permitted.
 
 Any infringements of the above rules constitute fraud or attempted fraud and shall lead to the examination being graded "fail" ("nicht bestanden"). In the event of multiple or particularly drastic breaches of the rules, further sanctions may be imposed by the Examination Board (Prüfungsausschuss).
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Place, Date                                                                Signature
+Place, Date                                                                Signature
 
 </div>
 :::
 :::
 
-## KI-Tools
+## KI-Tools {#sec-ki-tools}
 
-Wenn die Nutzung von KI-Tools von Ihrer Prüferin bzw. Ihrem Prüfer genehmigt wurde, ist eine Tabelle mit den verwendeten Tools beizufügen. Die Vorlage hierfür finden Sie auf ???. Darüber hinaus sind die verwendeten Suchprompts sowie die generierten Ergebnisse im Anhang der Arbeit zu dokumentieren.
+Wenn die Nutzung von KI-Tools von Ihrer Prüferin bzw. Ihrem Prüfer genehmigt wurde, ist eine Tabelle mit den verwendeten Tools beizufügen. Bitte inkludieren Sie die Tabelle mit den Spalten: KI-Tool (z.B. ChatGPT, Hawki), Nutzungszweck (z.B. Rechtschreibprüfung, Analyse-Code verbessern), Begründung für die Nutzung (z.B. Lesbarkeit verbessern, Fehlermeldungen in R analysieren) und Anwendungsbereiche (z.B. S.2, Abbildung 3, Kapitel 4.1) innerhalb der Arbeit.
+
+
