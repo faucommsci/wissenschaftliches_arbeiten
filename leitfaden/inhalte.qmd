@@ -76,7 +76,7 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehens** bei empirischen Arbeiten.
 
-Bei narrativen Literaturüberblicken müssen keine methodischen Angaben gemacht werden. 
+Bei narrativen Literaturüberblicken muss kein seperater Methodenteil erstellt werden. Informationen über die Recherche und Identifikation von Literatur könnnen in den Text integriert werden.
 
 Für systematische Literaturüberblicke sollte eine **Darstellung des Vorgehens**, z.B. Such-, Einschluss- und Ausschlusskriterien inkludiert werden.  
 
