@@ -2,7 +2,7 @@
 
 ## Hinweise zur Gültigkeit dieses Leitfadens
 
-Der Leitfaden gilt für alle **Seminar-, Bachelor- und Abschlussarbeiten**, sofern nicht explizit anders angegeben. Sind Elemente des Leitfadens nicht auf das Format der Arbeit anwendbar, z. B. bei nicht-empirischen Arbeiten, Essays, u.Ä., gelten die übrigen anwendbaren Abschnitte.
+Der Leitfaden gilt für alle **Seminar- und Abschlussarbeiten**, sofern nicht explizit anders angegeben. Sind Elemente des Leitfadens nicht auf das Format der Arbeit anwendbar, z. B. bei nicht-empirischen Arbeiten, Essays, u.Ä., gelten die übrigen anwendbaren Abschnitte.
 
 
 ## Zentrale Gütekriterien
@@ -29,13 +29,14 @@ Wissenschaftliche Arbeiten am Lehrstuhl können grundsätzlich auf **Deutsch ode
 
 ## Umfang, Schriftbild und Druck
 
-Bachelorarbeiten sollten einen Umfang von etwa **8.000 -- 10.000 Wörtern** (ca. 30 Seiten), Masterarbeiten von etwa **18.000 -- 20.000 Wörtern** (ca. 60-70 Seiten) haben. Der Umfang von Seminararbeiten richtet sich nach den Vorgaben im jeweiligen Seminar, ist im Allgemeinen aber deutlich kürzer als bei Abschlussarbeiten. 
+Bachelorarbeiten sollten einen Umfang von etwa **8.000 -- 10.000 Wörtern** (ca. 30 Seiten), Masterarbeiten von etwa **16.000 -- 18.000 Wörtern** (ca. 60 Seiten) haben. Der Umfang von Seminararbeiten richtet sich nach den Vorgaben im jeweiligen Seminar, ist im Allgemeinen aber deutlich kürzer als bei Abschlussarbeiten. 
+Bei englischen Masterarbeiten besteht zudem die Möglichkeit diese im **APA Paperformat** (ca. 30 Seiten) anzufertigen. Dies muss zuvor aber individuell mit dem jeweiligen Betreuenden abgesprochen werden. 
 
 Deckblatt, Anhang, Verzeichnisse, Abbildungen, etc. zählen nicht in diese Begrenzung. Abbildungen und Tabellen sind im Text zu erwähnen und in der Nähe der Erwähnung, nicht im Anhang, zu platzieren. Tabellen und Abbildungen mit weiterführenden, nicht essenziellen Informationen oder Materialien können in den Anhang und müssen nicht im Text erwähnt werden.
 
-Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 11pt** zu formatieren. Nutzen Sie für Fließtexte **2-fachen Zeilenabstand** sowie eine **linksbündige oder Blocksatz** Formatierung.
+Alle Abschlussarbeiten sind entweder in **Times New Roman 12pt** oder **Calibri 11pt** zu formatieren. Nutzen Sie für Fließtexte **2-fachen Zeilenabstand** sowie eine **Blocksatz**-Formatierung.
 
-Lassen Sie rechts und links einen Rand von 2.5-3cm. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (kurz-)Titel ein. Die (kurz-)Titel sollen sich in der Kopfzeile befinden und geben den Titel der Arbeit in einer Zeile gekürzt wieder. Dabei muss darauf geachtete werden, dass die zentralsten Begriffe aufgegriffen werden.
+Lassen Sie rechts und links einen Rand von **3 cm**. Fügen Sie in Kopf- oder Fußzeile Seitenzahlen und (Kurz-)Titel ein. Die (Kurz-)Titel sollen sich in der Kopfzeile befinden und geben den Titel der Arbeit in einer Zeile gekürzt wieder. Dabei muss darauf geachtete werden, dass die zentralsten Begriffe aufgegriffen werden.
 
 Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgegeben werden. Dabei müssen **zwei gedruckte und gebundene** Exemplare sowie **ein elektronisches Exemplar** (z. B. USB-Stick, CD) abgegeben werden.
 
@@ -46,19 +47,19 @@ Abschlussarbeiten müssen in **dreifacher Ausführung** beim Prüfungsamt abgege
 - Wörter Umfang: 
         Seminararbeiten: siehe Vorgaben des jeweiligen Seminars
         Bachelorarbeiten: 8.000 -- 10.000 Wörter
-        Masterarbeiten: 18.000 -- 20.000 Wörter
+        Masterarbeiten: 16.000 -- 18.000 Wörter
 
 - Schriftart und Zeilenabstand: 
         Times New Roman 12pt oder Calibri 11 pt
         2 - facher Zeilenabstand
-        Linksbündig oder Blocksatz
+        Blocksatz
 
 - Randabstand: 
-        2.5 - 3 cm
+        3 cm
 
 - Kopf- oder Fußzeile:
         Seitenzahlen
-        (Kurz-) Titel
+        (Kurz-)Titel
 :::
 
 
