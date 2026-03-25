@@ -42,9 +42,9 @@ Im Folgenden wird auf die einzelnen Abschnitte der Arbeit eingegangen. Alle Absc
 
 ## Abstract
 
-Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Lesende ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftliches Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
+Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Lesende ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftlicher Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
 
-**Anforderungen**: Das Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englisches Abstract notwendig**.
+**Anforderungen**: Der Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englischer Abstract notwendig**.
 
 ## Einleitung
 
@@ -56,7 +56,7 @@ Zu Beginn einer wissenschaftlichen Arbeit sollte der Untersuchungsgegenstand dar
 
 3.  Das **Ziel** der Untersuchung darstellen
 
-In vielen Fällen ist es ratsam, in der Einleitung implizit oder explizit eine **forschungsleitende Frage** aufzustellen. Diese hilft, den roten Faden durch die gesamte Arbeit herauszuarbeiten. Anhand der forschungsleitenden Frage können Sie prüfen, ob nachfolgende Inhalte für Ihre Arbeit zentral sind (= sie tragen zur Beantwortung der forschungsleitenden Frage bei) oder weggelassen werden sollten (= sie tragen nicht zur Beantwortung bei).
+In vielen Fällen ist es ratsam, in der Einleitung implizit oder explizit eine **forschungsleitende Frage** aufzustellen. Diese hilft, den roten Faden durch die gesamte Arbeit herauszuarbeiten. Anhand der forschungsleitenden Frage können Sie prüfen, ob nachfolgende Inhalte für Ihre Arbeit zentral sind (= Inhalte tragen zur Beantwortung der forschungsleitenden Frage bei) oder weggelassen werden sollten (= Inhalte tragen nicht zur Beantwortung bei).
 
 Jeder wissenschaftliche Text benötigt eine Einleitung.
 
@@ -66,9 +66,9 @@ Jeder wissenschaftliche Text benötigt eine Einleitung.
 
 Der Hintergrund bildet das theoretische Kernstück der Arbeit. Hier sollen bisherige Theorien/Konzepte/Modelle sowie der Kenntnisstand empirischer Forschung zur forschungsleitenden Frage aufgearbeitet werden.
 
-Dazu sollen Sie zentrale Literatur identifizieren und den theoretischen Hintergrund herausarbeiten. Bei der Recherche kann es helfen, zunächst eine zentrale Studie zu suchen, und über dort referenzierte Literatur weitere Quellen zu finden (sog. "backward search"). So können auch ältere, besonders zentrale Beiträge identifiziert werden. Solche Werke werden wahrscheinlich in gleich mehreren Artikeln referenziert. Zusätzlich können neuere Studien zum Thema durch einen Blick in die Beiträge, die eine Schlüsselquelle seit Erscheinen zitiert haben, helfen (sog. "forward search" oder "citation search", bspw. über Google Scholar).
+Dazu sollen Sie zentrale Literatur identifizieren und den theoretischen Hintergrund herausarbeiten. Bei der Recherche kann es helfen, zunächst eine zentrale Studie zu suchen, und über dort referenzierte Literatur weitere Quellen zu finden (sog. "backward search"). So können auch ältere, besonders zentrale Beiträge identifiziert werden. Solche Werke werden wahrscheinlich in mehreren Artikeln referenziert. Zusätzlich können neuere Studien zum Thema durch einen Blick in die Beiträge, die eine Schlüsselquelle seit Erscheinen zitiert haben, helfen (sog. "forward search" oder "citation search", bspw. über Google Scholar).
 
-Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebietes den Rahmen der Arbeit sprengen könnte. In diesen Fällen sollten Sie Ihr Thema spezifizieren. Der wissenschaftliche Beitrag einer Arbeit ist größer, wenn ein enges, klar definiertes Thema sehr gut behandelt wird, als wenn ein breites Thema oberflächlich behandelt wird. Z. B. könnte die Forschungsfrage „Wie hängt die Smartphone-Nutzung mit Wohlbefinden zusammen?" zu „Wie hängen arbeitsbezogene Smartphone-Benachrichtigungen mit empfundenem Stress zusammen?" spezifiziert werden. Solche Eingrenzungen des Themas sollten Sie inhaltlich oder theoretisch begründen können.
+Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebietes den Rahmen der Arbeit sprengen könnte. In diesen Fällen sollten Sie Ihr Thema spezifizieren. Der wissenschaftliche Beitrag einer Arbeit ist größer, wenn ein enges, klar definiertes Thema sehr gut behandelt wird, als wenn ein breites Thema oberflächlich behandelt wird. Beispielsweise könnte die Forschungsfrage „Wie hängt die Smartphone-Nutzung mit Wohlbefinden zusammen?" zu „Wie hängen arbeitsbezogene Smartphone-Benachrichtigungen mit empfundenem Stress zusammen?" spezifiziert werden. Solche Eingrenzungen des Themas sollten Sie inhaltlich oder theoretisch begründen können.
 
 **Umfang**: ca. 20-40% (kleinerer Anteil bei empirischen, größerer Anteil bei theoretischen/literaturbasierten Arbeiten)
 
@@ -76,9 +76,9 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehens** bei empirischen Arbeiten.
 
-Bei narrativen Literaturüberblicken muss kein seperater Methodenteil erstellt werden. Informationen über die Recherche und Identifikation von Literatur könnnen in den Text integriert werden.
+Bei narrativen Literaturüberblicken muss kein seperater Methodenteil erstellt werden. Informationen über die Recherche und Identifikation von Literatur können in den Text integriert werden.
 
-Für systematische Literaturüberblicke sollte eine **Darstellung des Vorgehens**, z.B. Such-, Einschluss- und Ausschlusskriterien inkludiert werden.  
+Für systematische Literaturüberblicke sollte eine **Darstellung des Vorgehens**, z.B. Such-, Einschluss- und Ausschlusskriterien, inkludiert werden.  
 
 Verwendete Materialien, z. B. Fragebögen, Code-Bücher oder Experimental-Stimuli, gehören in den Anhang.
 
@@ -114,6 +114,6 @@ Die Diskussion fügt alle zentralen Teile der Arbeit zusammen und bildet den Abs
 
 ## Anhang
 
-In den Anhang gehören alle zusätzlichen Informationen, Materialien, etc. die zur Nachvollziehbarkeit oder zum Verständnis beitragen. Auch zusätzliche Informationen, wie weitere Analysen, oder Transkripte von Interviews, etc. gehören hierhin.
+In den Anhang gehören alle zusätzlichen Informationen, Materialien, etc. die zur Nachvollziehbarkeit oder zum Verständnis beitragen. Auch zusätzliche Informationen, wie weitere Analysen, oder Transkripte von Interviews, etc. gehören hier hinein.
 
 **Umfang**: Der Anhang zählt nicht in den Wortumfang.
