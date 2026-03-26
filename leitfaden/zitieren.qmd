@@ -51,7 +51,7 @@ Roller-Spoo, J. (2020, October 24). *Von Hatern und Hetzern: Der Kampf gegen Has
 <div>
 
 +--------------------------------------+------------+------------------------------------------------+----------------------------------------------------+-----------------------+
-| Autor\*in                            | Jahr       | Titel                                          | Quelle: Verlag                                     | Quelle: doi/URL       |
+| Autor\*in                            | Jahr       | Titel                                          | Quelle: Verlag                                     | Quelle: DOI/URL       |
 +======================================+============+================================================+====================================================+=======================+
 | Autor\*in, A. A., & Autor\*in, B. B. | \(2020\)   | *Name des Buchs.*                              | Verlagsname.                                       | <https://doi.org.xxx> |
 |                                      |            |                                                |                                                    |                       |
@@ -74,95 +74,95 @@ Roller-Spoo, J. (2020, October 24). *Von Hatern und Hetzern: Der Kampf gegen Has
 
 -   Nennen Sie jegliche Informationen über eine neue Auflage in einer Klammer nach dem Titel ohne Kursivsetzung.
 
--   Wenn das Buch einen Digital Object Identifier (doi) hat, nennen Sie die doi-Nummer als Link nach dem Namen des Verlags, bspw. <https://doi.org/10.1234/j.soscij.2020.-12.34>. Andere Nummernsysteme (z.B. ISBN) werden im APA-Stil nicht verwendet.
+-   Wenn das Buch einen Digital Object Identifier (DOI) hat, nennen Sie die DOI-Nummer als Link nach dem Namen des Verlags, bspw. <https://doi.org/10.1234/j.soscij.2020.-12.34>. Andere Nummernsysteme (z.B. ISBN) werden im APA-Stil nicht verwendet.
 
 -   Nennen Sie keinen Verlagsort.
 
--   Wenn das Buch keine doi besitzt und ein eBook einer wissenschaftlichen Datenbank ist, endet die Literaturangabe nach dem Verlagsnamen. Nennen Sie keine Datenbankinformationen. Die Literaturangabe gleicht dann der von Printausgaben.
+-   Wenn das Buch keine DOI besitzt und ein eBook einer wissenschaftlichen Datenbank ist, endet die Literaturangabe nach dem Verlagsnamen. Nennen Sie keine Datenbankinformationen. Die Literaturangabe gleicht dann der von Printausgaben.
 
 -   Wenn ein Buch 20 Autor\*innen oder weniger besitzt, nennen Sie alle Autor\*innen. Wenn ein Buch 21 Autor\*innen oder mehr besitzt, nennen Sie die ersten 19 Autor\*innen, setzen Sie danach drei Punkte („...") und nennen Sie danach den Namen der/des letzten Autor\*in. Diese Regel gilt auch für Zeitschriftenartikel (s. [Abschnitt @sec-fachzeitschriften)]).
 
 ### Monographien
 
-#### Monographie \| ein\*e Autor\*in \| mit doi
+#### Monographie \| ein\*e Autor\*in \| mit DOI
 
 ::: quote
 Koch, T. (2010). *Macht der Gewohnheit? Der Einfluss der Habitualisierung auf die Fernsehnutzung*. VS Verlag für Sozialwissenschaften. <https://doi.org/10.1007/978-3-531-92529-5>
 :::
 
-#### Monographie \| ein\*e Autor\*in \| ohne doi
+#### Monographie \| ein\*e Autor\*in \| ohne DOI
 
 ::: quote
 Donsbach, W. (1982). *Legitimationsprobleme des Journalismus: Gesellschaftliche Rolle der Massenmedien und berufliche Einstellungen von Journalisten*. Alber-Verlag.
 :::
 
-#### Monographie \| zwei bis 21 Autor\*innen \| ohne doi
+#### Monographie \| zwei bis 21 Autor\*innen \| ohne DOI
 
 ::: quote
 Lazarsfeld, P. F., Berelson, B., & Gaudet, H. (1968). *The people's choice: How the voter makes up his mind in a presidential campaign*. Columbia University Press.
 :::
 
-#### Monographie \| Übersetzung \| ohne doi
+#### Monographie \| Übersetzung \| ohne DOI
 
 ::: quote
 Freud, S. (1970). *An outline of psychoanalysis* (J. Strachey, Trans.). Norton. (Original work published 1940)
 :::
 
-#### Monographie \| Band in einer Reihe \| mit doi
+#### Monographie \| Band in einer Reihe \| mit DOI
 
 ::: quote
 Kepplinger, H. M. (2011). *Journalismus als Beruf*. VS Verlag für Sozialwissenschaften. <https://doi.org/10.1007/978-3-531-92915-6>
 :::
 
-*Anmerkung*: bei einem Band in einer Reihe, in der einzelne Bände nur konzeptuell verwandt sind, wird der Titel der Reihe nicht genannt. Der Titel der Schriftenreihe wäre hier Theorie und Praxis öffentlicher Kommunikation.
+*Anmerkung*: Bei einem Band in einer Reihe, in der einzelne Bände nur konzeptuell verwandt sind, wird der Titel der Reihe nicht genannt. Der Titel der Schriftenreihe wäre hier "Theorie und Praxis öffentlicher Kommunikation".
 
 ### Sammelbände
 
-#### Sammelband \| zwei bis 21 Herausgeber\*innen \| ohne doi
+#### Sammelband \| zwei bis 21 Herausgeber\*innen \| ohne DOI
 
 ::: quote
 Reinecke, L., & Oliver, M. B. (Eds.). (2016). *The Routledge handbook of media use and well-being*. Routledge.
 :::
 
-#### Sammelband mit mehreren Bänden \| Band ohne eigenen Titel \| neue Auflage \| mit doi
+#### Sammelband mit mehreren Bänden \| Band ohne eigenen Titel \| neue Auflage \| mit DOI
 
 ::: quote
 Fiske, S. T., Gilbert, D. T., & Lindzey, G. (Eds.). (2010). Handbook of social psychology (5th Ed., Vol. 1). John Wiley & Sons. <https://doi.org/10.1002/9780470561119>
 :::
 
-#### Sammelband mit mehreren Bänden \| Band mit eigenem Titel \| mit doi
+#### Sammelband mit mehreren Bänden \| Band mit eigenem Titel \| mit DOI
 
 ::: quote
 Travis, C. B., & White, J. W. (Eds.). (2018). *APA handbook of the psychology of women*: Vol. 1. History, theory, and battlegrounds. American Psychological Association. <https://doi.org/10.1037/0000059-000>
 :::
 
-#### Sammelband in einer Reihe \| mit doi
+#### Sammelband in einer Reihe \| mit DOI
 
 ::: quote
 Pollock, G., Ozan, J., Goswami, H., Rees, G., & Stasulane, A. (Eds.). (2018). *Measuring youth well-being: How a pan-European longitudinal survey can improve policy*. Springer International Publishing. <https://doi.org/10.1007/978-3-319-76063-6>
 :::
 
-*Anmerkung*: bei einem Band in einer Reihe, in der einzelne Titel nur konzeptuell verwandt sind, wird der Titel der Reihe nicht genannt. Der Titel der Schriftenreihe wäre hier Children's well-being: Indicators and research.
+*Anmerkung*: Bei einem Band in einer Reihe, in der einzelne Titel nur konzeptuell verwandt sind, wird der Titel der Reihe nicht genannt. Der Titel der Schriftenreihe wäre hier "Children's well-being: Indicators and research".
 
-#### Tagungsband (wird zitiert wie ein Sammelband) \| ohne doi
+#### Tagungsband (wird zitiert wie ein Sammelband) \| ohne DOI
 
 ::: quote
 Kalch, A., & Wagner, A. (Eds.). (2020). *Gesundheitskommunikation und Digitalisierung: Zwischen Lifestyle, Prävention und Krankheitsversorgung*. Nomos.
 :::
 
-#### Kapitel oder Beitrag in einem Sammelband \| ohne doi
+#### Kapitel oder Beitrag in einem Sammelband \| ohne DOI
 
 ::: quote
 Huta, V. (2017). An overview of hedonic and eudaimonic well-being concepts. In L. Reinecke & M. B. Oliver (Eds.), *The Routledge handbook of media use and well-being. International perspectives on theory and research on positive media effects* (pp. 14--33). Routledge.
 :::
 
-#### Beitrag in einem Sammelband mit mehreren Bänden \| mit doi
+#### Beitrag in einem Sammelband mit mehreren Bänden \| mit DOI
 
 ::: quote
 Roberts, T.-A., Calogero, R. M., & Gervais, S. J. (2018). Objectification theory: Continuing contributions to feminist psychology. In C. B. Travis & J. W. White (Eds.), APA handbook of the psychology of women: Vol. 1. History, theory, and battlegrounds. American Psychological Association. <https://doi.org/10.1037/0000059-000>
 :::
 
-#### Beitrag in einer Enzyklopädie \| mit doi
+#### Beitrag in einer Enzyklopädie \| mit DOI
 
 ::: quote
 Valkenburg, P. M., & Peter, J. (2017). Differential susceptibility to media effects model. In P. Rössler, C. A. Hoffner, & L. Zoonen (Eds.), The international encyclopedia of media effects. John Wiley & Sons. <https://doi.org/10.1002/9781118783764.wbieme0119>
@@ -171,7 +171,7 @@ Valkenburg, P. M., & Peter, J. (2017). Differential susceptibility to media effe
 ### Fachzeitschriften {#sec-fachzeitschriften}
 
 +---------------------------------------+--------------------+---------------------+------------------------------------------------+-----------------------+
-| Autor\*in                             | Jahr               | Titel               | Quelle: Verlag                                 | Quelle: doi/URL       |
+| Autor\*in                             | Jahr               | Titel               | Quelle: Verlag                                 | Quelle: DOI/URL       |
 +=======================================+====================+=====================+================================================+=======================+
 | Autor\*in, A. A., & Au-tor\*in, B. B. | (2020).            | Titel des Artikels. | *Titel der Zeitschrift, 34*(2), 5--14.         | <https://doi.org.xxx> |
 |                                       |                    |                     |                                                |                       |
@@ -184,13 +184,13 @@ Valkenburg, P. M., & Peter, J. (2017). Differential susceptibility to media effe
 
 #### **Allgemeine Hinweise**
 
--   Wenn ein Aufsatz eine doi-Nummer hat, geben Sie die doi an.
+-   Wenn ein Aufsatz eine DOI-Nummer hat, geben Sie die DOI an.
 
 -   Geben Sie bei Zeitschriftenaufsätzen, wenn vorhanden, immer die Heftnummer an.
 
--   Wenn ein Zeitschriftenaufsatz keine doi besitzt und von einer wissenschaftlichen Datenbank stammt, beenden Sie die Angabe mit der Angabe der Seitenspanne.
+-   Wenn ein Zeitschriftenaufsatz keine DOI besitzt und von einer wissenschaftlichen Datenbank stammt, beenden Sie die Angabe mit der Angabe der Seitenspanne.
 
--   Wenn der Zeitschriftenaufsatz keine doi besitzt, aber dafür eine URL, nennen Sie stattdessen die URL am Ende der Literaturangabe.
+-   Wenn der Zeitschriftenaufsatz keine DOI besitzt, aber dafür eine URL, nennen Sie stattdessen die URL am Ende der Literaturangabe.
 
 -   Wenn der Zeitschriftenaufsatz eine Artikelnummer (z.B. e12345678) anstelle einer Sei-tenangabe hat, nennen Sie das Wort „Artikel" und folgend die Artikelnummer.
 
@@ -198,31 +198,31 @@ Valkenburg, P. M., & Peter, J. (2017). Differential susceptibility to media effe
 
 ### Publizierte Zeitschriftenaufsätze in wissenschaftlichen Fachzeitschriften.
 
-#### Zeitschriftenaufsatz \| ein\*e Autor\*in \| mit doi
+#### Zeitschriftenaufsatz \| ein\*e Autor\*in \| mit DOI
 
 ::: quote
 Walther, J. B. (1996). Computer-mediated communication: Impersonal, interpersonal, and hyperpersonal interaction. *Communication Research, 23*(1), 3--43. <https://doi.org/10.1177/009365096023001001>
 :::
 
-#### Zeitschriftenaufsatz \| zwei bis 21 Autor\*innen \| ohne Heftnummer \| mit doi
+#### Zeitschriftenaufsatz \| zwei bis 21 Autor\*innen \| ohne Heftnummer \| mit DOI
 
 ::: quote
 Appel, H., Gerlach, A. L., & Crusius, J. (2016). The interplay between Facebook use, social comparison, envy, and depression. *Current Opinion in Psychology, 9*, 44--49. <https://doi.org/10.1016/j.copsyc.2015.10.006>
 :::
 
-#### Zeitschriftenaufsatz \| zwei bis 21 Autor\*innen \| mit Heftnummer \| mit doi
+#### Zeitschriftenaufsatz \| zwei bis 21 Autor\*innen \| mit Heftnummer \| mit DOI
 
 ::: quote
 Horton, D., & Wohl, R. R. (1956). Mass communication and para-social interaction: Observations on intimacy at a distance. *Psychiatry, 19*(3), 215--229. <https://doi.org/10.1080/00332747.1956.11023049>
 :::
 
-#### Zeitschriftenaufsatz \| zwei bis 21 Autor\*innen \| mit Artikel ID \| mit doi
+#### Zeitschriftenaufsatz \| zwei bis 21 Autor\*innen \| mit Artikel ID \| mit DOI
 
 ::: quote
 Reinecke, L., Klimmt, C., Meier, A., Reich, S., Hefner, D., Knop-Huelss, K., Rieger, D., &, Vorderer, P. (2018). Permanently online and permanently connected: Development and validation of the Online Vigilance Scale. *PLoS ONE, 13*(10), Article e0205384. <https://doi.org/10.1371/journal.pone.0205384>
 :::
 
-#### Zeitschriftenaufsatz \| 21 oder mehr Autor\*innen (Autor\*innenregel gilt auch für Bücher) \| mit Heftnummer \| mit doi
+#### Zeitschriftenaufsatz \| 21 oder mehr Autor\*innen (Autor\*innenregel gilt auch für Bücher) \| mit Heftnummer \| mit DOI
 
 ::: quote
 Rumpf, H.-J., Achab, S., Billieux, J., Bowden-Jones, H., Carragher, N., Demetrovics, Z., Hi-guchi, S., King, D. L., Mann, K., Potenza, M., Saunders, J. B., Abbott, M., Ambekar, A., Aricak, O. T., Assanangkornchai, S., Bahar, N., Borges, G., Brand, M., Chan, E. M.-L., . . . Poznyak, V. (2018). Including gaming disorder in the ICD-11: The need to do so from a clinical and public health perspective. *Journal of Behavioral Addictions, 7*(3), 556--561. <https://doi.org/10.1556/2006.7.2018.59>
@@ -230,7 +230,7 @@ Rumpf, H.-J., Achab, S., Billieux, J., Bowden-Jones, H., Carragher, N., Demetrov
 
 ### Vorabpublikationen wissenschaftlicher Fachzeitschriftenartikel ("Preprints")
 
-Bei einer Recherche im Internet können Sie manchmal auf Vorabversionen von Fachzeitschriftenartikeln stoßen (sog. „Preprints"). Da diese Vorabversionen oft von der publizierten Version abweichen, sollten Sie eine Vorabpublikation als solche kennzeichnen: Zitieren Sie also die Vorabversion eines Werkes gemäß den unten genannten Beispielen, falls Sie diese in Ihrer Arbeit verwenden. Dies gilt nicht nur für Zeitschriftenaufsätze, sondern auch für Sammelbände und Monographien. Idealerweise benutzen und zitieren Sie die finale, publizierte Version des Werkes, wenn diese vorliegt. Manchmal trifft man bei Quellenangaben auch auf die Bezeichnung „in press" oder „im Druck". Dabei handelt es sich um Publikationen, die kurz vor der Veröffentlichung stehen, aber noch nicht öffentlich zugänglich sind.
+Bei einer Recherche im Internet können Sie manchmal auf Vorabversionen von Fachzeitschriftenartikeln stoßen (sog. „Preprints"). Da diese Vorabversionen oft von der publizierten Version abweichen, sollten Sie eine Vorabpublikation als solche kennzeichnen: Zitieren Sie also die Vorabversion eines Werkes gemäß den unten genannten Beispielen, falls Sie diese in Ihrer Arbeit verwenden. Dies gilt nicht nur für Zeitschriftenaufsätze, sondern auch für Sammelbände und Monographien. Idealerweise benutzen und zitieren Sie die finale, publizierte Version des Werkes, sofern diese vorliegt. Manchmal trifft man bei Quellenangaben auch auf die Bezeichnung „in press" oder „im Druck". Dabei handelt es sich um Publikationen, die kurz vor der Veröffentlichung stehen, aber noch nicht öffentlich zugänglich sind.
 
 #### Zeitschriftenaufsatz \| Vorabdruck („Preprint") aus einer Datenbank (bspw. PsyArXiv oder PubMed Central)
 
@@ -252,13 +252,13 @@ Turney, P. D. (in press). The latent relation mapping engine: Algorithm and expe
 
 ### Weitere wissenschaftliche Beiträge
 
-#### Bericht einer Organisation oder Institution als Autor\*in \| URL anstelle einer doi
+#### Bericht einer Organisation oder Institution als Autor\*in \| URL anstelle einer DOI
 
 ::: quote
 Pew Research Center. (2020). *Parenting children in the age of screens*. <https://www.pewresearch.org/internet/2020/07/28/parenting-children-in-the-age-of-screens/>
 :::
 
-#### Bericht von Autor\*innen innerhalb einer Organisation \| URL anstelle einer doi
+#### Bericht von Autor\*innen innerhalb einer Organisation \| URL anstelle einer DOI
 
 ::: quote
 Fried, D., & Polyakova, A. (2018). *Democratic defense against disinformation*. Atlantic Council. <https://www.atlanticcouncil.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf>
@@ -463,7 +463,7 @@ Brand, M. (Host), Kemper, H. (Host), & Rauner, M. (Host). (2020, Oktober 18). Ka
 
 -   Jede Quelle im Text muss im Literaturverzeichnis zu finden sein.
 
--   Kurzbelege bestehen aus den Nachnamen der Autor\*innen (bzw. des Autor\*innen-Äquivalents oder der Organisation), dem Erscheinungsjahr und ggf, der Seitenzahl.
+-   Kurzbelege bestehen aus den Nachnamen der Autor\*innen (bzw. des Autor\*innen-Äquivalents oder der Organisation), dem Erscheinungsjahr und ggf. der Seitenzahl.
 
 -   Sammelbelege, d.h. mehrere (meist sinngemäße) Belege an einer bestimmten Textstelle werden durch ein Semikolon getrennt und alphabetisch sortiert.
 
@@ -519,20 +519,19 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
 #### Umgang mit Uneindeutigkeiten bei Kurzbelegen im Text
 
--   Wenn mehrere Quellen mit drei oder mehr Autor\*innen und demselben Publikations-jahr zu demselben Kurzbeleg (Name et al., Jahr) zusammengefasst würden, werden so viele Autoren genannt, bis die Quelle eindeutig zuordbar ist.
+-   Wenn mehrere Quellen mit drei oder mehr Autor\*innen und demselben Publikationsjahr zu demselben Kurzbeleg (Name et al., Jahr) zusammengefasst werden würden, werden so viele Autoren genannt bis die Quelle eindeutig zuordenbar ist.
 
     -   Beispiel: Die Quellen Müller, Meier, Schmidt, Schulz, Becker und Schäfer aus dem Jahr 2017 sowie Müller, Meier, Milch, Mango und Mahler aus dem Jahr 2017 würden beide zu demselben Kurzbeleg (Müller et al., 2017) zusammengefasst.
 
-    -   Lösung: Es werden so viele Autor\*innen genannt, bis eindeutig wird, welche Quelle gemeint ist (Müller, Meier, Schmidt, et al., 2017). Demnach müssten in diesem Fall jeweils die ersten drei Autor\*innen beider Quellen aufgezählt werden (Müller, Meier, Milch, et al., 2017).
+    -   Lösung: Es werden so viele Autor\*innen genannt bis eindeutig wird, welche Quelle gemeint ist (Müller, Meier, Schmidt, et al., 2017). Demnach müssten in diesem Fall jeweils die ersten drei Autor\*innen beider Quellen aufgezählt werden (Müller, Meier, Milch, et al., 2017).
 
--   Wenn sich nur der letzte Autor\*innenname unterscheidet, nennen Sie alle Namen voll-ständig bei jeder Quellenangabe.
+-   Wenn sich nur der letzte Autor\*innenname unterscheidet, nennen Sie alle Namen vollständig bei jeder Quellenangabe.
 
     -   (Müller, Meier, Schmidt, & Schulz, 2017)
 
     -   (Müller, Meier, Schmidt, & Becker, 2017)
 
--   Wenn mehrere Quellen eine identische Autor\*innenreihe
-nfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem Publikationsjahr hinzu. Diese Kleinbuchstaben müssen entsprechend auch im Literaturverzeichnis in der Jahresangabe stehen (s. [Abschnitt @sec-angaben-im-literaturverzeichnis]).
+-   Wenn mehrere Quellen eine identische Autor\*innenreihenfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem Publikationsjahr hinzu. Diese Kleinbuchstaben müssen entsprechend auch im Literaturverzeichnis in der Jahresangabe stehen (s. [Abschnitt @sec-angaben-im-literaturverzeichnis]).
 
     -   (Müller & Meier, 2017a)
 
@@ -556,7 +555,7 @@ nfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem
 
 #### Angabe von spezifischen Stellen im Text und indirekte Zitate
 
--   Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor\*in, Jahr und eine Information über die bestimmte Stelle. Dies können Seiten, Tabellen, Schaubilder, Ergänzungsmaterial, Fußnoten, Kapitel, Zeitstempel o.Ä. sein, z.B.
+-   Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor\*in, Jahr und eine Information über die bestimmte Stelle. Dies können Seiten, Tabellen, Schaubilder, Ergänzungsmaterial, Fußnoten, Kapitel, Zeitstempel, o.Ä. sein, z.B.
 
     -   (Centers for Disease Control and Prevention, 2019, pp. 10-11)
 
@@ -566,13 +565,12 @@ nfolge und dasselbe Publikationsjahr haben, fügen Sie einen Kleinbuchstaben dem
 
 -   Bei einem indirekten Zitat (d.h. einer sinngemäßen Wiedergabe von Textstellen) setzen Sie immer Kurzbelege. Seitenangaben sind dabei vor allem angemessen, wenn spezifische Stellen einer Quelle belegt werden sollen. 
 
+    -   Der Third-Person Effekt (Davison, 1983) beschreibt eine indirekte Medienwirkung. Gemeint ist damit insbesondere die Wahrnehmung, dass Massenmedien auf andere Personen einen größeren (negativen) Einfluss haben, als auf einen selbst (Davison, 1983, pp. 2-3).
+
 ::: callout-important
 **APA-Abweichung**: 
 Sie sollten bei allen allen Arbeiten, Bachelor-, Master-, und Seminararbeiten, durchgehend Seitenangaben in Kurzbelegen verwenden. Wird nur auf das grundlegende Thema eines Aufsatzes verwiesen, muss keine Seitenzahl angegeben werden.
 :::
-
-
-    -   Der Third-Person Effekt (Davison, 1983) beschreibt eine indirekte Medienwirkung. Ge-meint ist damit insbesondere die Wahrnehmung, dass Massenmedien auf andere Personen einen größeren (negativen) Einfluss haben, als auf einen selbst (Davison, 1983, pp. 2-3).
 
 #### Direkte Zitate
 
