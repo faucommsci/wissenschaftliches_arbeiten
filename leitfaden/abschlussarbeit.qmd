@@ -16,26 +16,27 @@ Für Masterarbeiten wenden Sie sich bitte direkt an die Mitarbeiterinnen und Mit
 
 Bitte beachten Sie den Zeitplan auf unserer Website für die **Deadline zur Abgabe des Exposés**
 
-Nach den ersten Vorbesprechungen werden Sie gebeten, eine ausführlichere Projektskizze zum gemeinsam vereinbarten Thema zu erstellen und an Ihre Betreuungsperson zu senden. Ziel des Exposés ist es sicherzustellen, dass ein gemeinsames Verständnis von Umfang, Thema und Zielsetzung der Arbeit entsteht. Das Exposé ist die Grundlage Ihrer Arbeit und skizziert die weitere Ausarbeitung vor.
+Zu Beginn der Betreuung werden Sie gebeten, einen ersten One-Pager zum gewählten Thema zu erstellen und kurz vor Beginn der ersten Besprechung an Ihre Betreuungsperson zu senden. Diesen One-Pager werden Sie anschließend schrittweise in ein Exposé der Arbeit weiterentwickeln. 
+Ziel des Exposés ist es anschließend sicherzustellen, dass ein gemeinsames Verständnis von Umfang, Thema und Zielsetzung der Arbeit entsteht. Das Exposé ist die Grundlage Ihrer Arbeit und skizziert die weitere Ausarbeitung vor.
 
-Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammenhang das Thema steht, welche Aspekte und Unteraspekte das Thema hat, welche Forschungsperspektive Sie einnehmen möchten und welche Methode(n) zur Beantwortung der Forschungsfrage verwendet werden soll. Das Dokument sollte insgesamt **2-4 Seiten** Text (A4, gleiche Formatierung wie die Abschlussarbeit) umfassen und Folgendes beinhalten:
+Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammenhang das Thema steht, welche Aspekte und Unteraspekte das Thema hat, welche Forschungsperspektive Sie einnehmen möchten und welche Methode(n) zur Beantwortung der Forschungsfrage verwendet werden soll. Das Dokument sollte insgesamt **3-4 Seiten** Text (A4, gleiche [Formatierung](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/allgemeine_hinweise.html) wie die Abschlussarbeit) umfassen und Folgendes beinhalten:
 
--   Name, Matrikelnummer, Studiengang, Fachsemester, Kontaktdaten
+-   **Deckblatt:** mit Vor- und Nachnamen, Matrikelnummer, Studiengang, Fachsemester und Kontaktdaten (gerne können Sie hierfür bereits die Vorlage für Abschlussarbeiten verwenden)
 
--   Arbeitstitel ("Working Title"): Titel für die Arbeit, basierend auf den Inhalten des Exposés. Der Titel darf nicht dem ausgeschriebenen Thema entsprechen. Der Arbeitstitel kann bis zur Anmeldung überarbeitet werden. Der Titel, der beim Prüfungsamt angemeldet wird, muss identisch mit dem Titel auf der eingereichten Abschlussarbeit sein.
+-   **Arbeitstitel ("Working Title"):** Selbst gewählter vorläufiger Titel der Arbeit, basierend auf den Inhalten des Exposés. Der Titel soll selbst entwickelt werden und darf NICHT dem Titel des ausgeschriebenen Themas entsprechen. Er soll die eigenen Schwerpunktsetzungen der Arbeit im gewählten Themenfeld widerspiegeln. Der Arbeitstitel kann bis zur Anmeldung überarbeitet werden. Der Titel, der letztlich auf dem Anmeldebogen beim Prüfungsamt angemeldet wird, muss identisch mit dem Titel auf der eingereichten Abschlussarbeit sein. 
 
--   Ausgangslage, Beschreibung des Themenfeldes und Vorschlag einer Fragestellung (ca. 200 Wörter)
+-   **Einleitung:** (1) Hinführung zum Thema und Beschreibung der Ausgangslage, (2) Begründung der Relevanz, (3) Identifikation einer Forschungslücke/eines Erkenntnisinteresses und Herleitung genau einer übergeordneten, forschungsleitenden Fragestellung (ca. 200 Wörter) 
 
--   Kurzer Forschungsstand (ca. 100 Wörter)
+-   **Theorie:** Kurze Darstellung der gewählten theoretisch-konzeptuellen Grundlage (bspw. zentrale Begriffe, Modelle, Theorien) zur Beantwortung der Fragestellung (ca. 100 Wörter) 
 
--   Begründung für die Wahl des Themas, Relevanz, Erkenntnisinteresse (ca. 100 Wörter)
+-   **Forschungsstand:** Kurze Zusammenfassung wichtigster existierender empirischer Befunde zur Fragestellung (ca. 100 Wörter) 
 
--   Ziele, Forschungsfragen (Hypothesen): Besprechung der Anzahl mit der betreuenden Person 
+-   **Synthese:** Spezifische Ziele sowie gerichtete Hypothesen (nur für empirische Arbeiten) oder ungerichtete Unter-Forschungsfragen (insbesondere bei Literaturüberblicken); Besprechung der Ausgestaltung und Anzahl mit der Betreuungsperson ab erstem Besprechungstermin (ca. 100 Wörter)  
 
--   Evtl. Methodik
+-   **Methodisches Vorgehen:** Kurze Skizzierung der geplanten Erhebungs- und/oder Analysemethode, bspw. systematischer Literaturüberblick, Experiment, Befragung, Inhaltsanalyse (ca. 100 Wörter) 
 
--   Grobgliederung (maximal bis Gliederungsebene 2)
+-   **Gliederungsentwurf der Kapitel der Arbeit:** Nicht als Fließtext, sondern bereits formatiert wie ein Inhaltsverzeichnis, im Exposé maximal bis Gliederungsebene 2 
 
--   Literaturliste (erste gesammelte Literatur, Basisliteratur)
+-   **Literaturverzeichnis:** Bitte [zitieren](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/zitieren.html) Sie im gesamten Exposé nach APA7 und fügen Sie ein Literaturverzeichnis an (zählt nicht in Seitenbeschränkung). WICHTIG: Abweichend von den APA-Richtlinien erwarten wir im Exposé sowie in allen schriftlichen Arbeiten, dass Sie in Kurzbelegen – sowohl für wörtliche als auch indirekte Zitate/Paraphrasen – immer die Seitenanzahlen mitangeben. 
 
--   Grober Arbeits- und Zeitplan (Projektaktivitäten)
+-   **Grober Arbeits- und Zeitplan:** Wann soll was passieren? Hier bitte am Zeitplan auf der Webseite des Lehrstuhls orientieren. 
