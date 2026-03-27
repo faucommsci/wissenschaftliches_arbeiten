@@ -130,4 +130,10 @@ Place, Date                                                                Signa
 
 Wenn die Nutzung von KI-Tools von Ihrer Prüferin bzw. Ihrem Prüfer genehmigt wurde, ist eine Tabelle mit den verwendeten Tools beizufügen. Bitte inkludieren Sie die Tabelle mit den Spalten: KI-Tool (z.B. ChatGPT, Hawki), Nutzungszweck (z.B. Rechtschreibprüfung, Analyse-Code verbessern), Begründung für die Nutzung (z.B. Lesbarkeit verbessern, Fehlermeldungen in R analysieren) und Anwendungsbereiche (z.B. S.2, Abbildung 3, Kapitel 4.1) innerhalb der Arbeit.
 
+::: callout-caution
+## Achtung
+
+Abschnitte oder ganze Texte generieren zu lassen und zu verwenden ist ein Plagiat!
+:::
+
 
