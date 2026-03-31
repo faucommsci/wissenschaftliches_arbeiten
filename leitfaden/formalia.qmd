@@ -32,7 +32,7 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel s. @fig-vorlage_deckblatt)
 
-![Beispieldeckblatt \| [[Beispielvorlage als .dotx-Datei herunterladen](templates/title_page_template_03.2026.dotx)]{.download}](img/vorlage_deckblatt){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+![Beispieldeckblatt \| [[Beispielvorlage als .docx-Datei herunterladen](templates/title_page_template_03.2026.docx)]{.download}](img/title_page_template_03.2026){#fig-vorlage_deckblatt fig-align="center" width="66%"}
 
 Das Deckblatt sollte folgende Informationen enthalten
 
