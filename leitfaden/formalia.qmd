@@ -128,12 +128,27 @@ Place, Date                                                                Signa
 
 ## KI-Tools {#sec-ki-tools}
 
-Wenn die Nutzung von KI-Tools von Ihrer Prüferin bzw. Ihrem Prüfer genehmigt wurde, ist eine Tabelle mit den verwendeten Tools beizufügen. Bitte inkludieren Sie die Tabelle mit den Spalten: KI-Tool (z.B. ChatGPT, Hawki), Nutzungszweck (z.B. Rechtschreibprüfung, Analyse-Code verbessern), Begründung für die Nutzung (z.B. Lesbarkeit verbessern, Fehlermeldungen in R analysieren) und Anwendungsbereiche (z.B. S.2, Abbildung 3, Kapitel 4.1) innerhalb der Arbeit.
+Die Nutzung von KI-Tools muss von Ihrer Prüferin bzw. Ihrem Prüfer genehmigt werden - ggf. wird hier auch je nach Anwendungszweck der KI entschieden. In jedem Fall muss die Seminar- oder Abschlussarbeit eine **Eidesstattliche Erklärung** enthalten, die ausweist, ob KI-Tools genutzt wurden oder nicht.
+Sofern KI-Tools genutzt wurden, ist eine Tabelle mit den verwendeten Tools beizufügen. Bitte inkludieren Sie die Tabelle mit den Spalten: KI-Tool (z.B. ChatGPT, Hawki), Nutzungszweck (z.B. Rechtschreibprüfung, Analyse-Code verbessern), Begründung für die Nutzung (z.B. Lesbarkeit verbessern, Fehlermeldungen in R analysieren) und Anwendungsbereiche (z.B. S.2, Abbildung 3, Kapitel 4.1) innerhalb der Arbeit. Die Tabelle könnte wie folgt aussehen:
+
+| KI-Tool         | Nutzungszweck            | Begründung für die Nutzung           | Anwendungsbereiche            |
+|-----------------|--------------------------|--------------------------------------|-------------------------------|
+| ChatGPT         | Analyse-Code verbessern  | Fehlermeldungen analysieren          | Ausschließlich in der Analyse |
+| DeepL Write     | Formulierungsvorschläge  | Verbesserung der Lesbarkeit          | Gesamte Arbeit                |
+| NotebookLM      | Erklärungen              | Verständnis von Konstrukten erlangen | Konstrukte: X, Y, Z           |
+| DeepL Translate | Übersetzungen            | Skalen für Fragebogen übersetzen     | Skalen: A, B, C               |
+
+: Beispielhafte Tabelle für die Nutzung von KI-Tools
+
 
 ::: callout-caution
-## Achtung
+## Hinweis
 
 Abschnitte oder ganze Texte generieren zu lassen und zu verwenden ist ein Plagiat!
 :::
 
+::: callout-caution
+## Achtung
 
+Löschen Sie Ihre Chats mit den entsprechenden KI-Tools nicht. Sollten Zweifel hinsichtlich der Legitimität der KI-Nutzung auftreten, können Sie dazu aufgefordert werden Ihre Chatdateien einzureichen. Dieser Aufforderung müssen Sie nachkommen! 
+:::
