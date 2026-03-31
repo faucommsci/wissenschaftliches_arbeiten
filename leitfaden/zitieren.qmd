@@ -373,7 +373,7 @@ Neubauer, L. \[\@luisaneubauer\]. (2020, October 2). *Wir gehen nicht auf die St
 | \[TV series episode\]     | (Writer & Director)          |
 | \[Audio podcast\]         | (Executive Producer)         |
 | \[Audio podcast episode\] | (Host)                       |
-| \[Song\] \[Album\]        | Recording artist             |
+| \[Song\], \[Album\]       | Recording artist             |
 | Video                     | Person or group who uploaded |
 | Fotografie                | Photographer                 |
 
