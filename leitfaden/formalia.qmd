@@ -42,8 +42,6 @@ Das Deckblatt sollte folgende Informationen enthalten
 
 -   Modulbezeichnung
 
--   Art der Arbeit (und Seminartitel bei Seminararbeiten)
-
 -   Betreuer\*in oder Dozent\*in des Seminars
 
 -   Titel der Arbeit
