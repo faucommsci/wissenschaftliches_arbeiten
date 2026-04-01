@@ -44,7 +44,7 @@ Im Folgenden wird auf die einzelnen Abschnitte der Arbeit eingegangen. Alle Absc
 
 Ein Abstract ist **nur für Abschlussarbeiten** notwendig, nicht für Seminararbeiten. Im Abstract werden kurz und knapp alle zentralen Inhalte der gesamten Arbeit dargestellt. Das Abstract ist für Lesende ein zentrales Entscheidungskriterium für die Relevanz der Arbeit. Ein wissenschaftlicher Abstract sollte kurz, aber vollständig sein und die wichtigsten Aspekte der Arbeit (Fragestellung, Relevanz, Forschungslücke, Methode/Design, zentrale Ergebnisse, Implikationen) von Anfang bis Ende skizziert werden.
 
-**Anforderungen**: Der Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englischer Abstract notwendig**.
+**Anforderungen**: Der Abstract sollte **150-300 Wörter** lang sein. Bei Abschlussarbeiten auf Deutsch ist zusätzlich zum deutschen Abstract ein **englischer Abstract** notwendig.
 
 ## Einleitung
 
@@ -54,7 +54,7 @@ Zu Beginn einer wissenschaftlichen Arbeit sollte der Untersuchungsgegenstand dar
 
 2.  Das **Ziel** der Untersuchung darstellen
 
-3.  Einen Aus- und **Überblick** über die Arbeit bieten
+3.  Einen **Aus-** und **Überblick** über die Arbeit bieten
 
 In vielen Fällen ist es ratsam, in der Einleitung implizit oder explizit eine **forschungsleitende Frage** aufzustellen. Diese hilft, den roten Faden durch die gesamte Arbeit herauszuarbeiten. Anhand der forschungsleitenden Frage können Sie prüfen, ob nachfolgende Inhalte für Ihre Arbeit zentral sind (= Inhalte tragen zur Beantwortung der forschungsleitenden Frage bei) oder weggelassen werden sollten (= Inhalte tragen nicht zur Beantwortung bei).
 
@@ -76,7 +76,7 @@ Bei der Recherche stellt sich häufig heraus, dass der Umfang eines Themengebiet
 
 Der Methodik-Abschnitt sollte Lesende dazu in die Lage versetzen, Ihre Arbeit zu reproduzieren. Das beinhaltet zum Beispiel die Beschreibung der **Stichprobe**, verwendeter **Materialien** und des **Vorgehens** bei empirischen Arbeiten.
 
-Bei narrativen Literaturüberblicken muss kein seperater Methodenteil erstellt werden. Informationen über die Recherche und Identifikation von Literatur können in den Text integriert werden.
+Bei narrativen Literaturüberblicken muss kein separater Methodenteil erstellt werden. Informationen über die Recherche und Identifikation von Literatur können in den Text integriert werden.
 
 Für systematische Literaturüberblicke sollte eine **Darstellung des Vorgehens**, z.B. Such-, Einschluss- und Ausschlusskriterien, inkludiert werden.  
 
