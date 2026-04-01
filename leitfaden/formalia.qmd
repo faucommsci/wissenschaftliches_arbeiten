@@ -4,7 +4,7 @@
 
 ### Allgemeine Hinweise
 
-Wir empfehlen, in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerechte Sprache zu verwenden. Im Rahmen kommunikations- und sozialwissenschaftlicher Forschung beschäftigen wir uns mit Menschen mit einer Vielfalt von (Geschlechts-) Identitäten, daher ist es wichtig, diese Realität auch in wissenschaftlichen Arbeiten zu reflektieren und zu respektieren. Dies schließt ein, ist aber nicht beschränkt auf:
+Wir empfehlen in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerechte Sprache zu verwenden. Im Rahmen kommunikations- und sozialwissenschaftlicher Forschung beschäftigen wir uns mit Menschen mit einer Vielfalt von (Geschlechts-) Identitäten, daher ist es wichtig, diese Realität auch in wissenschaftlichen Arbeiten zu reflektieren und zu respektieren. Dies schließt ein, ist aber nicht beschränkt auf:
 
 -   Geschlechtergerechte Sprache, z.B. *Autor\*innen* statt Autoren
 
@@ -18,7 +18,7 @@ Wir empfehlen, in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerec
 
 Wir empfehlen neutrale Formulierungen oder Formen, die alle Geschlechtsidentitäten einschließen, z.B. Schüler\*innen, Studierende
 
--   Sie können neutrale Formen mit „*:*" oder „*\**"[^formalia-1] und/oder Partizipien (* ierende*) bilden
+-   Sie können neutrale Formen mit „*:*" oder „*\*"[^formalia-1] und/oder Partizipien (*ierende*) bilden
 
 -   Sie können neutrale Begriffe nutzen, z.B. Person, Beschäftigte
 
@@ -32,7 +32,7 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel s. @fig-vorlage_deckblatt)
 
-![Beispieldeckblatt \| [[Beispielvorlage als .docx-Datei herunterladen](templates/title_page_template_03.2026.docx)]{.download}](img/title_page_template_03.2026){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+![Beispieldeckblatt \| [[Beispielvorlage als .docx-Datei herunterladen](templates/title_page_template_03.2026.docx)]{.download}](img/title_page_template_03.2026.png){#fig-vorlage_deckblatt fig-align="center" width="66%"}
 
 Das Deckblatt sollte folgende Informationen enthalten
 
@@ -58,7 +58,7 @@ Das Deckblatt sollte folgende Informationen enthalten
 
 Sie benötigen außerdem:
 
-1.  ein nummeriertes **Inhaltsverzeichnis** mit Seitenzahlen, sowie
+1.  Ein nummeriertes **Inhaltsverzeichnis** mit Seitenzahlen, sowie
 2.  **Abbildungs-**, und/oder
 3.  **Tabellenverzeichnisse**, wenn Sie Abbildungen und/oder Tabellen in Ihrer Arbeit verwenden. Textverarbeitungsprogramme wie Microsoft Word können diese automatisch erstellen.
 
@@ -148,5 +148,5 @@ Abschnitte oder ganze Texte generieren zu lassen und zu verwenden ist ein Plagia
 ::: callout-caution
 ## Achtung
 
-Löschen Sie Ihre Chats mit den entsprechenden KI-Tools nicht. Sollten Zweifel hinsichtlich der Legitimität der KI-Nutzung auftreten, können Sie dazu aufgefordert werden Ihre Chatdateien einzureichen. Dieser Aufforderung müssen Sie nachkommen! 
+Löschen Sie Ihre Chats mit den entsprechenden KI-Tools nicht. Sollten Zweifel hinsichtlich der Legitimität der KI-Nutzung auftreten, können Sie dazu aufgefordert werden, Ihre Chatdateien einzureichen. Dieser Aufforderung müssen Sie nachkommen! 
 :::
