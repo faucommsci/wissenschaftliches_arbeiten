@@ -62,6 +62,7 @@ Erste Schritte für die Praxis:
 1.  Klar werden über eigene Fragestellung:
 
 -   Was für eine Aufgabe möchte ich bearbeiten oder welches Problem möchte ich lösen?
+
 -   Möchte ich Unterstützung beim Schreiben von Code durch integrierte Vorschläge oder durch Beantwortung meiner konkreten Fragen?
 
 2.  Auswahl eines für die Fragestellung geeigneten KI–Tools:
@@ -75,6 +76,7 @@ Erste Schritte für die Praxis:
 4.  Bei Tools wie ChatGPT oder Hawki:
 
 -   Anfrage mit den richtigen Prompts beginnen: spezifisch, Kontext geben, klare Sprache
+
 -   KI-Vorschläge überprüfen und ausprobieren
 
 ### Verschiedene KI-Tools im Überblick: Einsatz von Co-Pilot, ChatGPT und Hawki
@@ -90,7 +92,7 @@ Voraussetzungen:
     1.  Wechseln Sie zu GitHub Education
     2.  Wählen Sie unter „Select your role in education“ die Option "Student" aus
     3.  Geben Sie im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
-    4.  Wählen Sie bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder füge Sie diese hinzu
+    4.  Wählen Sie bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder fügen Sie diese hinzu
     5.  Klicken Sie auf "Weiter". Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Stuudierendenausweises
     6.  Überprüfen Sie die Details der Bewerbung und klicken Sie dann auf "Meine Bewerbung bearbeiten"
     7.  Die Bearbeitungszeit beträgt einige Tage
@@ -179,7 +181,7 @@ Anwendung:
 
 Bei Hawki kann man generell immer zwischen den verschiedenen verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek oder Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden und reichen vom Erlernen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.
 
-Ein beispielhafter Prompt hierfür lautet: „Ich habe kürzlich eine umfangreiche Datensammlung durchgeführt und suche nun nach Unterstützung bei der Analyse der Daten. Die Datensammlung umfasst \[Beschreibung der Daten\], und ich möchte \[Ziel der Analyse\]. Könntest du mir bitte dabei helfen, die Daten zu analysieren und mir Ratschläge zur Interpretation der Ergebnisse zu geben?“
+Ein beispielhafter Prompt hierfür lautet: „Ich habe kürzlich eine umfangreiche Datensammlung durchgeführt und suche nun nach Unterstützung bei der Analyse der Daten. Die Datensammlung umfasst \[Beschreibung der Daten\], und ich möchte \[Ziel der Analyse\]. Könntest du mir bitte dabei helfen, die Daten zu analysieren und mir Ratschläge zur Interpretation der Ergebnisse geben?“
 
 Zur Beantwortung von Fragen kann man sich nun entweder an den allgemeinen Chatraum oder an den spezifischeren in Form des „virtuellen Büros“ wenden. Bei Letzterem kommuniziert man mit fiktiven Expert:innen aus unterschiedlichen Fachbereichen.
 
