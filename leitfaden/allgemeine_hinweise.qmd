@@ -117,7 +117,7 @@ Hiermit bestätige ich, dass…
 
 ​​◯ Ich bestätige und willige in die Befragung ein (an der Studie teilnehmen) 
 
-​​◯​ Ich bestätige *nicht* und willige *nicht* in die Befragung ein (nicht teilnehmen) 
+​​◯​ Ich bestätige *nicht* und willige *nicht* in die Befragung ein (nicht an der Studie teilnehmen)
 </div>
 :::
 :::
