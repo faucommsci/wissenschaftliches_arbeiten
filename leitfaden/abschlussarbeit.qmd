@@ -40,3 +40,5 @@ Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammen
 -   **Literaturverzeichnis:** Bitte [zitieren](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/zitieren.html) Sie im gesamten Exposé nach APA7 und fügen Sie ein Literaturverzeichnis an (zählt nicht in Seitenbeschränkung). WICHTIG: Abweichend von den APA-Richtlinien erwarten wir im Exposé sowie in allen schriftlichen Arbeiten, dass Sie in Kurzbelegen – sowohl für wörtliche als auch indirekte Zitate/Paraphrasen – immer die Seitenanzahlen mitangeben. 
 
 -   **Grober Arbeits- und Zeitplan:** Wann soll was passieren? Hier bitte am Zeitplan auf der Webseite des Lehrstuhls orientieren. 
+
+Eine Vorlage für das Exposé können Sie [hier](templates/exposé_template.docx) downloaden.
