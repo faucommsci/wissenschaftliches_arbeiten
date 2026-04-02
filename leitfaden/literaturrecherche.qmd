@@ -32,9 +32,12 @@ Für fachübergreifende Recherchen bietet sich die Nutzung von Google Scholar an
 
 Um Literatur zu identifizieren, empfiehlt es sich die erweiterte Suche bzw. "Advanced search" zu nutzen. Hier sind insbesondere relevant:
 
--   Suche im Artikeltitel: Insbesondere zur Identifikation zentraler Artikel zu einem Thema
+-   Suche im Artikeltitel: insbesondere zur Identifikation zentraler Artikel zu einem Thema
+
 -   Ein- uns Ausschluss über Schlagwörter oder wörtliche Phrasen
+
 -   Filtern nach Journals
+
 -   Filtern nach Jahren
 
 Scholar ist eine gute Ressource für die Literaturrecherche, allerdings findet keine Qualitätskontrolle statt, daher befindet sich dort auch sog. graue Literatur bzw. nicht peer-reviewte Literatur. Deshalb sollte hier insbesondere auf die Wissenschaftlichkeit der Quellen geachtet werden.
@@ -87,9 +90,9 @@ Um relevante Artikel zu identifizieren empfiehlt es sich außerdem...
 
 1.  ...aktuelle Artikel zum Thema der Arbeit zu nutzen, um relevante Beiträge zu identifizieren (inkl. "*forward/citation search*"),
 
-2.  ...die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen nutzen, um relevante Literatur zu identifizieren,
+2.  ...die Literaturverzeichnisse von Überblicksartikeln und Meta-Analysen zu nutzen, um relevante Literatur zu identifizieren,
 
-3.  ...zentrale oder bahnbrechende Arbeiten zu identifizieren und in der Literatur zu suchen, die dieser Beitrag zitiert (*backward/references search*").
+3.  ...zentrale oder bahnbrechende Arbeiten zu identifizieren und in der Literatur zu suchen, die dieser Beitrag zitiert. (*backward/references search*").
 
 In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen Artikel zitieren ("Cited by") und zu durchsuchen ("Search within citing articles" bzw. "In Artikeln mit Zitaten suchen").
 
@@ -98,16 +101,27 @@ In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen 
 Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind das z.B.:
 
 -   Journal of Communication
+
 -   Journal of Computer-Mediated Communication
+
 -   Political Communication
+
 -   Science Communication
+
 -   New Media & Society
+
 -   Communication Monographs
+
 -   Social Media + Society
+
 -   Information Communication & Society
+
 -   Media Psychology
+
 -   Journal of Media Psychology
+
 -   Mobile Media & Communication
+
 -   ...
 
 Eine Übersicht über Journals inkl. Impact-Bewertungen gibt es u.a. bei [Scimago](https://www.scimagojr.com/journalrank.php?category=3315&order=sjr&ord=desc).
