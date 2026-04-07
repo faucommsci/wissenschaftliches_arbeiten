@@ -4,13 +4,13 @@ Die Recherche relevanter Fachliteratur ist für empirische Arbeiten und Literatu
 
 ## Literaturdatenbanken
 
-Um Fachliteratur zu identifizieren sind spezialisierte Suchmaschinen hilfreich.
+Um Fachliteratur zu identifizieren, sind spezialisierte Suchmaschinen hilfreich.
 
 ### Wissenschaftliche Datenbanken
 
-Wissenschaftliche Datenbanken aggregieren Informationen aus diversen Quellen, insbesondere von peer-reviewten Journals. Über die Universität steht der Zugriff auf Datenbanken mit verschiedenen fachspezifischen Schwerpunkten zur Verfügung. Je nach inhaltlichem Schwerpunkt der Arbeit ist die Nutzung mind. einer Datenbank empfehlenswert. Eine Übersicht über alle verfügbaren Datenbanken steht über das [**DBIS (Database Information System der bayerischen Universitäten)**](https://ub.fau.de/recherchieren/datenbanken/) bereit. Die Datenbanken sind teilweise nur über das Uninetzwerk abrufbar.
+Wissenschaftliche Datenbanken aggregieren Informationen aus diversen Quellen, insbesondere von peer-reviewten Journals. Die FAU stellt einen Zugriff auf Datenbanken mit verschiedenen fachspezifischen Schwerpunkten zur Verfügung. Je nach inhaltlichem Schwerpunkt der Arbeit ist die Nutzung mindestens einer Datenbank empfehlenswert. Eine Übersicht über alle verfügbaren Datenbanken steht über das [**DBIS (Database Information System der bayerischen Universitäten)**](https://ub.fau.de/recherchieren/datenbanken/) bereit. Die Datenbanken sind teilweise nur über das Uninetzwerk abrufbar.
 
-Eine Auswahl potentiell relevante Datenbanken sind:
+Eine Auswahl potenziell relevante Datenbanken sind:
 
 -   [PsycInfo](https://dbis.ur.de/dbinfo/detail.php?bib_id=ub_en&colors=&ocolors=&lett=fs&tid=0&titel_id=149)
 
@@ -30,17 +30,17 @@ Um die Suche zu präzisieren oder irrelevante Literatur auszuschließen, können
 
 Für fachübergreifende Recherchen bietet sich die Nutzung von Google Scholar an. Neben der Suche nach Literatur finden sich auf Google Scholar häufig frei verfügbare Volltexte von Artikeln.
 
-Um Literatur zu identifizieren, empfiehlt es sich die erweiterte Suche bzw. "Advanced search" zu nutzen. Hier sind insbesondere relevant:
+Um Literatur zu identifizieren, empfiehlt es sich die erweiterte Suche bzw. "Advanced search". Hier sind insbesondere relevant:
 
 -   Suche im Artikeltitel: insbesondere zur Identifikation zentraler Artikel zu einem Thema
 
--   Ein- uns Ausschluss über Schlagwörter oder wörtliche Phrasen
+-   Ein- und Ausschluss über Schlagwörter oder wörtliche Phrasen
 
 -   Filtern nach Journals
 
 -   Filtern nach Jahren
 
-Scholar ist eine gute Ressource für die Literaturrecherche, allerdings findet keine Qualitätskontrolle statt, daher befindet sich dort auch sog. graue Literatur bzw. nicht peer-reviewte Literatur. Deshalb sollte hier insbesondere auf die Wissenschaftlichkeit der Quellen geachtet werden.
+Scholar ist eine gute Ressource für die Literaturrecherche, allerdings findet keine Qualitätskontrolle statt. Daher befindet sich dort auch sog. graue Literatur bzw. nicht peer-reviewte Literatur. Deshalb sollte hier insbesondere auf die Wissenschaftlichkeit der Quellen geachtet werden.
 
 Auch in Google Scholar können logische Operatoren verwendet werden (s. @sec-boolean).
 
@@ -58,21 +58,21 @@ Die Suche nach Artikeln kann auf verschiedene Arten erfolgen:
 
 -   Import aus Literaturverwaltungsprogrammen: Hochladen von BibTex- oder RIS-Dateien aus Programmen wie Mendeley, Zotero oder EndNote.
 
-Im Prinzip funktioniert ResearchRabbit als „Spotify für wissenschaftliche Artikel“: Je mehr relevante Arbeiten in einer Sammlung sind, desto besser werden die Empfehlungen. Schritt-für-Schritt Anleitungen, z.B. zum Import von Literatur, finden sich auf der Website von ResearchRabbit.
+Im Prinzip funktioniert ResearchRabbit als „Spotify für wissenschaftliche Artikel“: Je mehr relevante Arbeiten in einer Sammlung sind, desto besser werden die Empfehlungen. Schritt-für-Schritt-Anleitungen, z. B. zum Import von Literatur, finden sich auf der Website von ResearchRabbit.
 
 ## Erweiterte Suche und Logische Operatoren {#sec-boolean}
 
-Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat\*innen mit logischen Operatoren umgehen können. Die häufigsten Operatoren sind `AND`, `OR`, und `NOT`. Diese Operatoren finden Sie in allen wissenschaftlichen Datenbanken und Google Scholar. Manchmal unterscheiden sie sich aber in der konkreten Umsetzung, z.B. Groß-/Kleinschreibung, Verwendung von Symbolen, etc. Über die erweiterte Suche der Suchmaschinen können daher meist Suchstrings über eine grafische Benutzeroberfläche erstellt werden.
+Insbesondere für Literaturüberblicke sollten Abschlussarbeitskandidat\:innen mit logischen Operatoren umgehen können. Die häufigsten Operatoren sind `AND`, `OR`, und `NOT`. Diese Operatoren finden Sie in allen wissenschaftlichen Datenbanken und Google Scholar. Manchmal unterscheiden sie sich aber in der konkreten Umsetzung, z. B. Groß-/Kleinschreibung, Verwendung von Symbolen. Über die erweiterte Suche der Suchmaschinen können daher meist Suchstrings über eine grafische Benutzeroberfläche erstellt werden.
 
--   `AND` wird verwendet, wenn mehrere Begriffe kombiniert werden sollen, z.B. bei einer Arbeit zu Sozialen Medien und Wohlbefinden wäre der Suchstring: `Social Media AND Well-Being`
+-   `AND` wird verwendet, wenn mehrere Begriffe kombiniert werden sollen, z. B. bei einer Arbeit zu Sozialen Medien und Wohlbefinden wäre der Suchstring: `Social Media AND Well-Being`
 
--   `OR` wird verwendet, wenn mehrere Varianten abgedeckt sein sollen, u.a. bei ähnlichen Begriffen und Synonymen, z.B. bei psychischem Wohlbefinden und psychischer Gesundheit wäre der Suchstring: `well-being OR mental health`
+-   `OR` wird verwendet, wenn mehrere Varianten abgedeckt sein sollen, u.a. bei ähnlichen Begriffen und Synonymen, z. B. bei psychischem Wohlbefinden und psychischer Gesundheit wäre der Suchstring: `well-being OR mental health`
 
--   `NOT` wird verwendet, wenn bestimmte Begriffe ausgeschlossen werden sollen, beispielsweise wenn ein Begriff eine weitere Bedeutung hat, z.B. bei Communication im Sinne menschlicher Kommunikation vs. in einem Computerprotokoll: `communication NOT http`
+-   `NOT` wird verwendet, wenn bestimmte Begriffe ausgeschlossen werden sollen, beispielsweise wenn ein Begriff eine weitere Bedeutung hat, z. B. bei Communication im Sinne menschlicher Kommunikation vs. in einem Computerprotokoll: `communication NOT http`
 
 -   Operatoren können kombiniert werden, um komplexe Suchstrings zu generieren, die eine zielgerichtete Recherche ermöglichen: `(Smartphone OR Social Media) AND (Well-Being)` ((“mobile phone” OR smartphone OR “instant mess\* ” OR “mobile mess\* ” OR text\* ) OR (“social media” OR “social network” OR Facebook OR Instagram OR TikTok OR WhatsApp OR Snapchat)) AND (“Well-being” OR happiness OR “life satisfaction” OR “satisfaction with life” OR “subjective well-being” OR “positive affect” OR “negative affect” OR functioning OR “quality of life”)
 
--   Anführungszeichen ("…"): Begrenzen die Suche auf exakte Wortgruppen oder Phrasen, sodass nur Treffer mit genau dieser Formulierung berücksichtigt werden (z.B. "mobile phone")
+-   Anführungszeichen ("…"): Begrenzen die Suche auf exakte Wortgruppen oder Phrasen, sodass nur Treffer mit genau dieser Formulierung berücksichtigt werden (z. B. "mobile phone")
 
 -   Sternchen (\* ): Dient als Platzhalter für beliebige Endungen und ermöglicht die Suche nach verschiedenen Wortformen und Ableitungen eines Begriffs (z. B. mess\* findet „message“, „messenger“, „messaging“, usw.)
 
@@ -98,7 +98,7 @@ In Google Scholar gibt es beispielsweise die Option Artikel zu sehen, die einen 
 
 ## Suche in Journals
 
-Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind das z.B.:
+Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommunikationswissenschaft sind das z. B.:
 
 -   Journal of Communication
 
@@ -114,7 +114,7 @@ Häufig finden sich in einschlägigen Journals relevante Artikel. Für die Kommu
 
 -   Social Media + Society
 
--   Information Communication & Society
+-   Information, Communication & Society
 
 -   Media Psychology
 

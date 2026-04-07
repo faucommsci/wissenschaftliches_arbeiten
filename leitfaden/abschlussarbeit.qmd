@@ -14,16 +14,16 @@ Für Masterarbeiten wenden Sie sich bitte direkt an die Mitarbeiterinnen und Mit
 
 ## Exposé
 
-Bitte beachten Sie den Zeitplan auf unserer Website für die **Deadline zur Abgabe des Exposés**
+Bitte beachten Sie den Zeitplan auf unserer Website für die **Deadline zur Abgabe des Exposés**.
 
-Zu Beginn der Betreuung werden Sie gebeten, einen ersten One-Pager zum gewählten Thema zu erstellen und kurz vor Beginn der ersten Besprechung an Ihre Betreuungsperson zu senden. Diesen One-Pager werden Sie anschließend schrittweise in ein Exposé der Arbeit weiterentwickeln. 
-Ziel des Exposés ist es anschließend sicherzustellen, dass ein gemeinsames Verständnis von Umfang, Thema und Zielsetzung der Arbeit entsteht. Das Exposé ist die Grundlage Ihrer Arbeit und skizziert die weitere Ausarbeitung vor.
+Zu Beginn der Betreuung werden Sie gebeten, einen ersten One-Pager zum gewählten Thema zu erstellen und vor der ersten Besprechung an Ihre Betreuungsperson zu senden. Diesen One-Pager werden Sie anschließend schrittweise in ein Exposé der Arbeit weiterentwickeln. 
+Ziel des Exposés ist es, sicherzustellen, dass ein gemeinsames Verständnis von Umfang, Thema und Zielsetzung der Arbeit entsteht. Das Exposé ist die Grundlage Ihrer Arbeit und skizziert die weitere Ausarbeitung vor.
 
-Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammenhang das Thema steht, welche Aspekte und Unteraspekte das Thema hat, welche Forschungsperspektive Sie einnehmen möchten und welche Methode(n) zur Beantwortung der Forschungsfrage verwendet werden soll. Das Dokument sollte insgesamt **3-4 Seiten** Text (A4, gleiche [Formatierung](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/allgemeine_hinweise.html) wie die Abschlussarbeit) umfassen und Folgendes beinhalten:
+Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammenhang das Thema steht, welche Aspekte und Unteraspekte das Thema hat, welche Forschungsperspektive Sie einnehmen möchten und welche Methode(n) zur Beantwortung der Forschungsfrage verwendet werden soll(en). Das Dokument sollte insgesamt **3-4 Seiten** Text (A4, gleiche [Formatierung](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/allgemeine_hinweise.html) wie die Abschlussarbeit) umfassen und Folgendes beinhalten:
 
--   **Deckblatt:** mit Vor- und Nachnamen, Matrikelnummer, Studiengang, Fachsemester und Kontaktdaten (gerne können Sie hierfür bereits die Vorlage für Abschlussarbeiten verwenden)
+-   **Deckblatt:** mit Vor- und Nachnamen, Matrikelnummer, Studiengang, Fachsemester und Kontaktdaten ([Vorlage](templates/exposé_template.docx))
 
--   **Arbeitstitel ("Working Title"):** Selbst gewählter vorläufiger Titel der Arbeit, basierend auf den Inhalten des Exposés. Der Titel soll selbst entwickelt werden und darf NICHT dem Titel des ausgeschriebenen Themas entsprechen. Er soll die eigenen Schwerpunktsetzungen der Arbeit im gewählten Themenfeld widerspiegeln. Der Arbeitstitel kann bis zur Anmeldung überarbeitet werden. Der Titel, der letztlich auf dem Anmeldebogen beim Prüfungsamt angemeldet wird, muss identisch mit dem Titel auf der eingereichten Abschlussarbeit sein. 
+-   **Arbeitstitel ("Working Title"):** Selbst gewählter vorläufiger Titel der Arbeit, basierend auf den Inhalten des Exposés. Der Titel soll selbst entwickelt werden und darf ***nicht*** dem Titel des ausgeschriebenen Themas entsprechen. Er soll die eigenen Schwerpunktsetzungen der Arbeit im gewählten Themenfeld widerspiegeln. Der Arbeitstitel kann bis zur Anmeldung überarbeitet werden. Der Titel, der letztlich auf dem Anmeldebogen beim Prüfungsamt angemeldet wird, muss identisch mit dem Titel auf der eingereichten Abschlussarbeit sein. 
 
 -   **Einleitung:** (1) Hinführung zum Thema und Beschreibung der Ausgangslage, (2) Begründung der Relevanz, (3) Identifikation einer Forschungslücke/eines Erkenntnisinteresses und Herleitung genau einer übergeordneten, forschungsleitenden Fragestellung (ca. 200 Wörter) 
 
@@ -31,14 +31,14 @@ Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammen
 
 -   **Forschungsstand:** Kurze Zusammenfassung wichtigster existierender empirischer Befunde zur Fragestellung (ca. 100 Wörter) 
 
--   **Synthese:** Spezifische Ziele sowie gerichtete Hypothesen (nur für empirische Arbeiten) oder ungerichtete Unter-Forschungsfragen (insbesondere bei Literaturüberblicken); Besprechung der Ausgestaltung und Anzahl mit der Betreuungsperson ab erstem Besprechungstermin (ca. 100 Wörter)  
+-   **Synthese:** Spezifische Ziele sowie gerichtete Hypothesen (nur für empirische Arbeiten) oder ungerichtete Unter-Forschungsfragen (insbesondere bei Literaturüberblicken); Besprechung der Ausgestaltung und Anzahl mit der Betreuungsperson beim erstem Besprechungstermin (ca. 100 Wörter)  
 
 -   **Methodisches Vorgehen:** Kurze Skizzierung der geplanten Erhebungs- und/oder Analysemethode, bspw. systematischer Literaturüberblick, Experiment, Befragung, Inhaltsanalyse (ca. 100 Wörter) 
 
 -   **Gliederungsentwurf der Kapitel der Arbeit:** Nicht als Fließtext, sondern bereits formatiert wie ein Inhaltsverzeichnis, im Exposé maximal bis Gliederungsebene 2 
 
--   **Literaturverzeichnis:** Bitte [zitieren](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/zitieren.html) Sie im gesamten Exposé nach APA7 und fügen Sie ein Literaturverzeichnis an (zählt nicht in Seitenbeschränkung). WICHTIG: Abweichend von den APA-Richtlinien erwarten wir im Exposé sowie in allen schriftlichen Arbeiten, dass Sie in Kurzbelegen – sowohl für wörtliche als auch indirekte Zitate/Paraphrasen – immer die Seitenanzahlen mitangeben. 
+-   **Literaturverzeichnis:** Bitte [zitieren](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/zitieren.html) Sie im gesamten Exposé nach APA7 und fügen Sie ein Literaturverzeichnis an (zählt nicht in die Zeichenbeschränkung). ***Wichtig***: Abweichend von den APA-Richtlinien erwarten wir im Exposé sowie in allen schriftlichen Arbeiten, dass Sie in Kurzbelegen – sowohl für wörtliche als auch indirekte Zitate/Paraphrasen – immer die Seitenanzahlen mitangeben. 
 
--   **Grober Arbeits- und Zeitplan:** Wann soll was passieren? Hier bitte am Zeitplan auf der Webseite des Lehrstuhls orientieren. 
+-   **Grober Arbeits- und Zeitplan:** Bitte am Zeitplan auf der [Webseite des Lehrstuhls](https://www.kowi.rw.fau.de/studium/abschlussarbeiten/) orientieren. 
 
 Eine Vorlage für das Exposé können Sie [hier](templates/exposé_template.docx) downloaden.

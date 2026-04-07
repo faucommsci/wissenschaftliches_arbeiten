@@ -28,7 +28,7 @@ Den Einstieg in die Arbeit mit R erleichtern die folgenden Ressourcen, besonders
 
 Für etwas Fortgeschrittenere:
 
--   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R-Tutuorials und Hilfestellungen für spezifische Probleme
+-   [Übersicht Arbeiten mit R](https://www.datacamp.com/de/tutorial/category/r-programming): R-Tutorials und Hilfestellungen für spezifische Probleme
 
 ## KI-Unterstützung bei der Arbeit mit R
 
