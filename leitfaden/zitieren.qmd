@@ -5,12 +5,12 @@ Wir erwarten, dass Sie **alle** fremden Gedanken kennzeichnen. In der Wissenscha
 Sie sollten nach den Richtlinien des Publication Manuals (7. Ausgabe) der American Psychological Association \[APA\] [-@americanpsychologicalassociation2020], kurz APA7, zitieren. Sie finden übersichtliche und anschauliche Anleitungen, Beispiele, etc. dazu online auf der [APA Style-Seite](https://apastyle.apa.org/) [-@americanpsychologicalassociation].
 
 ::: callout-important
-*Abweichend von den APA-Richtlinien erwarten wir, dass Sie in Kurzbelegen bei allen Arbeiten, Bachelor-, Master-, und Seminararbeiten, Seitenanzahlen angeben* (s. [Abschnitt @sec-indirect]). Ausgenommen hiervon sind Verweise auf einen gesamten Beitrag oder das ungefähre Thema.
+*Abweichend von den APA-Richtlinien erwarten wir, dass Sie in Kurzbelegen bei allen Arbeiten, Bachelor-, Master-, und Seminararbeiten, Seitenzahlen angeben* (s. [Abschnitt @sec-indirect]). Ausgenommen hiervon sind Verweise auf einen gesamten Beitrag oder das ungefähre Thema.
 :::
 
 Wir empfehlen, dass Sie ein Zitationsprogramm wie [Zotero](https://www.zotero.org/) (kostenlos, open source), Citavi oder Endnote nutzen. Bedenken Sie, dass diese Programme nur korrekt arbeiten, wenn Sie die richtigen Informationen in die vorgesehenen Felder eingeben und den APA7 Zitationsstil auswählen.
 
-Sprache: In Deutschen Arbeiten dürfen Sie grundsätzlich auf Deutsch oder Englisch zitieren, z. B. Hrsg. vs. Eds., oder S. 4 vs. p. 4. Wir empfehlen die englische APA7-Schreibweise aufgrund der weiter verbreiteten Integration in Zitationsprogrammen. In englischen Arbeiten sollten Sie englisch zitieren. Titel, Publikationsnamen, etc. werden nicht übersetzt.
+Sprache: In Deutschen Arbeiten dürfen Sie grundsätzlich auf Deutsch oder Englisch zitieren, z. B. Hrsg. vs. Eds., oder S. 4 vs. p. 4. Wir empfehlen die englische APA7-Schreibweise aufgrund der weiter verbreiteten Integration in Zitationsprogrammen. In englischen Arbeiten sollten Sie auf Englisch zitieren. Titel, Publikationsnamen, etc. werden nicht übersetzt.
 
 Im Folgenden finden Sie eine Kurzanleitung[^zitieren-1]. **Wichtig**: Sie können diesen Abschnitt als Nachschlagewerk nutzen, müssen ihn aber nicht vollständig durcharbeiten.
 
@@ -80,7 +80,7 @@ Roller-Spoo, J. (2020, October 24). *Von Hatern und Hetzern: Der Kampf gegen Has
 
 -   Wenn das Buch keine DOI besitzt und ein eBook einer wissenschaftlichen Datenbank ist, endet die Literaturangabe nach dem Verlagsnamen. Nennen Sie keine Datenbankinformationen. Die Literaturangabe gleicht dann der von Printausgaben.
 
--   Wenn ein Buch 20 Autor\*innen oder weniger besitzt, nennen Sie alle Autor\*innen. Wenn ein Buch 21 Autor\*innen oder mehr besitzt, nennen Sie die ersten 19 Autor\*innen, setzen Sie danach drei Punkte („...") und nennen Sie danach den Namen der/des letzten Autor\*in. Diese Regel gilt auch für Zeitschriftenartikel (s. [Abschnitt @sec-fachzeitschriften)]).
+-   Wenn ein Buch 20 Autor\*innen oder weniger besitzt, nennen Sie alle Autor\*innen. Wenn ein Buch 21 Autor\*innen oder mehr besitzt, nennen Sie die ersten 19 Autor\*innen, setzen Sie danach drei Punkte („...") und nennen Sie danach den Namen des letzten Autors oder der letzten Autorin. Diese Regel gilt auch für Zeitschriftenartikel (s. [Abschnitt @sec-fachzeitschriften)]).
 
 ### Monographien
 
@@ -194,7 +194,7 @@ Valkenburg, P. M., & Peter, J. (2017). Differential susceptibility to media effe
 
 -   Wenn der Zeitschriftenaufsatz eine Artikelnummer (z.B. e12345678) anstelle einer Seitenangabe hat, nennen Sie das Wort „Artikel" und folgend die Artikelnummer.
 
--   Wenn ein Zeitschriftenartikel 20 Autor\*innen oder weniger besitzt, nennen Sie alle Autor\*innen. Wenn ein Artikel 21 Autor\*innen oder mehr besitzt, nennen Sie die ersten 19 Autor\*innen, setzen Sie danach drei Punkte („...") und nennen Sie danach den Namen der/des letzten Autor\*in. Diese Regel gilt auch für Bücher (s. [Abschnitt @sec-bücher-und-ebooks]).
+-   Wenn ein Zeitschriftenartikel 20 Autor\*innen oder weniger besitzt, nennen Sie alle Autor\*innen. Wenn ein Artikel 21 Autor\*innen oder mehr besitzt, nennen Sie die ersten 19 Autor\*innen, setzen Sie danach drei Punkte („...") und nennen Sie danach den Namen des letzten Autors oder der letzten Autorin. Diese Regel gilt auch für Bücher (s. [Abschnitt @sec-bücher-und-ebooks]).
 
 ### Publizierte Zeitschriftenaufsätze in wissenschaftlichen Fachzeitschriften.
 
@@ -445,7 +445,7 @@ Brand, M. (Host), Kemper, H. (Host), & Rauner, M. (Host). (2020, Oktober 18). Ka
 
         -   Bocke, M., & Antzig. W. (1999)...
 
-    -   Gibt es Werke mit gleicher/m Erstautor\*in, aber unterschiedlichem Jahr und unterschiedlicher/m Zweitautor\*in, wird zunächst alphabetisch nach dem Anfangsbuchstaben des/r Zweitautor\*in und danach chronologisch) sortiert. Wenn auch der zweite Nachname gleich ist, wird nach dem dritten sortiert, usw.:
+    -   Gibt es Werke mit gleicher Erstautorin/gleichem Erstautor, aber unterschiedlichem Jahr und unterschiedlicher Zweitautorin/unterschiedlichem Zweitautor, wird zunächst alphabetisch nach dem Anfangsbuchstaben des Zweitautors oder der Zweitautorin (und danach chronologisch) sortiert. Wenn auch der zweite Nachname gleich ist, wird nach dem dritten sortiert, usw.:
 
         -   Bocke, M., & Antzig. W. (1999)...
 
@@ -465,11 +465,11 @@ Brand, M. (Host), Kemper, H. (Host), & Rauner, M. (Host). (2020, Oktober 18). Ka
 
 -   Kurzbelege bestehen aus den Nachnamen der Autor\*innen (bzw. des Autor\*innen-Äquivalents oder der Organisation), dem Erscheinungsjahr und ggf. der Seitenzahl.
 
--   Sammelbelege, d.h. mehrere (meist sinngemäße) Belege an einer bestimmten Textstelle werden durch ein Semikolon getrennt und alphabetisch sortiert.
+-   Sammelbelege, d. h. mehrere (meist sinngemäße) Belege an einer bestimmten Textstelle werden durch ein Semikolon getrennt und alphabetisch sortiert.
 
--   Nennen Sie keine akademischen Titel o.Ä. sowie Suffixe (z.B. Jr. für Junior) im Text.
+-   Nennen Sie keine akademischen Titel o. Ä. sowie Suffixe (z. B. Jr. für Junior) im Text.
 
--   Nutzen Sie nur das Jahr bei einem Kurzbeleg im Text, auch wenn im Literaturverzeichnis eine spezifischere Datumsangabe steht (z.B. Tag, Monat und Jahr).
+-   Nutzen Sie nur das Jahr bei einem Kurzbeleg im Text, auch wenn im Literaturverzeichnis eine spezifischere Datumsangabe steht (z. B. Tag, Monat und Jahr).
 
 -   Für Publikationen im Druck verwenden Sie "im Druck" anstelle der Datumsangabe. Nutzen Sie keine Bezeichnungen wie „in Bearbeitung". Wenn Sie einen Vorabdruck haben, geben Sie das Jahr des Vorabdrucks an.
 
@@ -501,7 +501,7 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
 #### Narrative Kurzbelege
 
--   Der/die Autor\*in erscheint im Fließtext und das Jahr wird direkt hinter dem Namen oder der Theorie eingeklammert:
+-   Der/Die Autor\*in erscheint im Fließtext und das Jahr wird direkt hinter dem Namen oder der Theorie eingeklammert:
 
     -   Festinger (1957) erklärt Medienwahl mit der Theorie der kognitiven Dissonanz.
 
@@ -537,7 +537,7 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
     -   Müller und Meier (2017b)
 
--   Wenn die Erstautor\*innen mehrerer Quellen denselben Nachnamen haben, aber verschiedene Initialen, nennen Sie die Initialen des/der Erstautor\*in in allen Kurzbelegen im Text, auch wenn sich das Publikationsjahr unterscheidet.
+-   Wenn die Erstautor\*innen mehrerer Quellen denselben Nachnamen haben, aber verschiedene Initialen, nennen Sie die Initialen des Erstautors oder der Erstautorin in allen Kurzbelegen im Text, auch wenn sich das Publikationsjahr unterscheidet.
 
     -   (J. M. Müller & Meier, 2017; T. Müller, 2014)
 
@@ -555,7 +555,7 @@ Kurzbelege im Text haben zwei Formate: eingeklammert (engl. parenthetical) und n
 
 #### Angabe von spezifischen Stellen im Text und indirekte Zitate
 
--   Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor\*in, Jahr und eine Information über die bestimmte Stelle. Dies können Seiten, Tabellen, Schaubilder, Ergänzungsmaterial, Fußnoten, Kapitel, Zeitstempel, o.Ä. sein, z.B.
+-   Um auf eine spezifische Stelle einer Quelle im Text zu verweisen, nennen Sie Autor\*in, Jahr und eine Information über die bestimmte Stelle. Dies können Seiten, Tabellen, Schaubilder, Ergänzungsmaterial, Fußnoten, Kapitel, Zeitstempel, o. Ä. sein, z. B.
 
     -   (Centers for Disease Control and Prevention, 2019, pp. 10-11)
 
@@ -593,7 +593,7 @@ Sie sollten bei allen allen Arbeiten - Bachelor-, Master-, und Seminararbeiten -
 
     -   „Aufgrund seiner hohen Verdichtung verlangt Freuds ‚Abriss der Psychoanalyse' dem Leser einiges an Konzentration und Aufnahmebereitschaft ab" (Auchter & Strauss, 2003, p. 14).
 
--   Bei Besonderheiten in wörtlichen Zitaten (z.B. Veränderungen zur grammatikalischen Anpassung, Hervorhebungen, etc.) nutzen Sie eine eckige Klammer, um eine Zusatzinformation zu platzieren. Beispielweise werden eigene Hervorhebungen (in etwa durch Kursivschrift) unmittelbar hinter dem hervorgehobenen Wort durch \[Hervorhebung hinzugefügt\] gekennzeichnet.
+-   Bei Besonderheiten in wörtlichen Zitaten (z. B. Veränderungen zur grammatikalischen Anpassung, Hervorhebungen, etc.) nutzen Sie eine eckige Klammer, um eine Zusatzinformation zu platzieren. Beispielweise werden eigene Hervorhebungen (in etwa durch Kursivschrift) unmittelbar hinter dem hervorgehobenen Wort durch \[Hervorhebung hinzugefügt\] gekennzeichnet.
 
     -   „There is no denying that open science practices require us to *increase* \[Hervorhebung hinzugefügt\] our efforts", behaupten Dienlin und Kolleg\*innen (2020, p. 19).
 
@@ -635,7 +635,7 @@ Manchmal sind einzelne Elemente der Quelle nicht bekannt oder fehlen. Dann müss
 | Autor\*in, Jahr/Datum und Titel | Beschreibung des Werkes in eckiger Klammer, „n.d." für „ohne Jahr" und Angabe der Quelle                      | \[Beschreibung des Werkes\]. (n.d.). Quelle.                 | (\[Beschreibung des Werkes\], n.d.) |
 +---------------------------------+---------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------+-------------------------------------+
 
-[Kursivsetzung wurde hier außen vorgelassen.]{.notes}
+[Kursivsetzung wurde hier außen vor gelassen.]{.notes}
 
 ## Übersetzungen
 
