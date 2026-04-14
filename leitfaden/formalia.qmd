@@ -4,11 +4,11 @@
 
 ### Allgemeine Hinweise
 
-Wir empfehlen in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerechte Sprache. Im Rahmen kommunikations- und sozialwissenschaftlicher Forschung beschäftigen wir uns mit Menschen mit einer Vielfalt von (Geschlechts-) Identitäten, daher ist es wichtig, diese Realität auch in wissenschaftlichen Arbeiten zu reflektieren und zu respektieren. Dies umfasst unter anderem:
+Wir empfehlen in wissenschaftlichen Arbeiten vorurteilsfreie, geschlechtergerechte Sprache. Im Rahmen kommunikations- und sozialwissenschaftlicher Forschung beschäftigen wir uns mit Menschen mit einer Vielfalt von (Geschlechts-)Identitäten, daher ist es wichtig, diese Realität auch in wissenschaftlichen Arbeiten zu reflektieren und zu respektieren. Dies umfasst unter anderem:
 
 -   Geschlechtergerechte Sprache, z. B. *Autor\*innen* statt Autoren
 
--   Vorurteilsfreie Sprache, z. B. sollten keine Adjektive als Nomen für die Beschreibung von Personen(-gruppen) verwendet werden.
+-   Vorurteilsfreie Sprache, z. B. sollten keine Adjektive als Nomen für die Beschreibung von Personen(-gruppen) verwendet werden
 
 -   Hierarchisieren Sie keine Unterschiede zwischen Menschen, z. B. indem Sie gesellschaftlich dominante Gruppen in einer Abbildung über anderen Gruppen positionieren
 
@@ -59,7 +59,9 @@ Das Deckblatt sollte folgende Informationen enthalten
 Sie benötigen außerdem:
 
 1.  Ein nummeriertes **Inhaltsverzeichnis** mit Seitenzahlen sowie
+
 2.  **Abbildungs-**, und/oder
+
 3.  **Tabellenverzeichnisse**, wenn Sie Abbildungen und/oder Tabellen in Ihrer Arbeit verwenden. Textverarbeitungsprogramme wie Microsoft Word können diese automatisch erstellen.
 
 Ein Abkürzungsverzeichnis ist nicht notwendig. Führen Sie stattdessen zentrale Abkürzungen im Text ein und verzichten Sie ansonsten auf nicht geläufige Abkürzungen.
