@@ -37,7 +37,7 @@ Im Exposé erläutern Sie kurz in schriftlicher Form, in welchem Problemzusammen
 
 -   **Gliederungsentwurf der Kapitel der Arbeit:** Nicht als Fließtext, sondern bereits formatiert wie ein Inhaltsverzeichnis, im Exposé maximal bis Gliederungsebene 2 
 
--   **Literaturverzeichnis:** Bitte [zitieren](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/zitieren.html) Sie im gesamten Exposé nach APA7 und fügen Sie ein Literaturverzeichnis an (zählt nicht in die Zeichenbeschränkung). ***Wichtig***: Abweichend von den APA-Richtlinien erwarten wir im Exposé sowie in allen schriftlichen Arbeiten, dass Sie in Kurzbelegen – sowohl für wörtliche als auch indirekte Zitate/Paraphrasen – immer die Seitenanzahlen mitangeben. 
+-   **Literaturverzeichnis:** Bitte [zitieren](https://faucommsci.github.io/wissenschaftliches_arbeiten/leitfaden_book/zitieren.html) Sie im gesamten Exposé nach APA7 und fügen Sie ein Literaturverzeichnis an (zählt nicht in die Zeichenbeschränkung). ***Wichtig***: Abweichend von den APA-Richtlinien erwarten wir im Exposé sowie in allen schriftlichen Arbeiten, dass Sie in Kurzbelegen – sowohl für wörtliche als auch für indirekte Zitate/Paraphrasen – immer die Seitenzahlen mitangeben. 
 
 -   **Grober Arbeits- und Zeitplan:** Bitte am Zeitplan auf der [Webseite des Lehrstuhls](https://www.kowi.rw.fau.de/studium/abschlussarbeiten/) orientieren. 
 
