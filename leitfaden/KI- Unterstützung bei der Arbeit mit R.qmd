@@ -1,4 +1,4 @@
-# Arbeit mit R
+# Arbeiten mit R
 
 ## Hilfreiche Ressourcen zum Arbeiten mit R
 
@@ -93,7 +93,7 @@ Voraussetzungen:
     2.  Wählen Sie unter „Select your role in education“ die Option "Student" aus
     3.  Geben Sie im Dialogfeld „Application“ den Namen der Bildungseinrichtung ein
     4.  Wählen Sie bei Bedarf die E-Mail-Adresse aus, die für die Bildungseinrichtung verwendet wird, oder fügen Sie diese hinzu
-    5.  Klicken Sie auf "Weiter". Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Stuudierendenausweises
+    5.  Klicken Sie auf "Weiter". Es folgt die Aufforderung einen Nachweis des akademischen Status hochzuladen, beispielsweise ein Bild des Studierendenausweises
     6.  Überprüfen Sie die Details der Bewerbung und klicken Sie dann auf "Meine Bewerbung bearbeiten"
     7.  Die Bearbeitungszeit beträgt einige Tage
 
@@ -157,7 +157,7 @@ ChatGPT kann einfache Code-Chunks erzeugen, wie z. B. Vorschläge zur Berechnung
 
 ### [Hawki](https://www.intern.fau.de/informationstechnik-it/laufende-projekte/hawki-schnittstelle-fuer-ki-sprachmodelle/)
 
-= [Open Source- Schnittstelle zu KI-Sprachmodellen wie ChatGPT/ Meta LLaMA / Qwen für alle FAU Angehörigen](https://www.fau.de/2024/09/news/studium/chatgpt-und-co-fuer-alle-fau-mitglieder/)
+= [Open Source-Schnittstelle zu KI-Sprachmodellen wie ChatGPT/ Meta LLaMA/ Qwen für alle FAU Angehörigen](https://www.fau.de/2024/09/news/studium/chatgpt-und-co-fuer-alle-fau-mitglieder/)
 
 Zugriff über:
 
@@ -165,7 +165,7 @@ Zugriff über:
 
 -   Anmeldung mit IdM-Kennung: ein eigener Account bei nutzbaren KI-Anwendungen ist nicht notwendig
 
--   Kostenlos: die Kosten werden von FAU getragen
+-   Kostenlos: die Kosten werden von der FAU getragen
 
 -   Höhere Anonymität: Anfragen werden mit globaler FAU-Kennung gestellt
 
@@ -179,7 +179,7 @@ Anwendung:
 
 #### Anwendungsbeispiel
 
-Bei Hawki kann man generell immer zwischen den verschiedenen verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek oder Qwen, wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden und reichen vom Erlernen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es weiter in Bereiche wie „Datenanalyse“ unterteilt ist.
+Bei Hawki kann man generell immer zwischen den verschiedenen verwendbaren Modellen, wie z.B. ChatGPT 4, DeepSeek oder Qwen wählen und auch wechseln. Diese können für alle oben genannten Anwendungen genutzt werden und reichen vom Erlernen von Prompts in Lernräumen bis hin zu Chaträumen. Bei den Lernräumen gibt es die Unterkategorien „Wissenschaftliches Arbeiten“, „Organisation“ und „Kreativität“. „Wissenschaftliches Arbeiten“ ist für die Arbeit mit R interessant, da es in weitere Bereiche wie „Datenanalyse“ unterteilt ist.
 
 Ein beispielhafter Prompt hierfür lautet: „Ich habe kürzlich eine umfangreiche Datensammlung durchgeführt und suche nun nach Unterstützung bei der Analyse der Daten. Die Datensammlung umfasst \[Beschreibung der Daten\], und ich möchte \[Ziel der Analyse\]. Könntest du mir bitte dabei helfen, die Daten zu analysieren und mir Ratschläge zur Interpretation der Ergebnisse geben?“
 
@@ -199,4 +199,4 @@ Unverzichtbar bleibt die Überprüfung der Outputs!
 
 ### Rechtliche Hinweise der FAU
 
-[Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u.A. zu Zitierpflichtigkeit sowie erlaubten Hilfsmitteln in Prüfungen, zu finden.
+[Hier](https://digitale-lehre.fau.de/digital-lehren/umsetzen/kuenstliche-intelligenz-in-der-lehre/) sind die rechtlichen Hinweise der FAU, u. a. zu Zitierpflichtigkeit sowie erlaubten Hilfsmitteln in Prüfungen, zu finden.
