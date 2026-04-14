@@ -1,6 +1,6 @@
 # Inhalte einer wissenschaftlichen Arbeit
 
-Wissenschaftliche Arbeiten können unterschiedliche Formate einnehmen. Die Struktur ist vom Gegenstand abhängig. Dennoch gibt es zentrale Abschnitte, die in sich in vielen Wissenschaftlichen Arbeiten wiederfinden. Diese wird in diesem Abschnitt zur Orientierung dargestellt. Bitte weichen Sie davon ab, sofern für Ihre Arbeit sinnvoll.
+Wissenschaftliche Arbeiten können unterschiedliche Formate einnehmen. Die Struktur ist vom Gegenstand abhängig. Dennoch gibt es zentrale Abschnitte, die sich in vielen wissenschaftlichen Arbeiten wiederfinden. Diese werden in diesem Abschnitt zur Orientierung dargestellt. Bitte weichen Sie davon ab, sofern für Ihre Arbeit sinnvoll.
 
 ## Gliederung
 
@@ -80,7 +80,7 @@ Bei narrativen Literaturüberblicken ist kein separater Methodenteil erforderlic
 
 Für systematische Literaturüberblicke sollte eine **Darstellung des Vorgehens**, z. B. Such-, Einschluss- und Ausschlusskriterien, vorhanden sein.  
 
-Verwendete Materialien, z. B. Fragebögen, Codebücher oder Experimentalstimuli, gehören in den Anhang.
+Verwendete Materialien, z. B. Fragebögen, Codebücher oder Experimentalstimuli gehören in den Anhang.
 
 **Umfang**: ca. 0-30%
 
@@ -114,6 +114,6 @@ Die Diskussion fügt alle zentralen Teile der Arbeit zusammen und bildet den Abs
 
 ## Anhang
 
-In den Anhang gehören alle zusätzlichen Informationen, Materialien, die zur Nachvollziehbarkeit oder zum Verständnis beitragen. Auch zusätzliche Informationen, wie weitere Analysen, Transkripte von Interviews, gehören hier hinein.
+In den Anhang gehören alle zusätzlichen Informationen und Materialien, die zur Nachvollziehbarkeit oder zum Verständnis beitragen. Auch zusätzliche Informationen wie weitere Analysen oder Transkripte von Interviews gehören hier hinein.
 
 **Umfang**: Der Anhang zählt nicht in den Wortumfang.
