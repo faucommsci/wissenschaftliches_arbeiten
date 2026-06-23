@@ -3,3 +3,5 @@
 templates/~$tle_page_template.dotx
 .Rhistory
 leitfaden/nul
+
+**/*.quarto_ipynb
