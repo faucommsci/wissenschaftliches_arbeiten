@@ -32,7 +32,10 @@ Das Verwenden des zwar grammatikalisch korrekten, aber nicht inklusiven generisc
 
 Ihre wissenschaftliche Arbeit sollte ein Deckblatt haben (für ein Beispiel s. @fig-vorlage_deckblatt)
 
-![Beispieldeckblatt \| [[Beispielvorlage als .docx-Datei herunterladen](templates/title_page_template.docx)]{.download}](img/title_page_template){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+![Beispieldeckblatt für Abschlussarbeiten \| [[Beispielvorlage als .docx-Datei herunterladen](templates/title_page_abschlussarbeit.docx)]{.download}](img/title_page_abschlussarbeit.png){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+
+![Beispieldeckblatt für Seminararbeiten \| [[Beispielvorlage als .docx-Datei herunterladen](templates/title_page_seminar.docx)]{.download}](img/title_page_seminar.png){#fig-vorlage_deckblatt fig-align="center" width="66%"}
+
 
 Das Deckblatt sollte folgende Informationen enthalten
 
